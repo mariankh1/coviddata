@@ -1,6 +1,6 @@
 [
     {
-        "updated": 1587149876066,
+        "updated": 1587150159695,
         "country": "Afghanistan",
         "cases": 906,
         "todayCases": 66,
@@ -12,10 +12,11 @@
         "casesPerOneMillion": 23,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876076,
+        "updated": 1587150159707,
         "country": "Albania",
         "cases": 539,
         "todayCases": 21,
@@ -27,10 +28,11 @@
         "casesPerOneMillion": 187,
         "deathsPerOneMillion": 9,
         "tests": 5080,
-        "testsPerOneMillion": 1765
+        "testsPerOneMillion": 1765,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876047,
+        "updated": 1587150159668,
         "country": "Algeria",
         "cases": 2418,
         "todayCases": 150,
@@ -42,10 +44,11 @@
         "casesPerOneMillion": 55,
         "deathsPerOneMillion": 8,
         "tests": 3359,
-        "testsPerOneMillion": 77
+        "testsPerOneMillion": 77,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876071,
+        "updated": 1587150159701,
         "country": "Andorra",
         "cases": 696,
         "todayCases": 23,
@@ -57,10 +60,11 @@
         "casesPerOneMillion": 9008,
         "deathsPerOneMillion": 453,
         "tests": 1673,
-        "testsPerOneMillion": 21653
+        "testsPerOneMillion": 21653,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876150,
+        "updated": 1587150159781,
         "country": "Angola",
         "cases": 19,
         "todayCases": 0,
@@ -72,10 +76,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876175,
+        "updated": 1587150159822,
         "country": "Anguilla",
         "cases": 3,
         "todayCases": 0,
@@ -87,10 +92,11 @@
         "casesPerOneMillion": 200,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876149,
+        "updated": 1587150159780,
         "country": "Antigua and Barbuda",
         "cases": 23,
         "todayCases": 0,
@@ -102,10 +108,11 @@
         "casesPerOneMillion": 235,
         "deathsPerOneMillion": 31,
         "tests": 73,
-        "testsPerOneMillion": 745
+        "testsPerOneMillion": 745,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876045,
+        "updated": 1587150159667,
         "country": "Argentina",
         "cases": 2669,
         "todayCases": 0,
@@ -117,10 +124,11 @@
         "casesPerOneMillion": 59,
         "deathsPerOneMillion": 3,
         "tests": 28650,
-        "testsPerOneMillion": 634
+        "testsPerOneMillion": 634,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876059,
+        "updated": 1587150159686,
         "country": "Armenia",
         "cases": 1201,
         "todayCases": 42,
@@ -132,10 +140,11 @@
         "casesPerOneMillion": 405,
         "deathsPerOneMillion": 6,
         "tests": 10793,
-        "testsPerOneMillion": 3642
+        "testsPerOneMillion": 3642,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876115,
+        "updated": 1587150159745,
         "country": "Aruba",
         "cases": 96,
         "todayCases": 1,
@@ -147,10 +156,11 @@
         "casesPerOneMillion": 899,
         "deathsPerOneMillion": 19,
         "tests": 1298,
-        "testsPerOneMillion": 12157
+        "testsPerOneMillion": 12157,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876022,
+        "updated": 1587150159632,
         "country": "Australia",
         "cases": 6526,
         "todayCases": 58,
@@ -162,10 +172,11 @@
         "casesPerOneMillion": 256,
         "deathsPerOneMillion": 3,
         "tests": 391530,
-        "testsPerOneMillion": 15354
+        "testsPerOneMillion": 15354,
+        "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1587149876006,
+        "updated": 1587150159609,
         "country": "Austria",
         "cases": 14586,
         "todayCases": 110,
@@ -177,10 +188,11 @@
         "casesPerOneMillion": 1620,
         "deathsPerOneMillion": 46,
         "tests": 169272,
-        "testsPerOneMillion": 18795
+        "testsPerOneMillion": 18795,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876057,
+        "updated": 1587150159682,
         "country": "Azerbaijan",
         "cases": 1340,
         "todayCases": 57,
@@ -192,10 +204,11 @@
         "casesPerOneMillion": 132,
         "deathsPerOneMillion": 1,
         "tests": 86607,
-        "testsPerOneMillion": 8542
+        "testsPerOneMillion": 8542,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876135,
+        "updated": 1587150159762,
         "country": "Bahamas",
         "cases": 53,
         "todayCases": 0,
@@ -207,10 +220,11 @@
         "casesPerOneMillion": 135,
         "deathsPerOneMillion": 20,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876051,
+        "updated": 1587150159675,
         "country": "Bahrain",
         "cases": 1740,
         "todayCases": 40,
@@ -222,10 +236,11 @@
         "casesPerOneMillion": 1023,
         "deathsPerOneMillion": 4,
         "tests": 79564,
-        "testsPerOneMillion": 46759
+        "testsPerOneMillion": 46759,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876049,
+        "updated": 1587150159671,
         "country": "Bangladesh",
         "cases": 1838,
         "todayCases": 266,
@@ -237,10 +252,11 @@
         "casesPerOneMillion": 11,
         "deathsPerOneMillion": 0,
         "tests": 19193,
-        "testsPerOneMillion": 117
+        "testsPerOneMillion": 117,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876128,
+        "updated": 1587150159757,
         "country": "Barbados",
         "cases": 75,
         "todayCases": 0,
@@ -252,10 +268,11 @@
         "casesPerOneMillion": 261,
         "deathsPerOneMillion": 17,
         "tests": 900,
-        "testsPerOneMillion": 3132
+        "testsPerOneMillion": 3132,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876037,
+        "updated": 1587150159649,
         "country": "Belarus",
         "cases": 4779,
         "todayCases": 575,
@@ -267,10 +284,11 @@
         "casesPerOneMillion": 506,
         "deathsPerOneMillion": 4,
         "tests": 86813,
-        "testsPerOneMillion": 9187
+        "testsPerOneMillion": 9187,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149875999,
+        "updated": 1587150159593,
         "country": "Belgium",
         "cases": 36138,
         "todayCases": 1329,
@@ -282,10 +300,11 @@
         "casesPerOneMillion": 3118,
         "deathsPerOneMillion": 445,
         "tests": 139387,
-        "testsPerOneMillion": 12027
+        "testsPerOneMillion": 12027,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876152,
+        "updated": 1587150159784,
         "country": "Belize",
         "cases": 18,
         "todayCases": 0,
@@ -297,10 +316,11 @@
         "casesPerOneMillion": 45,
         "deathsPerOneMillion": 5,
         "tests": 651,
-        "testsPerOneMillion": 1637
+        "testsPerOneMillion": 1637,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876143,
+        "updated": 1587150159772,
         "country": "Benin",
         "cases": 35,
         "todayCases": 0,
@@ -312,10 +332,11 @@
         "casesPerOneMillion": 3,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876122,
+        "updated": 1587150159753,
         "country": "Bermuda",
         "cases": 83,
         "todayCases": 2,
@@ -327,10 +348,11 @@
         "casesPerOneMillion": 1333,
         "deathsPerOneMillion": 80,
         "tests": 552,
-        "testsPerOneMillion": 8863
+        "testsPerOneMillion": 8863,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876172,
+        "updated": 1587150159817,
         "country": "Bhutan",
         "cases": 5,
         "todayCases": 0,
@@ -342,10 +364,11 @@
         "casesPerOneMillion": 6,
         "deathsPerOneMillion": 0,
         "tests": 7913,
-        "testsPerOneMillion": 10255
+        "testsPerOneMillion": 10255,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876080,
+        "updated": 1587150159712,
         "country": "Bolivia",
         "cases": 465,
         "todayCases": 24,
@@ -357,10 +380,11 @@
         "casesPerOneMillion": 40,
         "deathsPerOneMillion": 3,
         "tests": 2185,
-        "testsPerOneMillion": 187
+        "testsPerOneMillion": 187,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876058,
+        "updated": 1587150159685,
         "country": "Bosnia",
         "cases": 1211,
         "todayCases": 44,
@@ -372,10 +396,11 @@
         "casesPerOneMillion": 369,
         "deathsPerOneMillion": 14,
         "tests": 15751,
-        "testsPerOneMillion": 4801
+        "testsPerOneMillion": 4801,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876158,
+        "updated": 1587150159791,
         "country": "Botswana",
         "cases": 15,
         "todayCases": 0,
@@ -387,10 +412,11 @@
         "casesPerOneMillion": 6,
         "deathsPerOneMillion": 0,
         "tests": 3602,
-        "testsPerOneMillion": 1532
+        "testsPerOneMillion": 1532,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876000,
+        "updated": 1587150159599,
         "country": "Brazil",
         "cases": 33682,
         "todayCases": 2999,
@@ -402,10 +428,11 @@
         "casesPerOneMillion": 158,
         "deathsPerOneMillion": 10,
         "tests": 62985,
-        "testsPerOneMillion": 296
+        "testsPerOneMillion": 296,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876173,
+        "updated": 1587150159818,
         "country": "British Virgin Islands",
         "cases": 4,
         "todayCases": 1,
@@ -417,10 +444,11 @@
         "casesPerOneMillion": 132,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876105,
+        "updated": 1587150159737,
         "country": "Brunei",
         "cases": 136,
         "todayCases": 0,
@@ -432,10 +460,11 @@
         "casesPerOneMillion": 311,
         "deathsPerOneMillion": 2,
         "tests": 11089,
-        "testsPerOneMillion": 25348
+        "testsPerOneMillion": 25348,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876067,
+        "updated": 1587150159696,
         "country": "Bulgaria",
         "cases": 846,
         "todayCases": 46,
@@ -447,10 +476,11 @@
         "casesPerOneMillion": 122,
         "deathsPerOneMillion": 6,
         "tests": 18502,
-        "testsPerOneMillion": 2663
+        "testsPerOneMillion": 2663,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876076,
+        "updated": 1587150159706,
         "country": "Burkina Faso",
         "cases": 546,
         "todayCases": 0,
@@ -462,10 +492,11 @@
         "casesPerOneMillion": 26,
         "deathsPerOneMillion": 2,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876171,
+        "updated": 1587150159811,
         "country": "Burundi",
         "cases": 5,
         "todayCases": 0,
@@ -477,10 +508,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 80,
-        "testsPerOneMillion": 7
+        "testsPerOneMillion": 7,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876131,
+        "updated": 1587150159759,
         "country": "Cabo Verde",
         "cases": 56,
         "todayCases": 0,
@@ -492,10 +524,11 @@
         "casesPerOneMillion": 101,
         "deathsPerOneMillion": 2,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876106,
+        "updated": 1587150159738,
         "country": "Cambodia",
         "cases": 122,
         "todayCases": 0,
@@ -507,10 +540,11 @@
         "casesPerOneMillion": 7,
         "deathsPerOneMillion": 0,
         "tests": 5768,
-        "testsPerOneMillion": 345
+        "testsPerOneMillion": 345,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876064,
+        "updated": 1587150159692,
         "country": "Cameroon",
         "cases": 996,
         "todayCases": 0,
@@ -522,10 +556,11 @@
         "casesPerOneMillion": 38,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876002,
+        "updated": 1587150159602,
         "country": "Canada",
         "cases": 31642,
         "todayCases": 1536,
@@ -537,10 +572,11 @@
         "casesPerOneMillion": 838,
         "deathsPerOneMillion": 35,
         "tests": 503003,
-        "testsPerOneMillion": 13327
+        "testsPerOneMillion": 13327,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876175,
+        "updated": 1587150159823,
         "country": "Caribbean Netherlands",
         "cases": 3,
         "todayCases": 0,
@@ -552,10 +588,11 @@
         "casesPerOneMillion": 114,
         "deathsPerOneMillion": 0,
         "tests": 10,
-        "testsPerOneMillion": 381
+        "testsPerOneMillion": 381,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876129,
+        "updated": 1587150159757,
         "country": "Cayman Islands",
         "cases": 61,
         "todayCases": 1,
@@ -567,10 +604,11 @@
         "casesPerOneMillion": 928,
         "deathsPerOneMillion": 15,
         "tests": 690,
-        "testsPerOneMillion": 10499
+        "testsPerOneMillion": 10499,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876161,
+        "updated": 1587150159795,
         "country": "Central African Republic",
         "cases": 12,
         "todayCases": 0,
@@ -582,10 +620,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876147,
+        "updated": 1587150159778,
         "country": "Chad",
         "cases": 27,
         "todayCases": 0,
@@ -597,10 +636,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876079,
+        "updated": 1587150159712,
         "country": "Channel Islands",
         "cases": 470,
         "todayCases": 13,
@@ -612,10 +652,11 @@
         "casesPerOneMillion": 2703,
         "deathsPerOneMillion": 115,
         "tests": 3320,
-        "testsPerOneMillion": 19095
+        "testsPerOneMillion": 19095,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876013,
+        "updated": 1587150159620,
         "country": "Chile",
         "cases": 9252,
         "todayCases": 445,
@@ -627,10 +668,11 @@
         "casesPerOneMillion": 484,
         "deathsPerOneMillion": 6,
         "tests": 103873,
-        "testsPerOneMillion": 5434
+        "testsPerOneMillion": 5434,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876177,
+        "updated": 1587150159825,
         "country": "China",
         "cases": 82692,
         "todayCases": 351,
@@ -642,10 +684,11 @@
         "casesPerOneMillion": 57,
         "deathsPerOneMillion": 3,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876042,
+        "updated": 1587150159656,
         "country": "Colombia",
         "cases": 3233,
         "todayCases": 0,
@@ -657,10 +700,11 @@
         "casesPerOneMillion": 64,
         "deathsPerOneMillion": 3,
         "tests": 52085,
-        "testsPerOneMillion": 1024
+        "testsPerOneMillion": 1024,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876103,
+        "updated": 1587150159734,
         "country": "Congo",
         "cases": 143,
         "todayCases": 26,
@@ -672,10 +716,11 @@
         "casesPerOneMillion": 26,
         "deathsPerOneMillion": 1,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876074,
+        "updated": 1587150159704,
         "country": "Costa Rica",
         "cases": 649,
         "todayCases": 7,
@@ -687,10 +732,11 @@
         "casesPerOneMillion": 127,
         "deathsPerOneMillion": 0,
         "tests": 9752,
-        "testsPerOneMillion": 1914
+        "testsPerOneMillion": 1914,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876049,
+        "updated": 1587150159672,
         "country": "Croatia",
         "cases": 1814,
         "todayCases": 23,
@@ -702,10 +748,11 @@
         "casesPerOneMillion": 442,
         "deathsPerOneMillion": 9,
         "tests": 20953,
-        "testsPerOneMillion": 5104
+        "testsPerOneMillion": 5104,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876066,
+        "updated": 1587150159694,
         "country": "Cuba",
         "cases": 923,
         "todayCases": 61,
@@ -717,10 +764,11 @@
         "casesPerOneMillion": 81,
         "deathsPerOneMillion": 3,
         "tests": 23317,
-        "testsPerOneMillion": 2059
+        "testsPerOneMillion": 2059,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876159,
+        "updated": 1587150159793,
         "country": "Cura\u00e7ao",
         "cases": 14,
         "todayCases": 0,
@@ -732,10 +780,11 @@
         "casesPerOneMillion": 85,
         "deathsPerOneMillion": 6,
         "tests": 230,
-        "testsPerOneMillion": 1402
+        "testsPerOneMillion": 1402,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876069,
+        "updated": 1587150159698,
         "country": "Cyprus",
         "cases": 750,
         "todayCases": 15,
@@ -747,10 +796,11 @@
         "casesPerOneMillion": 621,
         "deathsPerOneMillion": 10,
         "tests": 29075,
-        "testsPerOneMillion": 24081
+        "testsPerOneMillion": 24081,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876022,
+        "updated": 1587150159633,
         "country": "Czechia",
         "cases": 6499,
         "todayCases": 66,
@@ -762,10 +812,11 @@
         "casesPerOneMillion": 607,
         "deathsPerOneMillion": 16,
         "tests": 154307,
-        "testsPerOneMillion": 14409
+        "testsPerOneMillion": 14409,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876071,
+        "updated": 1587150159701,
         "country": "C\u00f4te d'Ivoire",
         "cases": 688,
         "todayCases": 34,
@@ -777,10 +828,11 @@
         "casesPerOneMillion": 26,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876092,
+        "updated": 1587150159724,
         "country": "DRC",
         "cases": 287,
         "todayCases": 20,
@@ -792,10 +844,11 @@
         "casesPerOneMillion": 3,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876018,
+        "updated": 1587150159628,
         "country": "Denmark",
         "cases": 7073,
         "todayCases": 194,
@@ -807,10 +860,11 @@
         "casesPerOneMillion": 1221,
         "deathsPerOneMillion": 58,
         "tests": 87024,
-        "testsPerOneMillion": 15024
+        "testsPerOneMillion": 15024,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876070,
+        "updated": 1587150159700,
         "country": "Diamond Princess",
         "cases": 712,
         "todayCases": 0,
@@ -822,10 +876,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": ""
     },
     {
-        "updated": 1587149876069,
+        "updated": 1587150159699,
         "country": "Djibouti",
         "cases": 732,
         "todayCases": 141,
@@ -837,10 +892,11 @@
         "casesPerOneMillion": 741,
         "deathsPerOneMillion": 2,
         "tests": 7486,
-        "testsPerOneMillion": 7577
+        "testsPerOneMillion": 7577,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876156,
+        "updated": 1587150159790,
         "country": "Dominica",
         "cases": 16,
         "todayCases": 0,
@@ -852,10 +908,11 @@
         "casesPerOneMillion": 222,
         "deathsPerOneMillion": 0,
         "tests": 345,
-        "testsPerOneMillion": 4793
+        "testsPerOneMillion": 4793,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876039,
+        "updated": 1587150159652,
         "country": "Dominican Republic",
         "cases": 4126,
         "todayCases": 371,
@@ -867,10 +924,11 @@
         "casesPerOneMillion": 380,
         "deathsPerOneMillion": 18,
         "tests": 13282,
-        "testsPerOneMillion": 1224
+        "testsPerOneMillion": 1224,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876015,
+        "updated": 1587150159623,
         "country": "Ecuador",
         "cases": 8450,
         "todayCases": 225,
@@ -882,10 +940,11 @@
         "casesPerOneMillion": 479,
         "deathsPerOneMillion": 24,
         "tests": 27868,
-        "testsPerOneMillion": 1580
+        "testsPerOneMillion": 1580,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876043,
+        "updated": 1587150159659,
         "country": "Egypt",
         "cases": 2844,
         "todayCases": 171,
@@ -897,10 +956,11 @@
         "casesPerOneMillion": 28,
         "deathsPerOneMillion": 2,
         "tests": 25000,
-        "testsPerOneMillion": 244
+        "testsPerOneMillion": 244,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876099,
+        "updated": 1587150159731,
         "country": "El Salvador",
         "cases": 177,
         "todayCases": 13,
@@ -912,10 +972,11 @@
         "casesPerOneMillion": 27,
         "deathsPerOneMillion": 1,
         "tests": 9267,
-        "testsPerOneMillion": 1429
+        "testsPerOneMillion": 1429,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876125,
+        "updated": 1587150159755,
         "country": "Equatorial Guinea",
         "cases": 79,
         "todayCases": 28,
@@ -927,10 +988,11 @@
         "casesPerOneMillion": 56,
         "deathsPerOneMillion": 0,
         "tests": 854,
-        "testsPerOneMillion": 609
+        "testsPerOneMillion": 609,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876144,
+        "updated": 1587150159773,
         "country": "Eritrea",
         "cases": 35,
         "todayCases": 0,
@@ -942,10 +1004,11 @@
         "casesPerOneMillion": 10,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876054,
+        "updated": 1587150159678,
         "country": "Estonia",
         "cases": 1459,
         "todayCases": 25,
@@ -957,10 +1020,11 @@
         "casesPerOneMillion": 1100,
         "deathsPerOneMillion": 29,
         "tests": 37594,
-        "testsPerOneMillion": 28340
+        "testsPerOneMillion": 28340,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876114,
+        "updated": 1587150159744,
         "country": "Ethiopia",
         "cases": 96,
         "todayCases": 4,
@@ -972,10 +1036,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 6231,
-        "testsPerOneMillion": 54
+        "testsPerOneMillion": 54,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876163,
+        "updated": 1587150159797,
         "country": "Falkland Islands (Malvinas)",
         "cases": 11,
         "todayCases": 0,
@@ -987,10 +1052,11 @@
         "casesPerOneMillion": 3161,
         "deathsPerOneMillion": 0,
         "tests": 137,
-        "testsPerOneMillion": 39368
+        "testsPerOneMillion": 39368,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876098,
+        "updated": 1587150159730,
         "country": "Faroe Islands",
         "cases": 184,
         "todayCases": 0,
@@ -1002,10 +1068,11 @@
         "casesPerOneMillion": 3766,
         "deathsPerOneMillion": 0,
         "tests": 5846,
-        "testsPerOneMillion": 119641
+        "testsPerOneMillion": 119641,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876155,
+        "updated": 1587150159788,
         "country": "Fiji",
         "cases": 17,
         "todayCases": 0,
@@ -1017,10 +1084,11 @@
         "casesPerOneMillion": 19,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1587149876041,
+        "updated": 1587150159655,
         "country": "Finland",
         "cases": 3489,
         "todayCases": 120,
@@ -1032,10 +1100,11 @@
         "casesPerOneMillion": 630,
         "deathsPerOneMillion": 15,
         "tests": 52500,
-        "testsPerOneMillion": 9475
+        "testsPerOneMillion": 9475,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149875994,
+        "updated": 1587150159586,
         "country": "France",
         "cases": 147969,
         "todayCases": 1909,
@@ -1047,10 +1116,11 @@
         "casesPerOneMillion": 2267,
         "deathsPerOneMillion": 286,
         "tests": 463662,
-        "testsPerOneMillion": 7103
+        "testsPerOneMillion": 7103,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876116,
+        "updated": 1587150159746,
         "country": "French Guiana",
         "cases": 96,
         "todayCases": 10,
@@ -1062,10 +1132,11 @@
         "casesPerOneMillion": 321,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876132,
+        "updated": 1587150159760,
         "country": "French Polynesia",
         "cases": 55,
         "todayCases": 0,
@@ -1077,10 +1148,11 @@
         "casesPerOneMillion": 196,
         "deathsPerOneMillion": 0,
         "tests": 920,
-        "testsPerOneMillion": 3275
+        "testsPerOneMillion": 3275,
+        "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1587149876118,
+        "updated": 1587150159747,
         "country": "Gabon",
         "cases": 95,
         "todayCases": 15,
@@ -1092,10 +1164,11 @@
         "casesPerOneMillion": 43,
         "deathsPerOneMillion": 0,
         "tests": 572,
-        "testsPerOneMillion": 257
+        "testsPerOneMillion": 257,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876167,
+        "updated": 1587150159801,
         "country": "Gambia",
         "cases": 9,
         "todayCases": 0,
@@ -1107,10 +1180,11 @@
         "casesPerOneMillion": 4,
         "deathsPerOneMillion": 0,
         "tests": 281,
-        "testsPerOneMillion": 116
+        "testsPerOneMillion": 116,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876088,
+        "updated": 1587150159721,
         "country": "Georgia",
         "cases": 370,
         "todayCases": 22,
@@ -1122,10 +1196,11 @@
         "casesPerOneMillion": 93,
         "deathsPerOneMillion": 0,
         "tests": 5027,
-        "testsPerOneMillion": 1260
+        "testsPerOneMillion": 1260,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149875996,
+        "updated": 1587150159587,
         "country": "Germany",
         "cases": 139134,
         "todayCases": 1436,
@@ -1137,10 +1212,11 @@
         "casesPerOneMillion": 1661,
         "deathsPerOneMillion": 50,
         "tests": 1728357,
-        "testsPerOneMillion": 20629
+        "testsPerOneMillion": 20629,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876074,
+        "updated": 1587150159705,
         "country": "Ghana",
         "cases": 641,
         "todayCases": 0,
@@ -1152,10 +1228,11 @@
         "casesPerOneMillion": 21,
         "deathsPerOneMillion": 0,
         "tests": 50719,
-        "testsPerOneMillion": 1632
+        "testsPerOneMillion": 1632,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876106,
+        "updated": 1587150159738,
         "country": "Gibraltar",
         "cases": 132,
         "todayCases": 1,
@@ -1167,10 +1244,11 @@
         "casesPerOneMillion": 3918,
         "deathsPerOneMillion": 0,
         "tests": 1760,
-        "testsPerOneMillion": 52239
+        "testsPerOneMillion": 52239,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876048,
+        "updated": 1587150159670,
         "country": "Greece",
         "cases": 2224,
         "todayCases": 17,
@@ -1182,10 +1260,11 @@
         "casesPerOneMillion": 213,
         "deathsPerOneMillion": 10,
         "tests": 50771,
-        "testsPerOneMillion": 4871
+        "testsPerOneMillion": 4871,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876164,
+        "updated": 1587150159798,
         "country": "Greenland",
         "cases": 11,
         "todayCases": 0,
@@ -1197,10 +1276,11 @@
         "casesPerOneMillion": 194,
         "deathsPerOneMillion": 0,
         "tests": 1019,
-        "testsPerOneMillion": 17950
+        "testsPerOneMillion": 17950,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876159,
+        "updated": 1587150159794,
         "country": "Grenada",
         "cases": 14,
         "todayCases": 0,
@@ -1212,10 +1292,11 @@
         "casesPerOneMillion": 124,
         "deathsPerOneMillion": 0,
         "tests": 92,
-        "testsPerOneMillion": 818
+        "testsPerOneMillion": 818,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876102,
+        "updated": 1587150159734,
         "country": "Guadeloupe",
         "cases": 145,
         "todayCases": 0,
@@ -1227,10 +1308,11 @@
         "casesPerOneMillion": 362,
         "deathsPerOneMillion": 20,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876096,
+        "updated": 1587150159728,
         "country": "Guatemala",
         "cases": 214,
         "todayCases": 18,
@@ -1242,10 +1324,11 @@
         "casesPerOneMillion": 12,
         "deathsPerOneMillion": 0,
         "tests": 7200,
-        "testsPerOneMillion": 402
+        "testsPerOneMillion": 402,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876079,
+        "updated": 1587150159711,
         "country": "Guinea",
         "cases": 477,
         "todayCases": 39,
@@ -1257,10 +1340,11 @@
         "casesPerOneMillion": 36,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876140,
+        "updated": 1587150159767,
         "country": "Guinea-Bissau",
         "cases": 43,
         "todayCases": 0,
@@ -1272,10 +1356,11 @@
         "casesPerOneMillion": 22,
         "deathsPerOneMillion": 0,
         "tests": 1500,
-        "testsPerOneMillion": 762
+        "testsPerOneMillion": 762,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876130,
+        "updated": 1587150159758,
         "country": "Guyana",
         "cases": 57,
         "todayCases": 2,
@@ -1287,10 +1372,11 @@
         "casesPerOneMillion": 72,
         "deathsPerOneMillion": 8,
         "tests": 260,
-        "testsPerOneMillion": 331
+        "testsPerOneMillion": 331,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876139,
+        "updated": 1587150159766,
         "country": "Haiti",
         "cases": 43,
         "todayCases": 2,
@@ -1302,10 +1388,11 @@
         "casesPerOneMillion": 4,
         "deathsPerOneMillion": 0,
         "tests": 365,
-        "testsPerOneMillion": 32
+        "testsPerOneMillion": 32,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876168,
+        "updated": 1587150159802,
         "country": "Holy See (Vatican City State)",
         "cases": 8,
         "todayCases": 0,
@@ -1317,10 +1404,11 @@
         "casesPerOneMillion": 9988,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876081,
+        "updated": 1587150159713,
         "country": "Honduras",
         "cases": 442,
         "todayCases": 16,
@@ -1332,10 +1420,11 @@
         "casesPerOneMillion": 45,
         "deathsPerOneMillion": 4,
         "tests": 2012,
-        "testsPerOneMillion": 203
+        "testsPerOneMillion": 203,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876063,
+        "updated": 1587150159691,
         "country": "Hong Kong",
         "cases": 1022,
         "todayCases": 4,
@@ -1347,10 +1436,11 @@
         "casesPerOneMillion": 136,
         "deathsPerOneMillion": 0,
         "tests": 131786,
-        "testsPerOneMillion": 17579
+        "testsPerOneMillion": 17579,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876050,
+        "updated": 1587150159673,
         "country": "Hungary",
         "cases": 1763,
         "todayCases": 111,
@@ -1362,10 +1452,11 @@
         "casesPerOneMillion": 182,
         "deathsPerOneMillion": 16,
         "tests": 41590,
-        "testsPerOneMillion": 4305
+        "testsPerOneMillion": 4305,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876051,
+        "updated": 1587150159674,
         "country": "Iceland",
         "cases": 1754,
         "todayCases": 15,
@@ -1377,10 +1468,11 @@
         "casesPerOneMillion": 5140,
         "deathsPerOneMillion": 26,
         "tests": 39536,
-        "testsPerOneMillion": 115859
+        "testsPerOneMillion": 115859,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876008,
+        "updated": 1587150159613,
         "country": "India",
         "cases": 13835,
         "todayCases": 405,
@@ -1392,10 +1484,11 @@
         "casesPerOneMillion": 10,
         "deathsPerOneMillion": 0,
         "tests": 302956,
-        "testsPerOneMillion": 220
+        "testsPerOneMillion": 220,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876025,
+        "updated": 1587150159639,
         "country": "Indonesia",
         "cases": 5923,
         "todayCases": 407,
@@ -1407,10 +1500,11 @@
         "casesPerOneMillion": 22,
         "deathsPerOneMillion": 2,
         "tests": 37134,
-        "testsPerOneMillion": 136
+        "testsPerOneMillion": 136,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149875998,
+        "updated": 1587150159590,
         "country": "Iran",
         "cases": 79494,
         "todayCases": 1499,
@@ -1422,10 +1516,11 @@
         "casesPerOneMillion": 946,
         "deathsPerOneMillion": 59,
         "tests": 319879,
-        "testsPerOneMillion": 3808
+        "testsPerOneMillion": 3808,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876054,
+        "updated": 1587150159677,
         "country": "Iraq",
         "cases": 1482,
         "todayCases": 48,
@@ -1437,10 +1532,11 @@
         "casesPerOneMillion": 37,
         "deathsPerOneMillion": 2,
         "tests": 51737,
-        "testsPerOneMillion": 1286
+        "testsPerOneMillion": 1286,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876007,
+        "updated": 1587150159610,
         "country": "Ireland",
         "cases": 13980,
         "todayCases": 709,
@@ -1452,10 +1548,11 @@
         "casesPerOneMillion": 2831,
         "deathsPerOneMillion": 107,
         "tests": 90646,
-        "testsPerOneMillion": 18358
+        "testsPerOneMillion": 18358,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876091,
+        "updated": 1587150159724,
         "country": "Isle of Man",
         "cases": 291,
         "todayCases": 7,
@@ -1467,10 +1564,11 @@
         "casesPerOneMillion": 3422,
         "deathsPerOneMillion": 47,
         "tests": 2375,
-        "testsPerOneMillion": 27930
+        "testsPerOneMillion": 27930,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876011,
+        "updated": 1587150159617,
         "country": "Israel",
         "cases": 12982,
         "todayCases": 224,
@@ -1482,10 +1580,11 @@
         "casesPerOneMillion": 1500,
         "deathsPerOneMillion": 17,
         "tests": 187250,
-        "testsPerOneMillion": 21634
+        "testsPerOneMillion": 21634,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149875990,
+        "updated": 1587150159584,
         "country": "Italy",
         "cases": 172434,
         "todayCases": 3493,
@@ -1497,10 +1596,11 @@
         "casesPerOneMillion": 2852,
         "deathsPerOneMillion": 376,
         "tests": 1244108,
-        "testsPerOneMillion": 20577
+        "testsPerOneMillion": 20577,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876103,
+        "updated": 1587150159735,
         "country": "Jamaica",
         "cases": 143,
         "todayCases": 0,
@@ -1512,10 +1612,11 @@
         "casesPerOneMillion": 48,
         "deathsPerOneMillion": 2,
         "tests": 1424,
-        "testsPerOneMillion": 481
+        "testsPerOneMillion": 481,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876014,
+        "updated": 1587150159622,
         "country": "Japan",
         "cases": 9231,
         "todayCases": 0,
@@ -1527,10 +1628,11 @@
         "casesPerOneMillion": 73,
         "deathsPerOneMillion": 2,
         "tests": 100703,
-        "testsPerOneMillion": 796
+        "testsPerOneMillion": 796,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876085,
+        "updated": 1587150159717,
         "country": "Jordan",
         "cases": 407,
         "todayCases": 5,
@@ -1542,10 +1644,11 @@
         "casesPerOneMillion": 40,
         "deathsPerOneMillion": 0,
         "tests": 20500,
-        "testsPerOneMillion": 2009
+        "testsPerOneMillion": 2009,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876053,
+        "updated": 1587150159676,
         "country": "Kazakhstan",
         "cases": 1546,
         "todayCases": 144,
@@ -1557,10 +1660,11 @@
         "casesPerOneMillion": 82,
         "deathsPerOneMillion": 0,
         "tests": 85735,
-        "testsPerOneMillion": 4566
+        "testsPerOneMillion": 4566,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876093,
+        "updated": 1587150159726,
         "country": "Kenya",
         "cases": 246,
         "todayCases": 12,
@@ -1572,10 +1676,11 @@
         "casesPerOneMillion": 5,
         "deathsPerOneMillion": 0,
         "tests": 10784,
-        "testsPerOneMillion": 201
+        "testsPerOneMillion": 201,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876052,
+        "updated": 1587150159676,
         "country": "Kuwait",
         "cases": 1658,
         "todayCases": 134,
@@ -1587,10 +1692,11 @@
         "casesPerOneMillion": 388,
         "deathsPerOneMillion": 1,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876078,
+        "updated": 1587150159710,
         "country": "Kyrgyzstan",
         "cases": 489,
         "todayCases": 23,
@@ -1602,10 +1708,11 @@
         "casesPerOneMillion": 75,
         "deathsPerOneMillion": 0,
         "tests": 26147,
-        "testsPerOneMillion": 4008
+        "testsPerOneMillion": 4008,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876150,
+        "updated": 1587150159781,
         "country": "Lao People's Democratic Republic",
         "cases": 19,
         "todayCases": 0,
@@ -1617,10 +1724,11 @@
         "casesPerOneMillion": 3,
         "deathsPerOneMillion": 0,
         "tests": 1288,
-        "testsPerOneMillion": 177
+        "testsPerOneMillion": 177,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876072,
+        "updated": 1587150159702,
         "country": "Latvia",
         "cases": 682,
         "todayCases": 7,
@@ -1632,10 +1740,11 @@
         "casesPerOneMillion": 362,
         "deathsPerOneMillion": 3,
         "tests": 32837,
-        "testsPerOneMillion": 17409
+        "testsPerOneMillion": 17409,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876073,
+        "updated": 1587150159703,
         "country": "Lebanon",
         "cases": 668,
         "todayCases": 5,
@@ -1647,10 +1756,11 @@
         "casesPerOneMillion": 98,
         "deathsPerOneMillion": 3,
         "tests": 19185,
-        "testsPerOneMillion": 2811
+        "testsPerOneMillion": 2811,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876127,
+        "updated": 1587150159756,
         "country": "Liberia",
         "cases": 76,
         "todayCases": 17,
@@ -1662,10 +1772,11 @@
         "casesPerOneMillion": 15,
         "deathsPerOneMillion": 1,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876137,
+        "updated": 1587150159764,
         "country": "Libyan Arab Jamahiriya",
         "cases": 49,
         "todayCases": 0,
@@ -1677,10 +1788,11 @@
         "casesPerOneMillion": 7,
         "deathsPerOneMillion": 0,
         "tests": 699,
-        "testsPerOneMillion": 102
+        "testsPerOneMillion": 102,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876124,
+        "updated": 1587150159754,
         "country": "Liechtenstein",
         "cases": 79,
         "todayCases": 0,
@@ -1692,10 +1804,11 @@
         "casesPerOneMillion": 2072,
         "deathsPerOneMillion": 26,
         "tests": 900,
-        "testsPerOneMillion": 23605
+        "testsPerOneMillion": 23605,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876059,
+        "updated": 1587150159688,
         "country": "Lithuania",
         "cases": 1149,
         "todayCases": 21,
@@ -1707,10 +1820,11 @@
         "casesPerOneMillion": 422,
         "deathsPerOneMillion": 12,
         "tests": 53101,
-        "testsPerOneMillion": 19506
+        "testsPerOneMillion": 19506,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876041,
+        "updated": 1587150159656,
         "country": "Luxembourg",
         "cases": 3480,
         "todayCases": 36,
@@ -1722,10 +1836,11 @@
         "casesPerOneMillion": 5559,
         "deathsPerOneMillion": 115,
         "tests": 32394,
-        "testsPerOneMillion": 51749
+        "testsPerOneMillion": 51749,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876166,
+        "updated": 1587150159800,
         "country": "MS Zaandam",
         "cases": 9,
         "todayCases": 0,
@@ -1737,10 +1852,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": ""
     },
     {
-        "updated": 1587149876138,
+        "updated": 1587150159765,
         "country": "Macao",
         "cases": 45,
         "todayCases": 0,
@@ -1752,10 +1868,11 @@
         "casesPerOneMillion": 69,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876060,
+        "updated": 1587150159689,
         "country": "Macedonia",
         "cases": 1117,
         "todayCases": 36,
@@ -1767,10 +1884,11 @@
         "casesPerOneMillion": 536,
         "deathsPerOneMillion": 24,
         "tests": 10859,
-        "testsPerOneMillion": 5212
+        "testsPerOneMillion": 5212,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876108,
+        "updated": 1587150159740,
         "country": "Madagascar",
         "cases": 117,
         "todayCases": 6,
@@ -1782,10 +1900,11 @@
         "casesPerOneMillion": 4,
         "deathsPerOneMillion": 0,
         "tests": 2357,
-        "testsPerOneMillion": 85
+        "testsPerOneMillion": 85,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876154,
+        "updated": 1587150159787,
         "country": "Malawi",
         "cases": 17,
         "todayCases": 1,
@@ -1797,10 +1916,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 353,
-        "testsPerOneMillion": 18
+        "testsPerOneMillion": 18,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876034,
+        "updated": 1587150159645,
         "country": "Malaysia",
         "cases": 5251,
         "todayCases": 69,
@@ -1812,10 +1932,11 @@
         "casesPerOneMillion": 162,
         "deathsPerOneMillion": 3,
         "tests": 96695,
-        "testsPerOneMillion": 2988
+        "testsPerOneMillion": 2988,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876147,
+        "updated": 1587150159777,
         "country": "Maldives",
         "cases": 28,
         "todayCases": 3,
@@ -1827,10 +1948,11 @@
         "casesPerOneMillion": 52,
         "deathsPerOneMillion": 0,
         "tests": 3497,
-        "testsPerOneMillion": 6469
+        "testsPerOneMillion": 6469,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876100,
+        "updated": 1587150159732,
         "country": "Mali",
         "cases": 171,
         "todayCases": 0,
@@ -1842,10 +1964,11 @@
         "casesPerOneMillion": 8,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876084,
+        "updated": 1587150159716,
         "country": "Malta",
         "cases": 422,
         "todayCases": 10,
@@ -1857,10 +1980,11 @@
         "casesPerOneMillion": 956,
         "deathsPerOneMillion": 7,
         "tests": 21164,
-        "testsPerOneMillion": 47932
+        "testsPerOneMillion": 47932,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876100,
+        "updated": 1587150159732,
         "country": "Martinique",
         "cases": 158,
         "todayCases": 0,
@@ -1872,10 +1996,11 @@
         "casesPerOneMillion": 421,
         "deathsPerOneMillion": 21,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876169,
+        "updated": 1587150159803,
         "country": "Mauritania",
         "cases": 7,
         "todayCases": 0,
@@ -1887,10 +2012,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 713,
-        "testsPerOneMillion": 153
+        "testsPerOneMillion": 153,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876089,
+        "updated": 1587150159722,
         "country": "Mauritius",
         "cases": 324,
         "todayCases": 0,
@@ -1902,10 +2028,11 @@
         "casesPerOneMillion": 255,
         "deathsPerOneMillion": 7,
         "tests": 9755,
-        "testsPerOneMillion": 7670
+        "testsPerOneMillion": 7670,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876094,
+        "updated": 1587150159727,
         "country": "Mayotte",
         "cases": 245,
         "todayCases": 12,
@@ -1917,10 +2044,11 @@
         "casesPerOneMillion": 898,
         "deathsPerOneMillion": 15,
         "tests": 1700,
-        "testsPerOneMillion": 6231
+        "testsPerOneMillion": 6231,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876024,
+        "updated": 1587150159638,
         "country": "Mexico",
         "cases": 6297,
         "todayCases": 450,
@@ -1932,10 +2060,11 @@
         "casesPerOneMillion": 49,
         "deathsPerOneMillion": 4,
         "tests": 40091,
-        "testsPerOneMillion": 311
+        "testsPerOneMillion": 311,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876047,
+        "updated": 1587150159669,
         "country": "Moldova",
         "cases": 2264,
         "todayCases": 110,
@@ -1947,10 +2076,11 @@
         "casesPerOneMillion": 561,
         "deathsPerOneMillion": 14,
         "tests": 9848,
-        "testsPerOneMillion": 2441
+        "testsPerOneMillion": 2441,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876119,
+        "updated": 1587150159748,
         "country": "Monaco",
         "cases": 94,
         "todayCases": 1,
@@ -1962,10 +2092,11 @@
         "casesPerOneMillion": 2395,
         "deathsPerOneMillion": 76,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876145,
+        "updated": 1587150159775,
         "country": "Mongolia",
         "cases": 31,
         "todayCases": 0,
@@ -1977,10 +2108,11 @@
         "casesPerOneMillion": 9,
         "deathsPerOneMillion": 0,
         "tests": 1450,
-        "testsPerOneMillion": 442
+        "testsPerOneMillion": 442,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876090,
+        "updated": 1587150159723,
         "country": "Montenegro",
         "cases": 303,
         "todayCases": 0,
@@ -1992,10 +2124,11 @@
         "casesPerOneMillion": 482,
         "deathsPerOneMillion": 8,
         "tests": 3874,
-        "testsPerOneMillion": 6168
+        "testsPerOneMillion": 6168,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876164,
+        "updated": 1587150159798,
         "country": "Montserrat",
         "cases": 11,
         "todayCases": 0,
@@ -2007,10 +2140,11 @@
         "casesPerOneMillion": 2204,
         "deathsPerOneMillion": 0,
         "tests": 36,
-        "testsPerOneMillion": 7212
+        "testsPerOneMillion": 7212,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876046,
+        "updated": 1587150159667,
         "country": "Morocco",
         "cases": 2564,
         "todayCases": 281,
@@ -2022,10 +2156,11 @@
         "casesPerOneMillion": 69,
         "deathsPerOneMillion": 4,
         "tests": 12952,
-        "testsPerOneMillion": 351
+        "testsPerOneMillion": 351,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876144,
+        "updated": 1587150159773,
         "country": "Mozambique",
         "cases": 34,
         "todayCases": 3,
@@ -2037,10 +2172,11 @@
         "casesPerOneMillion": 1,
         "deathsPerOneMillion": 0,
         "tests": 898,
-        "testsPerOneMillion": 29
+        "testsPerOneMillion": 29,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876121,
+        "updated": 1587150159750,
         "country": "Myanmar",
         "cases": 88,
         "todayCases": 3,
@@ -2052,10 +2188,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 3236,
-        "testsPerOneMillion": 59
+        "testsPerOneMillion": 59,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876157,
+        "updated": 1587150159791,
         "country": "Namibia",
         "cases": 16,
         "todayCases": 0,
@@ -2067,10 +2204,11 @@
         "casesPerOneMillion": 6,
         "deathsPerOneMillion": 0,
         "tests": 362,
-        "testsPerOneMillion": 142
+        "testsPerOneMillion": 142,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876146,
+        "updated": 1587150159777,
         "country": "Nepal",
         "cases": 30,
         "todayCases": 14,
@@ -2082,10 +2220,11 @@
         "casesPerOneMillion": 1,
         "deathsPerOneMillion": 0,
         "tests": 15800,
-        "testsPerOneMillion": 542
+        "testsPerOneMillion": 542,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876003,
+        "updated": 1587150159604,
         "country": "Netherlands",
         "cases": 30449,
         "todayCases": 1235,
@@ -2097,10 +2236,11 @@
         "casesPerOneMillion": 1777,
         "deathsPerOneMillion": 202,
         "tests": 154911,
-        "testsPerOneMillion": 9041
+        "testsPerOneMillion": 9041,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876153,
+        "updated": 1587150159785,
         "country": "New Caledonia",
         "cases": 18,
         "todayCases": 0,
@@ -2112,10 +2252,11 @@
         "casesPerOneMillion": 63,
         "deathsPerOneMillion": 0,
         "tests": 3316,
-        "testsPerOneMillion": 11615
+        "testsPerOneMillion": 11615,
+        "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1587149876055,
+        "updated": 1587150159680,
         "country": "New Zealand",
         "cases": 1409,
         "todayCases": 8,
@@ -2127,10 +2268,11 @@
         "casesPerOneMillion": 292,
         "deathsPerOneMillion": 2,
         "tests": 74401,
-        "testsPerOneMillion": 15429
+        "testsPerOneMillion": 15429,
+        "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1587149876168,
+        "updated": 1587150159802,
         "country": "Nicaragua",
         "cases": 9,
         "todayCases": 0,
@@ -2142,10 +2284,11 @@
         "casesPerOneMillion": 1,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876075,
+        "updated": 1587150159706,
         "country": "Niger",
         "cases": 609,
         "todayCases": 25,
@@ -2157,10 +2300,11 @@
         "casesPerOneMillion": 25,
         "deathsPerOneMillion": 0,
         "tests": 4427,
-        "testsPerOneMillion": 183
+        "testsPerOneMillion": 183,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876081,
+        "updated": 1587150159714,
         "country": "Nigeria",
         "cases": 442,
         "todayCases": 0,
@@ -2172,10 +2316,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 6649,
-        "testsPerOneMillion": 32
+        "testsPerOneMillion": 32,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876020,
+        "updated": 1587150159630,
         "country": "Norway",
         "cases": 6937,
         "todayCases": 32,
@@ -2187,10 +2332,11 @@
         "casesPerOneMillion": 1280,
         "deathsPerOneMillion": 30,
         "tests": 136236,
-        "testsPerOneMillion": 25130
+        "testsPerOneMillion": 25130,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876061,
+        "updated": 1587150159690,
         "country": "Oman",
         "cases": 1069,
         "todayCases": 50,
@@ -2202,10 +2348,11 @@
         "casesPerOneMillion": 209,
         "deathsPerOneMillion": 1,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876019,
+        "updated": 1587150159629,
         "country": "Pakistan",
         "cases": 7025,
         "todayCases": 106,
@@ -2217,10 +2364,11 @@
         "casesPerOneMillion": 32,
         "deathsPerOneMillion": 0,
         "tests": 84704,
-        "testsPerOneMillion": 383
+        "testsPerOneMillion": 383,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876086,
+        "updated": 1587150159718,
         "country": "Palestine",
         "cases": 402,
         "todayCases": 28,
@@ -2232,10 +2380,11 @@
         "casesPerOneMillion": 79,
         "deathsPerOneMillion": 0,
         "tests": 17329,
-        "testsPerOneMillion": 3397
+        "testsPerOneMillion": 3397,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876040,
+        "updated": 1587150159654,
         "country": "Panama",
         "cases": 4016,
         "todayCases": 265,
@@ -2247,10 +2396,11 @@
         "casesPerOneMillion": 931,
         "deathsPerOneMillion": 25,
         "tests": 17850,
-        "testsPerOneMillion": 4137
+        "testsPerOneMillion": 4137,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876169,
+        "updated": 1587150159805,
         "country": "Papua New Guinea",
         "cases": 7,
         "todayCases": 0,
@@ -2262,10 +2412,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 167,
-        "testsPerOneMillion": 19
+        "testsPerOneMillion": 19,
+        "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1587149876097,
+        "updated": 1587150159730,
         "country": "Paraguay",
         "cases": 199,
         "todayCases": 25,
@@ -2277,10 +2428,11 @@
         "casesPerOneMillion": 28,
         "deathsPerOneMillion": 1,
         "tests": 4612,
-        "testsPerOneMillion": 647
+        "testsPerOneMillion": 647,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876009,
+        "updated": 1587150159615,
         "country": "Peru",
         "cases": 13489,
         "todayCases": 998,
@@ -2292,10 +2444,11 @@
         "casesPerOneMillion": 409,
         "deathsPerOneMillion": 9,
         "tests": 127513,
-        "testsPerOneMillion": 3867
+        "testsPerOneMillion": 3867,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876026,
+        "updated": 1587150159640,
         "country": "Philippines",
         "cases": 5878,
         "todayCases": 218,
@@ -2307,10 +2460,11 @@
         "casesPerOneMillion": 54,
         "deathsPerOneMillion": 4,
         "tests": 48171,
-        "testsPerOneMillion": 440
+        "testsPerOneMillion": 440,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876015,
+        "updated": 1587150159624,
         "country": "Poland",
         "cases": 8379,
         "todayCases": 461,
@@ -2322,10 +2476,11 @@
         "casesPerOneMillion": 221,
         "deathsPerOneMillion": 9,
         "tests": 179654,
-        "testsPerOneMillion": 4747
+        "testsPerOneMillion": 4747,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876005,
+        "updated": 1587150159607,
         "country": "Portugal",
         "cases": 19022,
         "todayCases": 181,
@@ -2337,10 +2492,11 @@
         "casesPerOneMillion": 1866,
         "deathsPerOneMillion": 64,
         "tests": 221049,
-        "testsPerOneMillion": 21678
+        "testsPerOneMillion": 21678,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876037,
+        "updated": 1587150159650,
         "country": "Qatar",
         "cases": 4663,
         "todayCases": 560,
@@ -2352,10 +2508,11 @@
         "casesPerOneMillion": 1619,
         "deathsPerOneMillion": 2,
         "tests": 58328,
-        "testsPerOneMillion": 20245
+        "testsPerOneMillion": 20245,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876016,
+        "updated": 1587150159625,
         "country": "Romania",
         "cases": 8067,
         "todayCases": 360,
@@ -2367,10 +2524,11 @@
         "casesPerOneMillion": 419,
         "deathsPerOneMillion": 21,
         "tests": 85805,
-        "testsPerOneMillion": 4460
+        "testsPerOneMillion": 4460,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876001,
+        "updated": 1587150159601,
         "country": "Russia",
         "cases": 32008,
         "todayCases": 4070,
@@ -2382,10 +2540,11 @@
         "casesPerOneMillion": 219,
         "deathsPerOneMillion": 2,
         "tests": 1718019,
-        "testsPerOneMillion": 11773
+        "testsPerOneMillion": 11773,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876104,
+        "updated": 1587150159736,
         "country": "Rwanda",
         "cases": 138,
         "todayCases": 0,
@@ -2397,10 +2556,11 @@
         "casesPerOneMillion": 11,
         "deathsPerOneMillion": 0,
         "tests": 6237,
-        "testsPerOneMillion": 482
+        "testsPerOneMillion": 482,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876086,
+        "updated": 1587150159719,
         "country": "R\u00e9union",
         "cases": 402,
         "todayCases": 8,
@@ -2412,10 +2572,11 @@
         "casesPerOneMillion": 449,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876012,
+        "updated": 1587150159619,
         "country": "S. Korea",
         "cases": 10635,
         "todayCases": 22,
@@ -2427,10 +2588,11 @@
         "casesPerOneMillion": 207,
         "deathsPerOneMillion": 4,
         "tests": 546463,
-        "testsPerOneMillion": 10659
+        "testsPerOneMillion": 10659,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876160,
+        "updated": 1587150159794,
         "country": "Saint Kitts and Nevis",
         "cases": 14,
         "todayCases": 0,
@@ -2442,10 +2604,11 @@
         "casesPerOneMillion": 263,
         "deathsPerOneMillion": 0,
         "tests": 234,
-        "testsPerOneMillion": 4399
+        "testsPerOneMillion": 4399,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876158,
+        "updated": 1587150159792,
         "country": "Saint Lucia",
         "cases": 15,
         "todayCases": 0,
@@ -2457,10 +2620,11 @@
         "casesPerOneMillion": 82,
         "deathsPerOneMillion": 0,
         "tests": 319,
-        "testsPerOneMillion": 1737
+        "testsPerOneMillion": 1737,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876142,
+        "updated": 1587150159771,
         "country": "Saint Martin",
         "cases": 35,
         "todayCases": 0,
@@ -2472,10 +2636,11 @@
         "casesPerOneMillion": 905,
         "deathsPerOneMillion": 52,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876176,
+        "updated": 1587150159824,
         "country": "Saint Pierre Miquelon",
         "cases": 1,
         "todayCases": 0,
@@ -2487,10 +2652,11 @@
         "casesPerOneMillion": 173,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876161,
+        "updated": 1587150159796,
         "country": "Saint Vincent and the Grenadines",
         "cases": 12,
         "todayCases": 0,
@@ -2502,10 +2668,11 @@
         "casesPerOneMillion": 108,
         "deathsPerOneMillion": 0,
         "tests": 87,
-        "testsPerOneMillion": 784
+        "testsPerOneMillion": 784,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876083,
+        "updated": 1587150159715,
         "country": "San Marino",
         "cases": 435,
         "todayCases": 9,
@@ -2517,10 +2684,11 @@
         "casesPerOneMillion": 12820,
         "deathsPerOneMillion": 1149,
         "tests": 846,
-        "testsPerOneMillion": 24933
+        "testsPerOneMillion": 24933,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876173,
+        "updated": 1587150159820,
         "country": "Sao Tome and Principe",
         "cases": 4,
         "todayCases": 0,
@@ -2532,10 +2700,11 @@
         "casesPerOneMillion": 18,
         "deathsPerOneMillion": 0,
         "tests": 19,
-        "testsPerOneMillion": 87
+        "testsPerOneMillion": 87,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876017,
+        "updated": 1587150159627,
         "country": "Saudi Arabia",
         "cases": 7142,
         "todayCases": 762,
@@ -2547,10 +2716,11 @@
         "casesPerOneMillion": 205,
         "deathsPerOneMillion": 2,
         "tests": 150000,
-        "testsPerOneMillion": 4309
+        "testsPerOneMillion": 4309,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876089,
+        "updated": 1587150159721,
         "country": "Senegal",
         "cases": 342,
         "todayCases": 7,
@@ -2562,10 +2732,11 @@
         "casesPerOneMillion": 20,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876027,
+        "updated": 1587150159643,
         "country": "Serbia",
         "cases": 5690,
         "todayCases": 372,
@@ -2577,10 +2748,11 @@
         "casesPerOneMillion": 651,
         "deathsPerOneMillion": 13,
         "tests": 32566,
-        "testsPerOneMillion": 3727
+        "testsPerOneMillion": 3727,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876165,
+        "updated": 1587150159799,
         "country": "Seychelles",
         "cases": 11,
         "todayCases": 0,
@@ -2592,10 +2764,11 @@
         "casesPerOneMillion": 112,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876148,
+        "updated": 1587150159779,
         "country": "Sierra Leone",
         "cases": 26,
         "todayCases": 11,
@@ -2607,10 +2780,11 @@
         "casesPerOneMillion": 3,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876036,
+        "updated": 1587150159647,
         "country": "Singapore",
         "cases": 5050,
         "todayCases": 623,
@@ -2622,10 +2796,11 @@
         "casesPerOneMillion": 863,
         "deathsPerOneMillion": 2,
         "tests": 94796,
-        "testsPerOneMillion": 16203
+        "testsPerOneMillion": 16203,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876130,
+        "updated": 1587150159758,
         "country": "Sint Maarten",
         "cases": 57,
         "todayCases": 0,
@@ -2637,10 +2812,11 @@
         "casesPerOneMillion": 1329,
         "deathsPerOneMillion": 210,
         "tests": 163,
-        "testsPerOneMillion": 3802
+        "testsPerOneMillion": 3802,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876062,
+        "updated": 1587150159690,
         "country": "Slovakia",
         "cases": 1049,
         "todayCases": 72,
@@ -2652,10 +2828,11 @@
         "casesPerOneMillion": 192,
         "deathsPerOneMillion": 2,
         "tests": 37732,
-        "testsPerOneMillion": 6911
+        "testsPerOneMillion": 6911,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876057,
+        "updated": 1587150159684,
         "country": "Slovenia",
         "cases": 1304,
         "todayCases": 36,
@@ -2667,10 +2844,11 @@
         "casesPerOneMillion": 627,
         "deathsPerOneMillion": 32,
         "tests": 39330,
-        "testsPerOneMillion": 18918
+        "testsPerOneMillion": 18918,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876109,
+        "updated": 1587150159741,
         "country": "Somalia",
         "cases": 116,
         "todayCases": 36,
@@ -2682,10 +2860,11 @@
         "casesPerOneMillion": 7,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876044,
+        "updated": 1587150159659,
         "country": "South Africa",
         "cases": 2783,
         "todayCases": 178,
@@ -2697,10 +2876,11 @@
         "casesPerOneMillion": 47,
         "deathsPerOneMillion": 0,
         "tests": 100827,
-        "testsPerOneMillion": 1700
+        "testsPerOneMillion": 1700,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876174,
+        "updated": 1587150159821,
         "country": "South Sudan",
         "cases": 4,
         "todayCases": 0,
@@ -2712,10 +2892,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149875989,
+        "updated": 1587150159583,
         "country": "Spain",
         "cases": 188093,
         "todayCases": 3145,
@@ -2727,10 +2908,11 @@
         "casesPerOneMillion": 4023,
         "deathsPerOneMillion": 419,
         "tests": 930230,
-        "testsPerOneMillion": 19896
+        "testsPerOneMillion": 19896,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876095,
+        "updated": 1587150159727,
         "country": "Sri Lanka",
         "cases": 244,
         "todayCases": 6,
@@ -2742,10 +2924,11 @@
         "casesPerOneMillion": 11,
         "deathsPerOneMillion": 0,
         "tests": 4768,
-        "testsPerOneMillion": 223
+        "testsPerOneMillion": 223,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876170,
+        "updated": 1587150159808,
         "country": "St. Barth",
         "cases": 6,
         "todayCases": 0,
@@ -2757,10 +2940,11 @@
         "casesPerOneMillion": 607,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876145,
+        "updated": 1587150159774,
         "country": "Sudan",
         "cases": 32,
         "todayCases": 0,
@@ -2772,10 +2956,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876166,
+        "updated": 1587150159800,
         "country": "Suriname",
         "cases": 10,
         "todayCases": 0,
@@ -2787,10 +2972,11 @@
         "casesPerOneMillion": 17,
         "deathsPerOneMillion": 2,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876155,
+        "updated": 1587150159789,
         "country": "Swaziland",
         "cases": 16,
         "todayCases": 0,
@@ -2802,10 +2988,11 @@
         "casesPerOneMillion": 14,
         "deathsPerOneMillion": 0,
         "tests": 714,
-        "testsPerOneMillion": 615
+        "testsPerOneMillion": 615,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876010,
+        "updated": 1587150159616,
         "country": "Sweden",
         "cases": 13216,
         "todayCases": 676,
@@ -2817,10 +3004,11 @@
         "casesPerOneMillion": 1309,
         "deathsPerOneMillion": 139,
         "tests": 74600,
-        "testsPerOneMillion": 7387
+        "testsPerOneMillion": 7387,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876004,
+        "updated": 1587150159605,
         "country": "Switzerland",
         "cases": 27078,
         "todayCases": 346,
@@ -2832,10 +3020,11 @@
         "casesPerOneMillion": 3129,
         "deathsPerOneMillion": 153,
         "tests": 206400,
-        "testsPerOneMillion": 23849
+        "testsPerOneMillion": 23849,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876142,
+        "updated": 1587150159771,
         "country": "Syrian Arab Republic",
         "cases": 38,
         "todayCases": 5,
@@ -2847,10 +3036,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876087,
+        "updated": 1587150159720,
         "country": "Taiwan",
         "cases": 395,
         "todayCases": 0,
@@ -2862,10 +3052,11 @@
         "casesPerOneMillion": 17,
         "deathsPerOneMillion": 0,
         "tests": 51603,
-        "testsPerOneMillion": 2167
+        "testsPerOneMillion": 2167,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876101,
+        "updated": 1587150159733,
         "country": "Tanzania",
         "cases": 147,
         "todayCases": 53,
@@ -2877,10 +3068,11 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876044,
+        "updated": 1587150159666,
         "country": "Thailand",
         "cases": 2700,
         "todayCases": 28,
@@ -2892,10 +3084,11 @@
         "casesPerOneMillion": 39,
         "deathsPerOneMillion": 0,
         "tests": 100498,
-        "testsPerOneMillion": 1440
+        "testsPerOneMillion": 1440,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876153,
+        "updated": 1587150159786,
         "country": "Timor-Leste",
         "cases": 18,
         "todayCases": 0,
@@ -2907,10 +3100,11 @@
         "casesPerOneMillion": 14,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876123,
+        "updated": 1587150159753,
         "country": "Togo",
         "cases": 83,
         "todayCases": 2,
@@ -2922,10 +3116,11 @@
         "casesPerOneMillion": 10,
         "deathsPerOneMillion": 0,
         "tests": 3926,
-        "testsPerOneMillion": 474
+        "testsPerOneMillion": 474,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876112,
+        "updated": 1587150159742,
         "country": "Trinidad and Tobago",
         "cases": 114,
         "todayCases": 0,
@@ -2937,10 +3132,11 @@
         "casesPerOneMillion": 81,
         "deathsPerOneMillion": 6,
         "tests": 1298,
-        "testsPerOneMillion": 927
+        "testsPerOneMillion": 927,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876068,
+        "updated": 1587150159697,
         "country": "Tunisia",
         "cases": 822,
         "todayCases": 0,
@@ -2952,10 +3148,11 @@
         "casesPerOneMillion": 70,
         "deathsPerOneMillion": 3,
         "tests": 13930,
-        "testsPerOneMillion": 1179
+        "testsPerOneMillion": 1179,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149875998,
+        "updated": 1587150159592,
         "country": "Turkey",
         "cases": 78546,
         "todayCases": 4353,
@@ -2967,10 +3164,11 @@
         "casesPerOneMillion": 931,
         "deathsPerOneMillion": 21,
         "tests": 558413,
-        "testsPerOneMillion": 6621
+        "testsPerOneMillion": 6621,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876162,
+        "updated": 1587150159796,
         "country": "Turks and Caicos Islands",
         "cases": 11,
         "todayCases": 0,
@@ -2982,10 +3180,11 @@
         "casesPerOneMillion": 284,
         "deathsPerOneMillion": 26,
         "tests": 83,
-        "testsPerOneMillion": 2144
+        "testsPerOneMillion": 2144,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876023,
+        "updated": 1587150159635,
         "country": "UAE",
         "cases": 6302,
         "todayCases": 477,
@@ -2997,10 +3196,11 @@
         "casesPerOneMillion": 637,
         "deathsPerOneMillion": 4,
         "tests": 767000,
-        "testsPerOneMillion": 77550
+        "testsPerOneMillion": 77550,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149875996,
+        "updated": 1587150159589,
         "country": "UK",
         "cases": 108692,
         "todayCases": 5599,
@@ -3012,10 +3212,11 @@
         "casesPerOneMillion": 1601,
         "deathsPerOneMillion": 215,
         "tests": 438991,
-        "testsPerOneMillion": 6467
+        "testsPerOneMillion": 6467,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149875988,
+        "updated": 1587150159581,
         "country": "USA",
         "cases": 690900,
         "todayCases": 13330,
@@ -3027,10 +3228,11 @@
         "casesPerOneMillion": 2087,
         "deathsPerOneMillion": 109,
         "tests": 3468587,
-        "testsPerOneMillion": 10479
+        "testsPerOneMillion": 10479,
+        "continent": "North America"
     },
     {
-        "updated": 1587149876134,
+        "updated": 1587150159762,
         "country": "Uganda",
         "cases": 55,
         "todayCases": 0,
@@ -3042,10 +3244,11 @@
         "casesPerOneMillion": 1,
         "deathsPerOneMillion": 0,
         "tests": 8855,
-        "testsPerOneMillion": 194
+        "testsPerOneMillion": 194,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876038,
+        "updated": 1587150159651,
         "country": "Ukraine",
         "cases": 4662,
         "todayCases": 501,
@@ -3057,10 +3260,11 @@
         "casesPerOneMillion": 107,
         "deathsPerOneMillion": 3,
         "tests": 47096,
-        "testsPerOneMillion": 1077
+        "testsPerOneMillion": 1077,
+        "continent": "Europe"
     },
     {
-        "updated": 1587149876077,
+        "updated": 1587150159709,
         "country": "Uruguay",
         "cases": 502,
         "todayCases": 0,
@@ -3072,10 +3276,11 @@
         "casesPerOneMillion": 145,
         "deathsPerOneMillion": 3,
         "tests": 11239,
-        "testsPerOneMillion": 3235
+        "testsPerOneMillion": 3235,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876056,
+        "updated": 1587150159681,
         "country": "Uzbekistan",
         "cases": 1405,
         "todayCases": 56,
@@ -3087,10 +3292,11 @@
         "casesPerOneMillion": 42,
         "deathsPerOneMillion": 0,
         "tests": 136000,
-        "testsPerOneMillion": 4063
+        "testsPerOneMillion": 4063,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876097,
+        "updated": 1587150159729,
         "country": "Venezuela",
         "cases": 204,
         "todayCases": 0,
@@ -3102,10 +3308,11 @@
         "casesPerOneMillion": 7,
         "deathsPerOneMillion": 0,
         "tests": 268503,
-        "testsPerOneMillion": 9442
+        "testsPerOneMillion": 9442,
+        "continent": "South America"
     },
     {
-        "updated": 1587149876092,
+        "updated": 1587150159725,
         "country": "Vietnam",
         "cases": 268,
         "todayCases": 0,
@@ -3117,10 +3324,11 @@
         "casesPerOneMillion": 3,
         "deathsPerOneMillion": 0,
         "tests": 206253,
-        "testsPerOneMillion": 2119
+        "testsPerOneMillion": 2119,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876171,
+        "updated": 1587150159809,
         "country": "Western Sahara",
         "cases": 6,
         "todayCases": 0,
@@ -3132,10 +3340,11 @@
         "casesPerOneMillion": 10,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876176,
+        "updated": 1587150159825,
         "country": "Yemen",
         "cases": 1,
         "todayCases": 0,
@@ -3147,10 +3356,11 @@
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 0,
-        "testsPerOneMillion": 0
+        "testsPerOneMillion": 0,
+        "continent": "Asia"
     },
     {
-        "updated": 1587149876135,
+        "updated": 1587150159763,
         "country": "Zambia",
         "cases": 52,
         "todayCases": 4,
@@ -3162,10 +3372,11 @@
         "casesPerOneMillion": 3,
         "deathsPerOneMillion": 0,
         "tests": 2191,
-        "testsPerOneMillion": 119
+        "testsPerOneMillion": 119,
+        "continent": "Africa"
     },
     {
-        "updated": 1587149876148,
+        "updated": 1587150159779,
         "country": "Zimbabwe",
         "cases": 24,
         "todayCases": 1,
@@ -3177,6 +3388,7 @@
         "casesPerOneMillion": 2,
         "deathsPerOneMillion": 0,
         "tests": 1299,
-        "testsPerOneMillion": 87
+        "testsPerOneMillion": 87,
+        "continent": "Africa"
     }
 ]
