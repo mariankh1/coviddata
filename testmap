@@ -1,6 +1,6 @@
 [
     {
-        "updated": 1588035402551,
+        "updated": 1588036002466,
         "country": "Afghanistan",
         "countryInfo": {
             "_id": 4,
@@ -11,9 +11,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/af.png"
         },
         "cases": 1703,
-        "todayCases": 172,
+        "todayCases": 0,
         "deaths": 57,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 220,
         "active": 1426,
         "critical": 7,
@@ -24,7 +24,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402571,
+        "updated": 1588036002488,
         "country": "Albania",
         "countryInfo": {
             "_id": 8,
@@ -35,7 +35,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/al.png"
         },
         "cases": 736,
-        "todayCases": 10,
+        "todayCases": 0,
         "deaths": 28,
         "todayDeaths": 0,
         "recovered": 422,
@@ -48,7 +48,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402538,
+        "updated": 1588036002455,
         "country": "Algeria",
         "countryInfo": {
             "_id": 12,
@@ -59,9 +59,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/dz.png"
         },
         "cases": 3517,
-        "todayCases": 135,
+        "todayCases": 0,
         "deaths": 432,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 1558,
         "active": 1527,
         "critical": 40,
@@ -72,7 +72,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402570,
+        "updated": 1588036002487,
         "country": "Andorra",
         "countryInfo": {
             "_id": 20,
@@ -83,7 +83,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ad.png"
         },
         "cases": 743,
-        "todayCases": 5,
+        "todayCases": 0,
         "deaths": 40,
         "todayDeaths": 0,
         "recovered": 385,
@@ -96,7 +96,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402640,
+        "updated": 1588036002557,
         "country": "Angola",
         "countryInfo": {
             "_id": 24,
@@ -107,7 +107,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ao.png"
         },
         "cases": 27,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 2,
         "todayDeaths": 0,
         "recovered": 6,
@@ -120,7 +120,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402665,
+        "updated": 1588036002580,
         "country": "Anguilla",
         "countryInfo": {
             "_id": 660,
@@ -144,7 +144,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402642,
+        "updated": 1588036002559,
         "country": "Antigua and Barbuda",
         "countryInfo": {
             "_id": 28,
@@ -168,7 +168,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402536,
+        "updated": 1588036002453,
         "country": "Argentina",
         "countryInfo": {
             "_id": 32,
@@ -179,9 +179,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ar.png"
         },
         "cases": 4003,
-        "todayCases": 111,
+        "todayCases": 0,
         "deaths": 197,
-        "todayDeaths": 5,
+        "todayDeaths": 0,
         "recovered": 1140,
         "active": 2666,
         "critical": 144,
@@ -192,7 +192,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402548,
+        "updated": 1588036002464,
         "country": "Armenia",
         "countryInfo": {
             "_id": 51,
@@ -203,9 +203,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/am.png"
         },
         "cases": 1808,
-        "todayCases": 62,
+        "todayCases": 0,
         "deaths": 29,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 848,
         "active": 931,
         "critical": 10,
@@ -216,7 +216,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402612,
+        "updated": 1588036002531,
         "country": "Aruba",
         "countryInfo": {
             "_id": 533,
@@ -240,7 +240,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402528,
+        "updated": 1588036002446,
         "country": "Australia",
         "countryInfo": {
             "_id": 36,
@@ -250,12 +250,12 @@
             "long": 133,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/au.png"
         },
-        "cases": 6720,
-        "todayCases": 4,
-        "deaths": 83,
-        "todayDeaths": 0,
-        "recovered": 5586,
-        "active": 1051,
+        "cases": 6725,
+        "todayCases": 5,
+        "deaths": 84,
+        "todayDeaths": 1,
+        "recovered": 5602,
+        "active": 1039,
         "critical": 43,
         "casesPerOneMillion": 264,
         "deathsPerOneMillion": 3,
@@ -264,7 +264,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402509,
+        "updated": 1588036002427,
         "country": "Austria",
         "countryInfo": {
             "_id": 40,
@@ -275,9 +275,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/at.png"
         },
         "cases": 15274,
-        "todayCases": 49,
+        "todayCases": 0,
         "deaths": 549,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 12362,
         "active": 2363,
         "critical": 140,
@@ -288,7 +288,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402551,
+        "updated": 1588036002471,
         "country": "Azerbaijan",
         "countryInfo": {
             "_id": 31,
@@ -299,9 +299,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/az.png"
         },
         "cases": 1678,
-        "todayCases": 33,
+        "todayCases": 0,
         "deaths": 22,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 1162,
         "active": 494,
         "critical": 15,
@@ -312,7 +312,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402618,
+        "updated": 1588036002535,
         "country": "Bahamas",
         "countryInfo": {
             "_id": 44,
@@ -336,7 +336,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402543,
+        "updated": 1588036002458,
         "country": "Bahrain",
         "countryInfo": {
             "_id": 48,
@@ -347,7 +347,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bh.png"
         },
         "cases": 2723,
-        "todayCases": 76,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 1218,
@@ -360,7 +360,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402530,
+        "updated": 1588036002448,
         "country": "Bangladesh",
         "countryInfo": {
             "_id": 50,
@@ -371,9 +371,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bd.png"
         },
         "cases": 5913,
-        "todayCases": 497,
+        "todayCases": 0,
         "deaths": 152,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 131,
         "active": 5630,
         "critical": 1,
@@ -384,7 +384,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402619,
+        "updated": 1588036002537,
         "country": "Barbados",
         "countryInfo": {
             "_id": 52,
@@ -395,7 +395,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bb.png"
         },
         "cases": 80,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 6,
         "todayDeaths": 0,
         "recovered": 39,
@@ -408,7 +408,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402516,
+        "updated": 1588036002433,
         "country": "Belarus",
         "countryInfo": {
             "_id": 112,
@@ -419,9 +419,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/by.png"
         },
         "cases": 11289,
-        "todayCases": 826,
+        "todayCases": 0,
         "deaths": 75,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 1740,
         "active": 9474,
         "critical": 92,
@@ -432,7 +432,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402494,
+        "updated": 1588036002417,
         "country": "Belgium",
         "countryInfo": {
             "_id": 56,
@@ -443,9 +443,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/be.png"
         },
         "cases": 46687,
-        "todayCases": 553,
+        "todayCases": 0,
         "deaths": 7207,
-        "todayDeaths": 113,
+        "todayDeaths": 0,
         "recovered": 10878,
         "active": 28602,
         "critical": 903,
@@ -456,7 +456,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402645,
+        "updated": 1588036002562,
         "country": "Belize",
         "countryInfo": {
             "_id": 84,
@@ -480,7 +480,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402629,
+        "updated": 1588036002550,
         "country": "Benin",
         "countryInfo": {
             "_id": 204,
@@ -504,7 +504,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402610,
+        "updated": 1588036002530,
         "country": "Bermuda",
         "countryInfo": {
             "_id": 60,
@@ -515,9 +515,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bm.png"
         },
         "cases": 110,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 6,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 44,
         "active": 60,
         "critical": 10,
@@ -528,7 +528,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402661,
+        "updated": 1588036002576,
         "country": "Bhutan",
         "countryInfo": {
             "_id": 64,
@@ -552,7 +552,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402568,
+        "updated": 1588036002485,
         "country": "Bolivia",
         "countryInfo": {
             "_id": 68,
@@ -563,9 +563,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bo.png"
         },
         "cases": 950,
-        "todayCases": 84,
+        "todayCases": 0,
         "deaths": 50,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 80,
         "active": 820,
         "critical": 3,
@@ -576,7 +576,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402553,
+        "updated": 1588036002472,
         "country": "Bosnia",
         "countryInfo": {
             "_id": 70,
@@ -587,9 +587,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ba.png"
         },
         "cases": 1565,
-        "todayCases": 49,
+        "todayCases": 0,
         "deaths": 60,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 659,
         "active": 846,
         "critical": 4,
@@ -600,7 +600,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402643,
+        "updated": 1588036002560,
         "country": "Botswana",
         "countryInfo": {
             "_id": 72,
@@ -624,7 +624,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402492,
+        "updated": 1588036002415,
         "country": "Brazil",
         "countryInfo": {
             "_id": 76,
@@ -635,9 +635,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/br.png"
         },
         "cases": 66501,
-        "todayCases": 3642,
+        "todayCases": 0,
         "deaths": 4543,
-        "todayDeaths": 272,
+        "todayDeaths": 0,
         "recovered": 31142,
         "active": 30816,
         "critical": 8318,
@@ -648,7 +648,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402661,
+        "updated": 1588036002576,
         "country": "British Virgin Islands",
         "countryInfo": {
             "_id": 92,
@@ -672,7 +672,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402605,
+        "updated": 1588036002524,
         "country": "Brunei",
         "countryInfo": {
             "_id": 96,
@@ -696,7 +696,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402563,
+        "updated": 1588036002480,
         "country": "Bulgaria",
         "countryInfo": {
             "_id": 100,
@@ -707,9 +707,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bg.png"
         },
         "cases": 1363,
-        "todayCases": 63,
+        "todayCases": 0,
         "deaths": 58,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 206,
         "active": 1099,
         "critical": 41,
@@ -720,7 +720,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402578,
+        "updated": 1588036002496,
         "country": "Burkina Faso",
         "countryInfo": {
             "_id": 854,
@@ -731,7 +731,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/bf.png"
         },
         "cases": 635,
-        "todayCases": 3,
+        "todayCases": 0,
         "deaths": 42,
         "todayDeaths": 0,
         "recovered": 469,
@@ -744,7 +744,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402654,
+        "updated": 1588036002570,
         "country": "Burundi",
         "countryInfo": {
             "_id": 108,
@@ -768,7 +768,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402611,
+        "updated": 1588036002530,
         "country": "Cabo Verde",
         "countryInfo": {
             "_id": 132,
@@ -779,7 +779,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cv.png"
         },
         "cases": 109,
-        "todayCases": 3,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 1,
@@ -792,7 +792,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402608,
+        "updated": 1588036002527,
         "country": "Cambodia",
         "countryInfo": {
             "_id": 116,
@@ -816,7 +816,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402550,
+        "updated": 1588036002465,
         "country": "Cameroon",
         "countryInfo": {
             "_id": 120,
@@ -827,9 +827,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cm.png"
         },
         "cases": 1705,
-        "todayCases": 84,
+        "todayCases": 0,
         "deaths": 58,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 805,
         "active": 842,
         "critical": 12,
@@ -840,7 +840,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402493,
+        "updated": 1588036002416,
         "country": "Canada",
         "countryInfo": {
             "_id": 124,
@@ -851,9 +851,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ca.png"
         },
         "cases": 48500,
-        "todayCases": 1605,
+        "todayCases": 0,
         "deaths": 2707,
-        "todayDeaths": 147,
+        "todayDeaths": 0,
         "recovered": 18268,
         "active": 27525,
         "critical": 557,
@@ -864,7 +864,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402664,
+        "updated": 1588036002579,
         "country": "Caribbean Netherlands",
         "countryInfo": {
             "_id": 535,
@@ -888,7 +888,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402627,
+        "updated": 1588036002548,
         "country": "Cayman Islands",
         "countryInfo": {
             "_id": 136,
@@ -912,7 +912,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402644,
+        "updated": 1588036002561,
         "country": "Central African Republic",
         "countryInfo": {
             "_id": 140,
@@ -936,7 +936,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402634,
+        "updated": 1588036002552,
         "country": "Chad",
         "countryInfo": {
             "_id": 148,
@@ -960,7 +960,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402581,
+        "updated": 1588036002499,
         "country": "Channel Islands",
         "countryInfo": {
             "_id": 832,
@@ -984,7 +984,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402513,
+        "updated": 1588036002430,
         "country": "Chile",
         "countryInfo": {
             "_id": 152,
@@ -995,9 +995,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cl.png"
         },
         "cases": 13813,
-        "todayCases": 482,
+        "todayCases": 0,
         "deaths": 198,
-        "todayDeaths": 9,
+        "todayDeaths": 0,
         "recovered": 7327,
         "active": 6288,
         "critical": 426,
@@ -1008,7 +1008,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402668,
+        "updated": 1588036002582,
         "country": "China",
         "countryInfo": {
             "_id": 156,
@@ -1018,13 +1018,13 @@
             "long": 105,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cn.png"
         },
-        "cases": 82830,
-        "todayCases": 3,
+        "cases": 82836,
+        "todayCases": 6,
         "deaths": 4633,
-        "todayDeaths": 1,
-        "recovered": 77474,
-        "active": 723,
-        "critical": 52,
+        "todayDeaths": 0,
+        "recovered": 77555,
+        "active": 648,
+        "critical": 50,
         "casesPerOneMillion": 58,
         "deathsPerOneMillion": 3,
         "tests": 0,
@@ -1032,7 +1032,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402532,
+        "updated": 1588036002449,
         "country": "Colombia",
         "countryInfo": {
             "_id": 170,
@@ -1043,9 +1043,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/co.png"
         },
         "cases": 5597,
-        "todayCases": 218,
+        "todayCases": 0,
         "deaths": 253,
-        "todayDeaths": 9,
+        "todayDeaths": 0,
         "recovered": 1210,
         "active": 4134,
         "critical": 118,
@@ -1056,7 +1056,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402601,
+        "updated": 1588036002519,
         "country": "Congo",
         "countryInfo": {
             "_id": 178,
@@ -1080,7 +1080,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402576,
+        "updated": 1588036002493,
         "country": "Costa Rica",
         "countryInfo": {
             "_id": 188,
@@ -1091,7 +1091,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cr.png"
         },
         "cases": 697,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 6,
         "todayDeaths": 0,
         "recovered": 287,
@@ -1104,7 +1104,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402546,
+        "updated": 1588036002461,
         "country": "Croatia",
         "countryInfo": {
             "_id": 191,
@@ -1115,9 +1115,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/hr.png"
         },
         "cases": 2039,
-        "todayCases": 9,
+        "todayCases": 0,
         "deaths": 59,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 1166,
         "active": 814,
         "critical": 21,
@@ -1128,7 +1128,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402562,
+        "updated": 1588036002478,
         "country": "Cuba",
         "countryInfo": {
             "_id": 192,
@@ -1139,9 +1139,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cu.png"
         },
         "cases": 1389,
-        "todayCases": 20,
+        "todayCases": 0,
         "deaths": 56,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 525,
         "active": 808,
         "critical": 12,
@@ -1152,7 +1152,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402648,
+        "updated": 1588036002564,
         "country": "Cura\u00e7ao",
         "countryInfo": {
             "_id": 531,
@@ -1176,7 +1176,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402569,
+        "updated": 1588036002486,
         "country": "Cyprus",
         "countryInfo": {
             "_id": 196,
@@ -1187,9 +1187,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cy.png"
         },
         "cases": 822,
-        "todayCases": 5,
+        "todayCases": 0,
         "deaths": 15,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 148,
         "active": 659,
         "critical": 15,
@@ -1200,7 +1200,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402527,
+        "updated": 1588036002445,
         "country": "Czechia",
         "countryInfo": {
             "_id": 203,
@@ -1211,9 +1211,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cz.png"
         },
         "cases": 7445,
-        "todayCases": 41,
+        "todayCases": 0,
         "deaths": 223,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 2826,
         "active": 4396,
         "critical": 73,
@@ -1224,7 +1224,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402565,
+        "updated": 1588036002482,
         "country": "C\u00f4te d'Ivoire",
         "countryInfo": {
             "_id": 384,
@@ -1235,7 +1235,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ci.png"
         },
         "cases": 1164,
-        "todayCases": 14,
+        "todayCases": 0,
         "deaths": 14,
         "todayDeaths": 0,
         "recovered": 499,
@@ -1248,7 +1248,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402584,
+        "updated": 1588036002502,
         "country": "DRC",
         "countryInfo": {
             "_id": 180,
@@ -1259,7 +1259,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/cd.png"
         },
         "cases": 459,
-        "todayCases": 17,
+        "todayCases": 0,
         "deaths": 28,
         "todayDeaths": 0,
         "recovered": 50,
@@ -1272,7 +1272,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402522,
+        "updated": 1588036002439,
         "country": "Denmark",
         "countryInfo": {
             "_id": 208,
@@ -1283,9 +1283,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/dk.png"
         },
         "cases": 8698,
-        "todayCases": 123,
+        "todayCases": 0,
         "deaths": 427,
-        "todayDeaths": 5,
+        "todayDeaths": 0,
         "recovered": 5959,
         "active": 2312,
         "critical": 72,
@@ -1296,7 +1296,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402572,
+        "updated": 1588036002490,
         "country": "Diamond Princess",
         "countryInfo": {
             "_id": null,
@@ -1320,7 +1320,7 @@
         "continent": ""
     },
     {
-        "updated": 1588035402567,
+        "updated": 1588036002484,
         "country": "Djibouti",
         "countryInfo": {
             "_id": 262,
@@ -1331,7 +1331,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/dj.png"
         },
         "cases": 1035,
-        "todayCases": 12,
+        "todayCases": 0,
         "deaths": 2,
         "todayDeaths": 0,
         "recovered": 477,
@@ -1344,7 +1344,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402649,
+        "updated": 1588036002565,
         "country": "Dominica",
         "countryInfo": {
             "_id": 212,
@@ -1368,7 +1368,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402529,
+        "updated": 1588036002447,
         "country": "Dominican Republic",
         "countryInfo": {
             "_id": 214,
@@ -1379,9 +1379,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/do.png"
         },
         "cases": 6293,
-        "todayCases": 158,
+        "todayCases": 0,
         "deaths": 282,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 993,
         "active": 5018,
         "critical": 144,
@@ -1392,7 +1392,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402504,
+        "updated": 1588036002422,
         "country": "Ecuador",
         "countryInfo": {
             "_id": 218,
@@ -1403,9 +1403,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ec.png"
         },
         "cases": 23240,
-        "todayCases": 521,
+        "todayCases": 0,
         "deaths": 663,
-        "todayDeaths": 87,
+        "todayDeaths": 0,
         "recovered": 1557,
         "active": 21020,
         "critical": 146,
@@ -1416,7 +1416,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402534,
+        "updated": 1588036002451,
         "country": "Egypt",
         "countryInfo": {
             "_id": 818,
@@ -1427,9 +1427,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/eg.png"
         },
         "cases": 4782,
-        "todayCases": 248,
+        "todayCases": 0,
         "deaths": 337,
-        "todayDeaths": 20,
+        "todayDeaths": 0,
         "recovered": 1236,
         "active": 3209,
         "critical": 0,
@@ -1440,7 +1440,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402593,
+        "updated": 1588036002511,
         "country": "El Salvador",
         "countryInfo": {
             "_id": 222,
@@ -1451,7 +1451,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sv.png"
         },
         "cases": 323,
-        "todayCases": 25,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 89,
@@ -1464,7 +1464,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402597,
+        "updated": 1588036002516,
         "country": "Equatorial Guinea",
         "countryInfo": {
             "_id": 226,
@@ -1488,7 +1488,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402636,
+        "updated": 1588036002554,
         "country": "Eritrea",
         "countryInfo": {
             "_id": 232,
@@ -1512,7 +1512,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402552,
+        "updated": 1588036002471,
         "country": "Estonia",
         "countryInfo": {
             "_id": 233,
@@ -1523,9 +1523,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ee.png"
         },
         "cases": 1647,
-        "todayCases": 4,
+        "todayCases": 0,
         "deaths": 50,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 233,
         "active": 1364,
         "critical": 7,
@@ -1536,7 +1536,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402607,
+        "updated": 1588036002527,
         "country": "Ethiopia",
         "countryInfo": {
             "_id": 231,
@@ -1547,7 +1547,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/et.png"
         },
         "cases": 124,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 3,
         "todayDeaths": 0,
         "recovered": 50,
@@ -1560,7 +1560,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402652,
+        "updated": 1588036002568,
         "country": "Falkland Islands (Malvinas)",
         "countryInfo": {
             "_id": 238,
@@ -1584,7 +1584,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402601,
+        "updated": 1588036002520,
         "country": "Faroe Islands",
         "countryInfo": {
             "_id": 234,
@@ -1608,7 +1608,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402646,
+        "updated": 1588036002562,
         "country": "Fiji",
         "countryInfo": {
             "_id": 242,
@@ -1632,7 +1632,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402535,
+        "updated": 1588036002452,
         "country": "Finland",
         "countryInfo": {
             "_id": 246,
@@ -1643,9 +1643,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/fi.png"
         },
         "cases": 4695,
-        "todayCases": 119,
+        "todayCases": 0,
         "deaths": 193,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 2500,
         "active": 2002,
         "critical": 56,
@@ -1656,7 +1656,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402486,
+        "updated": 1588036002404,
         "country": "France",
         "countryInfo": {
             "_id": 250,
@@ -1667,9 +1667,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/fr.png"
         },
         "cases": 165842,
-        "todayCases": 3742,
+        "todayCases": 0,
         "deaths": 23293,
-        "todayDeaths": 437,
+        "todayDeaths": 0,
         "recovered": 45513,
         "active": 97036,
         "critical": 4608,
@@ -1680,7 +1680,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402610,
+        "updated": 1588036002529,
         "country": "French Guiana",
         "countryInfo": {
             "_id": 254,
@@ -1704,7 +1704,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402630,
+        "updated": 1588036002551,
         "country": "French Polynesia",
         "countryInfo": {
             "_id": 258,
@@ -1728,7 +1728,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402599,
+        "updated": 1588036002518,
         "country": "Gabon",
         "countryInfo": {
             "_id": 266,
@@ -1739,7 +1739,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ga.png"
         },
         "cases": 211,
-        "todayCases": 35,
+        "todayCases": 0,
         "deaths": 3,
         "todayDeaths": 0,
         "recovered": 43,
@@ -1752,7 +1752,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402656,
+        "updated": 1588036002572,
         "country": "Gambia",
         "countryInfo": {
             "_id": 270,
@@ -1776,7 +1776,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402582,
+        "updated": 1588036002500,
         "country": "Georgia",
         "countryInfo": {
             "_id": 268,
@@ -1787,7 +1787,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ge.png"
         },
         "cases": 497,
-        "todayCases": 11,
+        "todayCases": 0,
         "deaths": 6,
         "todayDeaths": 0,
         "recovered": 156,
@@ -1800,7 +1800,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402487,
+        "updated": 1588036002405,
         "country": "Germany",
         "countryInfo": {
             "_id": 276,
@@ -1811,9 +1811,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/de.png"
         },
         "cases": 158758,
-        "todayCases": 988,
+        "todayCases": 0,
         "deaths": 6126,
-        "todayDeaths": 150,
+        "todayDeaths": 0,
         "recovered": 114500,
         "active": 38132,
         "critical": 2409,
@@ -1824,7 +1824,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402554,
+        "updated": 1588036002473,
         "country": "Ghana",
         "countryInfo": {
             "_id": 288,
@@ -1848,7 +1848,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402605,
+        "updated": 1588036002524,
         "country": "Gibraltar",
         "countryInfo": {
             "_id": 292,
@@ -1872,7 +1872,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402544,
+        "updated": 1588036002460,
         "country": "Greece",
         "countryInfo": {
             "_id": 300,
@@ -1883,9 +1883,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/gr.png"
         },
         "cases": 2534,
-        "todayCases": 17,
+        "todayCases": 0,
         "deaths": 136,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 577,
         "active": 1821,
         "critical": 43,
@@ -1896,7 +1896,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402655,
+        "updated": 1588036002571,
         "country": "Greenland",
         "countryInfo": {
             "_id": 304,
@@ -1920,7 +1920,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402647,
+        "updated": 1588036002563,
         "country": "Grenada",
         "countryInfo": {
             "_id": 308,
@@ -1944,7 +1944,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402603,
+        "updated": 1588036002522,
         "country": "Guadeloupe",
         "countryInfo": {
             "_id": 312,
@@ -1968,7 +1968,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402582,
+        "updated": 1588036002500,
         "country": "Guatemala",
         "countryInfo": {
             "_id": 320,
@@ -1979,9 +1979,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/gt.png"
         },
         "cases": 500,
-        "todayCases": 27,
+        "todayCases": 0,
         "deaths": 15,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 49,
         "active": 436,
         "critical": 5,
@@ -1992,7 +1992,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402566,
+        "updated": 1588036002483,
         "country": "Guinea",
         "countryInfo": {
             "_id": 324,
@@ -2003,7 +2003,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/gn.png"
         },
         "cases": 1163,
-        "todayCases": 167,
+        "todayCases": 0,
         "deaths": 7,
         "todayDeaths": 0,
         "recovered": 246,
@@ -2016,7 +2016,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402625,
+        "updated": 1588036002545,
         "country": "Guinea-Bissau",
         "countryInfo": {
             "_id": 624,
@@ -2027,7 +2027,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/gw.png"
         },
         "cases": 73,
-        "todayCases": 20,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 18,
@@ -2040,7 +2040,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402624,
+        "updated": 1588036002543,
         "country": "Guyana",
         "countryInfo": {
             "_id": 328,
@@ -2064,7 +2064,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402624,
+        "updated": 1588036002544,
         "country": "Haiti",
         "countryInfo": {
             "_id": 332,
@@ -2088,7 +2088,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402658,
+        "updated": 1588036002574,
         "country": "Holy See (Vatican City State)",
         "countryInfo": {
             "_id": 336,
@@ -2112,7 +2112,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402577,
+        "updated": 1588036002495,
         "country": "Honduras",
         "countryInfo": {
             "_id": 340,
@@ -2123,9 +2123,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/hn.png"
         },
         "cases": 661,
-        "todayCases": 34,
+        "todayCases": 0,
         "deaths": 61,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 79,
         "active": 521,
         "critical": 10,
@@ -2136,7 +2136,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402566,
+        "updated": 1588036002483,
         "country": "Hong Kong",
         "countryInfo": {
             "_id": 344,
@@ -2160,7 +2160,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402543,
+        "updated": 1588036002459,
         "country": "Hungary",
         "countryInfo": {
             "_id": 348,
@@ -2171,9 +2171,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/hu.png"
         },
         "cases": 2583,
-        "todayCases": 83,
+        "todayCases": 0,
         "deaths": 280,
-        "todayDeaths": 8,
+        "todayDeaths": 0,
         "recovered": 498,
         "active": 1805,
         "critical": 61,
@@ -2184,7 +2184,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402549,
+        "updated": 1588036002464,
         "country": "Iceland",
         "countryInfo": {
             "_id": 352,
@@ -2208,7 +2208,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402500,
+        "updated": 1588036002418,
         "country": "India",
         "countryInfo": {
             "_id": 356,
@@ -2219,9 +2219,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/in.png"
         },
         "cases": 29451,
-        "todayCases": 1561,
+        "todayCases": 0,
         "deaths": 939,
-        "todayDeaths": 58,
+        "todayDeaths": 0,
         "recovered": 7137,
         "active": 21375,
         "critical": 0,
@@ -2232,7 +2232,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402520,
+        "updated": 1588036002437,
         "country": "Indonesia",
         "countryInfo": {
             "_id": 360,
@@ -2243,9 +2243,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/id.png"
         },
         "cases": 9096,
-        "todayCases": 214,
+        "todayCases": 0,
         "deaths": 765,
-        "todayDeaths": 22,
+        "todayDeaths": 0,
         "recovered": 1151,
         "active": 7180,
         "critical": 0,
@@ -2256,7 +2256,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402490,
+        "updated": 1588036002408,
         "country": "Iran",
         "countryInfo": {
             "_id": 364,
@@ -2267,9 +2267,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ir.png"
         },
         "cases": 91472,
-        "todayCases": 991,
+        "todayCases": 0,
         "deaths": 5806,
-        "todayDeaths": 96,
+        "todayDeaths": 0,
         "recovered": 70933,
         "active": 14733,
         "critical": 3011,
@@ -2280,7 +2280,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402547,
+        "updated": 1588036002463,
         "country": "Iraq",
         "countryInfo": {
             "_id": 368,
@@ -2291,9 +2291,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/iq.png"
         },
         "cases": 1847,
-        "todayCases": 27,
+        "todayCases": 0,
         "deaths": 88,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 1286,
         "active": 473,
         "critical": 0,
@@ -2304,7 +2304,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402505,
+        "updated": 1588036002423,
         "country": "Ireland",
         "countryInfo": {
             "_id": 372,
@@ -2315,9 +2315,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ie.png"
         },
         "cases": 19648,
-        "todayCases": 386,
+        "todayCases": 0,
         "deaths": 1102,
-        "todayDeaths": 15,
+        "todayDeaths": 0,
         "recovered": 9233,
         "active": 9313,
         "critical": 146,
@@ -2328,7 +2328,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402594,
+        "updated": 1588036002512,
         "country": "Isle of Man",
         "countryInfo": {
             "_id": 833,
@@ -2341,7 +2341,7 @@
         "cases": 308,
         "todayCases": 0,
         "deaths": 20,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 248,
         "active": 40,
         "critical": 22,
@@ -2352,7 +2352,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402508,
+        "updated": 1588036002425,
         "country": "Israel",
         "countryInfo": {
             "_id": 376,
@@ -2363,9 +2363,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/il.png"
         },
         "cases": 15555,
-        "todayCases": 112,
+        "todayCases": 0,
         "deaths": 204,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 7200,
         "active": 8151,
         "critical": 129,
@@ -2376,7 +2376,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402486,
+        "updated": 1588036002403,
         "country": "Italy",
         "countryInfo": {
             "_id": 380,
@@ -2387,9 +2387,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/it.png"
         },
         "cases": 199414,
-        "todayCases": 1739,
+        "todayCases": 0,
         "deaths": 26977,
-        "todayDeaths": 333,
+        "todayDeaths": 0,
         "recovered": 66624,
         "active": 105813,
         "critical": 1956,
@@ -2400,7 +2400,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402589,
+        "updated": 1588036002507,
         "country": "Jamaica",
         "countryInfo": {
             "_id": 388,
@@ -2410,21 +2410,21 @@
             "long": -77.5,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/jm.png"
         },
-        "cases": 350,
-        "todayCases": 45,
+        "cases": 364,
+        "todayCases": 14,
         "deaths": 7,
         "todayDeaths": 0,
-        "recovered": 28,
-        "active": 315,
+        "recovered": 29,
+        "active": 328,
         "critical": 3,
-        "casesPerOneMillion": 118,
+        "casesPerOneMillion": 123,
         "deathsPerOneMillion": 2,
-        "tests": 3262,
-        "testsPerOneMillion": 1102,
+        "tests": 3621,
+        "testsPerOneMillion": 1223,
         "continent": "North America"
     },
     {
-        "updated": 1588035402511,
+        "updated": 1588036002429,
         "country": "Japan",
         "countryInfo": {
             "_id": 392,
@@ -2435,9 +2435,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/jp.png"
         },
         "cases": 14153,
-        "todayCases": 712,
+        "todayCases": 0,
         "deaths": 385,
-        "todayDeaths": 13,
+        "todayDeaths": 0,
         "recovered": 1899,
         "active": 11869,
         "critical": 300,
@@ -2448,7 +2448,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402585,
+        "updated": 1588036002504,
         "country": "Jordan",
         "countryInfo": {
             "_id": 400,
@@ -2459,7 +2459,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/jo.png"
         },
         "cases": 449,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 7,
         "todayDeaths": 0,
         "recovered": 342,
@@ -2472,7 +2472,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402542,
+        "updated": 1588036002458,
         "country": "Kazakhstan",
         "countryInfo": {
             "_id": 398,
@@ -2483,7 +2483,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/kz.png"
         },
         "cases": 2835,
-        "todayCases": 118,
+        "todayCases": 0,
         "deaths": 25,
         "todayDeaths": 0,
         "recovered": 720,
@@ -2496,7 +2496,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402589,
+        "updated": 1588036002508,
         "country": "Kenya",
         "countryInfo": {
             "_id": 404,
@@ -2507,7 +2507,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ke.png"
         },
         "cases": 363,
-        "todayCases": 8,
+        "todayCases": 0,
         "deaths": 14,
         "todayDeaths": 0,
         "recovered": 114,
@@ -2520,7 +2520,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402540,
+        "updated": 1588036002456,
         "country": "Kuwait",
         "countryInfo": {
             "_id": 414,
@@ -2531,9 +2531,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/kw.png"
         },
         "cases": 3288,
-        "todayCases": 213,
+        "todayCases": 0,
         "deaths": 22,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 1012,
         "active": 2254,
         "critical": 64,
@@ -2544,7 +2544,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402576,
+        "updated": 1588036002494,
         "country": "Kyrgyzstan",
         "countryInfo": {
             "_id": 417,
@@ -2555,7 +2555,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/kg.png"
         },
         "cases": 695,
-        "todayCases": 13,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 395,
@@ -2568,7 +2568,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402645,
+        "updated": 1588036002561,
         "country": "Lao People's Democratic Republic",
         "countryInfo": {
             "_id": 418,
@@ -2592,7 +2592,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402570,
+        "updated": 1588036002487,
         "country": "Latvia",
         "countryInfo": {
             "_id": 428,
@@ -2603,9 +2603,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/lv.png"
         },
         "cases": 818,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 13,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 267,
         "active": 538,
         "critical": 5,
@@ -2616,7 +2616,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402574,
+        "updated": 1588036002492,
         "country": "Lebanon",
         "countryInfo": {
             "_id": 422,
@@ -2627,7 +2627,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/lb.png"
         },
         "cases": 710,
-        "todayCases": 3,
+        "todayCases": 0,
         "deaths": 24,
         "todayDeaths": 0,
         "recovered": 145,
@@ -2640,7 +2640,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402607,
+        "updated": 1588036002526,
         "country": "Liberia",
         "countryInfo": {
             "_id": 430,
@@ -2664,7 +2664,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402629,
+        "updated": 1588036002550,
         "country": "Libyan Arab Jamahiriya",
         "countryInfo": {
             "_id": 434,
@@ -2688,7 +2688,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402617,
+        "updated": 1588036002534,
         "country": "Liechtenstein",
         "countryInfo": {
             "_id": 438,
@@ -2712,7 +2712,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402555,
+        "updated": 1588036002474,
         "country": "Lithuania",
         "countryInfo": {
             "_id": 440,
@@ -2723,7 +2723,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/lt.png"
         },
         "cases": 1449,
-        "todayCases": 11,
+        "todayCases": 0,
         "deaths": 41,
         "todayDeaths": 0,
         "recovered": 474,
@@ -2736,7 +2736,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402537,
+        "updated": 1588036002454,
         "country": "Luxembourg",
         "countryInfo": {
             "_id": 442,
@@ -2747,7 +2747,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/lu.png"
         },
         "cases": 3729,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 88,
         "todayDeaths": 0,
         "recovered": 3123,
@@ -2760,7 +2760,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402658,
+        "updated": 1588036002573,
         "country": "MS Zaandam",
         "countryInfo": {
             "_id": null,
@@ -2784,7 +2784,7 @@
         "continent": ""
     },
     {
-        "updated": 1588035402634,
+        "updated": 1588036002553,
         "country": "Macao",
         "countryInfo": {
             "_id": 446,
@@ -2808,7 +2808,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402560,
+        "updated": 1588036002476,
         "country": "Macedonia",
         "countryInfo": {
             "_id": 807,
@@ -2819,9 +2819,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mk.png"
         },
         "cases": 1399,
-        "todayCases": 13,
+        "todayCases": 0,
         "deaths": 65,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 553,
         "active": 781,
         "critical": 13,
@@ -2832,7 +2832,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402606,
+        "updated": 1588036002525,
         "country": "Madagascar",
         "countryInfo": {
             "_id": 450,
@@ -2843,7 +2843,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mg.png"
         },
         "cases": 128,
-        "todayCases": 4,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 75,
@@ -2856,7 +2856,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402638,
+        "updated": 1588036002556,
         "country": "Malawi",
         "countryInfo": {
             "_id": 454,
@@ -2867,7 +2867,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mw.png"
         },
         "cases": 36,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 3,
         "todayDeaths": 0,
         "recovered": 4,
@@ -2880,7 +2880,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402530,
+        "updated": 1588036002449,
         "country": "Malaysia",
         "countryInfo": {
             "_id": 458,
@@ -2891,9 +2891,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/my.png"
         },
         "cases": 5820,
-        "todayCases": 40,
+        "todayCases": 0,
         "deaths": 99,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 3957,
         "active": 1764,
         "critical": 37,
@@ -2904,7 +2904,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402599,
+        "updated": 1588036002517,
         "country": "Maldives",
         "countryInfo": {
             "_id": 462,
@@ -2915,7 +2915,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mv.png"
         },
         "cases": 226,
-        "todayCases": 12,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 17,
@@ -2928,7 +2928,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402587,
+        "updated": 1588036002506,
         "country": "Mali",
         "countryInfo": {
             "_id": 466,
@@ -2939,7 +2939,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ml.png"
         },
         "cases": 408,
-        "todayCases": 19,
+        "todayCases": 0,
         "deaths": 23,
         "todayDeaths": 0,
         "recovered": 113,
@@ -2952,7 +2952,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402585,
+        "updated": 1588036002503,
         "country": "Malta",
         "countryInfo": {
             "_id": 470,
@@ -2963,7 +2963,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mt.png"
         },
         "cases": 450,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 4,
         "todayDeaths": 0,
         "recovered": 286,
@@ -2976,7 +2976,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402603,
+        "updated": 1588036002521,
         "country": "Martinique",
         "countryInfo": {
             "_id": 474,
@@ -3000,7 +3000,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402660,
+        "updated": 1588036002575,
         "country": "Mauritania",
         "countryInfo": {
             "_id": 478,
@@ -3024,7 +3024,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402591,
+        "updated": 1588036002510,
         "country": "Mauritius",
         "countryInfo": {
             "_id": 480,
@@ -3035,9 +3035,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mu.png"
         },
         "cases": 334,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 10,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 302,
         "active": 22,
         "critical": 3,
@@ -3048,7 +3048,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402588,
+        "updated": 1588036002507,
         "country": "Mayotte",
         "countryInfo": {
             "_id": 175,
@@ -3072,7 +3072,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402509,
+        "updated": 1588036002426,
         "country": "Mexico",
         "countryInfo": {
             "_id": 484,
@@ -3082,21 +3082,21 @@
             "long": -102,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mx.png"
         },
-        "cases": 14677,
-        "todayCases": 835,
-        "deaths": 1351,
-        "todayDeaths": 46,
+        "cases": 15529,
+        "todayCases": 852,
+        "deaths": 1434,
+        "todayDeaths": 83,
         "recovered": 8354,
-        "active": 4972,
+        "active": 5741,
         "critical": 378,
-        "casesPerOneMillion": 114,
-        "deathsPerOneMillion": 10,
+        "casesPerOneMillion": 120,
+        "deathsPerOneMillion": 11,
         "tests": 67635,
         "testsPerOneMillion": 525,
         "continent": "North America"
     },
     {
-        "updated": 1588035402539,
+        "updated": 1588036002455,
         "country": "Moldova",
         "countryInfo": {
             "_id": 498,
@@ -3107,9 +3107,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/md.png"
         },
         "cases": 3481,
-        "todayCases": 73,
+        "todayCases": 0,
         "deaths": 102,
-        "todayDeaths": 6,
+        "todayDeaths": 0,
         "recovered": 925,
         "active": 2454,
         "critical": 212,
@@ -3120,7 +3120,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402613,
+        "updated": 1588036002532,
         "country": "Monaco",
         "countryInfo": {
             "_id": 492,
@@ -3131,7 +3131,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/mc.png"
         },
         "cases": 95,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 4,
         "todayDeaths": 0,
         "recovered": 42,
@@ -3144,7 +3144,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402637,
+        "updated": 1588036002555,
         "country": "Mongolia",
         "countryInfo": {
             "_id": 496,
@@ -3168,7 +3168,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402594,
+        "updated": 1588036002512,
         "country": "Montenegro",
         "countryInfo": {
             "_id": 499,
@@ -3192,7 +3192,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402654,
+        "updated": 1588036002570,
         "country": "Montserrat",
         "countryInfo": {
             "_id": 500,
@@ -3216,7 +3216,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402536,
+        "updated": 1588036002452,
         "country": "Morocco",
         "countryInfo": {
             "_id": 504,
@@ -3227,9 +3227,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ma.png"
         },
         "cases": 4120,
-        "todayCases": 55,
+        "todayCases": 0,
         "deaths": 162,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 695,
         "active": 3263,
         "critical": 1,
@@ -3240,7 +3240,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402621,
+        "updated": 1588036002539,
         "country": "Mozambique",
         "countryInfo": {
             "_id": 508,
@@ -3264,7 +3264,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402604,
+        "updated": 1588036002523,
         "country": "Myanmar",
         "countryInfo": {
             "_id": 104,
@@ -3288,7 +3288,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402649,
+        "updated": 1588036002565,
         "country": "Namibia",
         "countryInfo": {
             "_id": 516,
@@ -3312,7 +3312,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402633,
+        "updated": 1588036002551,
         "country": "Nepal",
         "countryInfo": {
             "_id": 524,
@@ -3336,7 +3336,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402499,
+        "updated": 1588036002417,
         "country": "Netherlands",
         "countryInfo": {
             "_id": 528,
@@ -3347,9 +3347,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/nl.png"
         },
         "cases": 38245,
-        "todayCases": 400,
+        "todayCases": 0,
         "deaths": 4518,
-        "todayDeaths": 43,
+        "todayDeaths": 0,
         "recovered": 0,
         "active": 33477,
         "critical": 905,
@@ -3360,7 +3360,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402647,
+        "updated": 1588036002563,
         "country": "New Caledonia",
         "countryInfo": {
             "_id": 540,
@@ -3384,7 +3384,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402554,
+        "updated": 1588036002474,
         "country": "New Zealand",
         "countryInfo": {
             "_id": 554,
@@ -3397,7 +3397,7 @@
         "cases": 1469,
         "todayCases": 0,
         "deaths": 19,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 1180,
         "active": 270,
         "critical": 1,
@@ -3408,7 +3408,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402652,
+        "updated": 1588036002568,
         "country": "Nicaragua",
         "countryInfo": {
             "_id": 558,
@@ -3432,7 +3432,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402575,
+        "updated": 1588036002492,
         "country": "Niger",
         "countryInfo": {
             "_id": 562,
@@ -3443,7 +3443,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ne.png"
         },
         "cases": 701,
-        "todayCases": 5,
+        "todayCases": 0,
         "deaths": 29,
         "todayDeaths": 0,
         "recovered": 385,
@@ -3456,7 +3456,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402564,
+        "updated": 1588036002481,
         "country": "Nigeria",
         "countryInfo": {
             "_id": 566,
@@ -3467,7 +3467,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ng.png"
         },
         "cases": 1337,
-        "todayCases": 64,
+        "todayCases": 0,
         "deaths": 40,
         "todayDeaths": 0,
         "recovered": 255,
@@ -3480,7 +3480,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402526,
+        "updated": 1588036002443,
         "country": "Norway",
         "countryInfo": {
             "_id": 578,
@@ -3491,9 +3491,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/no.png"
         },
         "cases": 7599,
-        "todayCases": 72,
+        "todayCases": 0,
         "deaths": 205,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 32,
         "active": 7362,
         "critical": 52,
@@ -3504,7 +3504,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402545,
+        "updated": 1588036002460,
         "country": "Oman",
         "countryInfo": {
             "_id": 512,
@@ -3515,7 +3515,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/om.png"
         },
         "cases": 2049,
-        "todayCases": 51,
+        "todayCases": 0,
         "deaths": 10,
         "todayDeaths": 0,
         "recovered": 364,
@@ -3528,7 +3528,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402512,
+        "updated": 1588036002430,
         "country": "Pakistan",
         "countryInfo": {
             "_id": 586,
@@ -3539,9 +3539,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/pk.png"
         },
         "cases": 13915,
-        "todayCases": 587,
+        "todayCases": 0,
         "deaths": 292,
-        "todayDeaths": 11,
+        "todayDeaths": 0,
         "recovered": 3029,
         "active": 10594,
         "critical": 111,
@@ -3552,7 +3552,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402591,
+        "updated": 1588036002509,
         "country": "Palestine",
         "countryInfo": {
             "_id": 275,
@@ -3576,7 +3576,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402531,
+        "updated": 1588036002447,
         "country": "Panama",
         "countryInfo": {
             "_id": 591,
@@ -3586,21 +3586,21 @@
             "long": -80,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/pa.png"
         },
-        "cases": 5779,
-        "todayCases": 241,
-        "deaths": 165,
-        "todayDeaths": 6,
-        "recovered": 369,
-        "active": 5245,
-        "critical": 85,
-        "casesPerOneMillion": 1339,
-        "deathsPerOneMillion": 38,
-        "tests": 26642,
-        "testsPerOneMillion": 6175,
+        "cases": 6021,
+        "todayCases": 242,
+        "deaths": 167,
+        "todayDeaths": 2,
+        "recovered": 455,
+        "active": 5399,
+        "critical": 89,
+        "casesPerOneMillion": 1395,
+        "deathsPerOneMillion": 39,
+        "tests": 27834,
+        "testsPerOneMillion": 6451,
         "continent": "North America"
     },
     {
-        "updated": 1588035402659,
+        "updated": 1588036002575,
         "country": "Papua New Guinea",
         "countryInfo": {
             "_id": 598,
@@ -3624,7 +3624,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402598,
+        "updated": 1588036002516,
         "country": "Paraguay",
         "countryInfo": {
             "_id": 600,
@@ -3648,7 +3648,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402502,
+        "updated": 1588036002420,
         "country": "Peru",
         "countryInfo": {
             "_id": 604,
@@ -3659,9 +3659,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/pe.png"
         },
         "cases": 28699,
-        "todayCases": 1182,
+        "todayCases": 0,
         "deaths": 782,
-        "todayDeaths": 54,
+        "todayDeaths": 0,
         "recovered": 8425,
         "active": 19492,
         "critical": 598,
@@ -3672,7 +3672,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402525,
+        "updated": 1588036002442,
         "country": "Philippines",
         "countryInfo": {
             "_id": 608,
@@ -3683,9 +3683,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ph.png"
         },
         "cases": 7777,
-        "todayCases": 198,
+        "todayCases": 0,
         "deaths": 511,
-        "todayDeaths": 10,
+        "todayDeaths": 0,
         "recovered": 932,
         "active": 6334,
         "critical": 31,
@@ -3696,7 +3696,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402514,
+        "updated": 1588036002431,
         "country": "Poland",
         "countryInfo": {
             "_id": 616,
@@ -3707,9 +3707,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/pl.png"
         },
         "cases": 11902,
-        "todayCases": 285,
+        "todayCases": 0,
         "deaths": 562,
-        "todayDeaths": 27,
+        "todayDeaths": 0,
         "recovered": 2466,
         "active": 8874,
         "critical": 160,
@@ -3720,7 +3720,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402503,
+        "updated": 1588036002421,
         "country": "Portugal",
         "countryInfo": {
             "_id": 620,
@@ -3731,9 +3731,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/pt.png"
         },
         "cases": 24027,
-        "todayCases": 163,
+        "todayCases": 0,
         "deaths": 928,
-        "todayDeaths": 25,
+        "todayDeaths": 0,
         "recovered": 1357,
         "active": 21742,
         "critical": 176,
@@ -3744,7 +3744,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402517,
+        "updated": 1588036002434,
         "country": "Qatar",
         "countryInfo": {
             "_id": 634,
@@ -3755,7 +3755,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/qa.png"
         },
         "cases": 11244,
-        "todayCases": 957,
+        "todayCases": 0,
         "deaths": 10,
         "todayDeaths": 0,
         "recovered": 1066,
@@ -3768,7 +3768,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402515,
+        "updated": 1588036002432,
         "country": "Romania",
         "countryInfo": {
             "_id": 642,
@@ -3779,9 +3779,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ro.png"
         },
         "cases": 11339,
-        "todayCases": 303,
+        "todayCases": 0,
         "deaths": 641,
-        "todayDeaths": 22,
+        "todayDeaths": 0,
         "recovered": 3141,
         "active": 7557,
         "critical": 227,
@@ -3792,7 +3792,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402491,
+        "updated": 1588036002414,
         "country": "Russia",
         "countryInfo": {
             "_id": 643,
@@ -3803,9 +3803,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ru.png"
         },
         "cases": 87147,
-        "todayCases": 6198,
+        "todayCases": 0,
         "deaths": 794,
-        "todayDeaths": 47,
+        "todayDeaths": 0,
         "recovered": 7346,
         "active": 79007,
         "critical": 2300,
@@ -3816,7 +3816,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402600,
+        "updated": 1588036002519,
         "country": "Rwanda",
         "countryInfo": {
             "_id": 646,
@@ -3827,7 +3827,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/rw.png"
         },
         "cases": 207,
-        "todayCases": 16,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 93,
@@ -3840,7 +3840,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402587,
+        "updated": 1588036002505,
         "country": "R\u00e9union",
         "countryInfo": {
             "_id": 638,
@@ -3851,7 +3851,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/re.png"
         },
         "cases": 418,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 300,
@@ -3864,7 +3864,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402519,
+        "updated": 1588036002436,
         "country": "S. Korea",
         "countryInfo": {
             "_id": 410,
@@ -3875,9 +3875,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/kr.png"
         },
         "cases": 10738,
-        "todayCases": 10,
+        "todayCases": 0,
         "deaths": 243,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 8764,
         "active": 1731,
         "critical": 55,
@@ -3888,7 +3888,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402650,
+        "updated": 1588036002566,
         "country": "Saint Kitts and Nevis",
         "countryInfo": {
             "_id": 659,
@@ -3912,7 +3912,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402651,
+        "updated": 1588036002566,
         "country": "Saint Lucia",
         "countryInfo": {
             "_id": 662,
@@ -3936,7 +3936,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402637,
+        "updated": 1588036002554,
         "country": "Saint Martin",
         "countryInfo": {
             "_id": 663,
@@ -3960,7 +3960,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402666,
+        "updated": 1588036002581,
         "country": "Saint Pierre Miquelon",
         "countryInfo": {
             "_id": 666,
@@ -3984,7 +3984,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402651,
+        "updated": 1588036002567,
         "country": "Saint Vincent and the Grenadines",
         "countryInfo": {
             "_id": 670,
@@ -3995,7 +3995,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/vc.png"
         },
         "cases": 15,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 5,
@@ -4008,7 +4008,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402580,
+        "updated": 1588036002498,
         "country": "San Marino",
         "countryInfo": {
             "_id": 674,
@@ -4032,7 +4032,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402665,
+        "updated": 1588036002580,
         "country": "Sao Tome and Principe",
         "countryInfo": {
             "_id": 678,
@@ -4056,7 +4056,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402507,
+        "updated": 1588036002424,
         "country": "Saudi Arabia",
         "countryInfo": {
             "_id": 682,
@@ -4067,9 +4067,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sa.png"
         },
         "cases": 18811,
-        "todayCases": 1289,
+        "todayCases": 0,
         "deaths": 144,
-        "todayDeaths": 5,
+        "todayDeaths": 0,
         "recovered": 2531,
         "active": 16136,
         "critical": 117,
@@ -4080,7 +4080,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402572,
+        "updated": 1588036002489,
         "country": "Senegal",
         "countryInfo": {
             "_id": 686,
@@ -4091,7 +4091,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sn.png"
         },
         "cases": 736,
-        "todayCases": 65,
+        "todayCases": 0,
         "deaths": 9,
         "todayDeaths": 0,
         "recovered": 284,
@@ -4104,7 +4104,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402524,
+        "updated": 1588036002441,
         "country": "Serbia",
         "countryInfo": {
             "_id": 688,
@@ -4115,9 +4115,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/rs.png"
         },
         "cases": 8275,
-        "todayCases": 233,
+        "todayCases": 0,
         "deaths": 162,
-        "todayDeaths": 6,
+        "todayDeaths": 0,
         "recovered": 1209,
         "active": 6904,
         "critical": 85,
@@ -4128,7 +4128,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402656,
+        "updated": 1588036002571,
         "country": "Seychelles",
         "countryInfo": {
             "_id": 690,
@@ -4152,7 +4152,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402614,
+        "updated": 1588036002533,
         "country": "Sierra Leone",
         "countryInfo": {
             "_id": 694,
@@ -4176,7 +4176,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402510,
+        "updated": 1588036002428,
         "country": "Singapore",
         "countryInfo": {
             "_id": 702,
@@ -4187,9 +4187,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sg.png"
         },
         "cases": 14423,
-        "todayCases": 799,
+        "todayCases": 0,
         "deaths": 14,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 1095,
         "active": 13314,
         "critical": 20,
@@ -4200,7 +4200,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402622,
+        "updated": 1588036002542,
         "country": "Sint Maarten",
         "countryInfo": {
             "_id": 534,
@@ -4224,7 +4224,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402562,
+        "updated": 1588036002479,
         "country": "Slovakia",
         "countryInfo": {
             "_id": 703,
@@ -4235,7 +4235,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sk.png"
         },
         "cases": 1381,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 18,
         "todayDeaths": 0,
         "recovered": 403,
@@ -4248,7 +4248,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402559,
+        "updated": 1588036002475,
         "country": "Slovenia",
         "countryInfo": {
             "_id": 705,
@@ -4259,9 +4259,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/si.png"
         },
         "cases": 1402,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 83,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 221,
         "active": 1098,
         "critical": 22,
@@ -4272,7 +4272,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402583,
+        "updated": 1588036002501,
         "country": "Somalia",
         "countryInfo": {
             "_id": 706,
@@ -4283,9 +4283,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/so.png"
         },
         "cases": 480,
-        "todayCases": 44,
+        "todayCases": 0,
         "deaths": 26,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 10,
         "active": 444,
         "critical": 2,
@@ -4296,7 +4296,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402533,
+        "updated": 1588036002450,
         "country": "South Africa",
         "countryInfo": {
             "_id": 710,
@@ -4307,9 +4307,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/za.png"
         },
         "cases": 4793,
-        "todayCases": 247,
+        "todayCases": 0,
         "deaths": 90,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 1473,
         "active": 3230,
         "critical": 36,
@@ -4320,7 +4320,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402663,
+        "updated": 1588036002578,
         "country": "South Sudan",
         "countryInfo": {
             "_id": 728,
@@ -4344,7 +4344,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402485,
+        "updated": 1588036002402,
         "country": "Spain",
         "countryInfo": {
             "_id": 724,
@@ -4355,9 +4355,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/es.png"
         },
         "cases": 229422,
-        "todayCases": 2793,
+        "todayCases": 0,
         "deaths": 23521,
-        "todayDeaths": 331,
+        "todayDeaths": 0,
         "recovered": 120832,
         "active": 85069,
         "critical": 7764,
@@ -4368,7 +4368,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402579,
+        "updated": 1588036002497,
         "country": "Sri Lanka",
         "countryInfo": {
             "_id": 144,
@@ -4379,7 +4379,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/lk.png"
         },
         "cases": 588,
-        "todayCases": 65,
+        "todayCases": 0,
         "deaths": 7,
         "todayDeaths": 0,
         "recovered": 126,
@@ -4392,7 +4392,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402662,
+        "updated": 1588036002577,
         "country": "St. Barth",
         "countryInfo": {
             "_id": 652,
@@ -4416,7 +4416,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402596,
+        "updated": 1588036002514,
         "country": "Sudan",
         "countryInfo": {
             "_id": 736,
@@ -4427,9 +4427,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sd.png"
         },
         "cases": 275,
-        "todayCases": 38,
+        "todayCases": 0,
         "deaths": 22,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 21,
         "active": 232,
         "critical": 0,
@@ -4440,7 +4440,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402657,
+        "updated": 1588036002572,
         "country": "Suriname",
         "countryInfo": {
             "_id": 740,
@@ -4464,7 +4464,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402628,
+        "updated": 1588036002549,
         "country": "Swaziland",
         "countryInfo": {
             "_id": 748,
@@ -4475,7 +4475,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/sz.png"
         },
         "cases": 65,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 10,
@@ -4488,7 +4488,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402506,
+        "updated": 1588036002424,
         "country": "Sweden",
         "countryInfo": {
             "_id": 752,
@@ -4499,9 +4499,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/se.png"
         },
         "cases": 18926,
-        "todayCases": 286,
+        "todayCases": 0,
         "deaths": 2274,
-        "todayDeaths": 80,
+        "todayDeaths": 0,
         "recovered": 1005,
         "active": 15647,
         "critical": 399,
@@ -4512,7 +4512,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402501,
+        "updated": 1588036002419,
         "country": "Switzerland",
         "countryInfo": {
             "_id": 756,
@@ -4523,9 +4523,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ch.png"
         },
         "cases": 29164,
-        "todayCases": 103,
+        "todayCases": 0,
         "deaths": 1665,
-        "todayDeaths": 55,
+        "todayDeaths": 0,
         "recovered": 22200,
         "active": 5299,
         "critical": 185,
@@ -4536,7 +4536,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402635,
+        "updated": 1588036002553,
         "country": "Syrian Arab Republic",
         "countryInfo": {
             "_id": 760,
@@ -4560,7 +4560,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402586,
+        "updated": 1588036002505,
         "country": "Taiwan",
         "countryInfo": {
             "_id": 158,
@@ -4579,12 +4579,12 @@
         "critical": 0,
         "casesPerOneMillion": 18,
         "deathsPerOneMillion": 0,
-        "tests": 60956,
-        "testsPerOneMillion": 2559,
+        "tests": 61684,
+        "testsPerOneMillion": 2590,
         "continent": "Asia"
     },
     {
-        "updated": 1588035402595,
+        "updated": 1588036002513,
         "country": "Tanzania",
         "countryInfo": {
             "_id": 834,
@@ -4608,7 +4608,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402541,
+        "updated": 1588036002457,
         "country": "Thailand",
         "countryInfo": {
             "_id": 764,
@@ -4619,9 +4619,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/th.png"
         },
         "cases": 2931,
-        "todayCases": 9,
+        "todayCases": 0,
         "deaths": 52,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 2609,
         "active": 270,
         "critical": 61,
@@ -4632,7 +4632,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402642,
+        "updated": 1588036002559,
         "country": "Timor-Leste",
         "countryInfo": {
             "_id": 626,
@@ -4656,7 +4656,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402612,
+        "updated": 1588036002531,
         "country": "Togo",
         "countryInfo": {
             "_id": 768,
@@ -4680,7 +4680,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402609,
+        "updated": 1588036002528,
         "country": "Trinidad and Tobago",
         "countryInfo": {
             "_id": 780,
@@ -4691,7 +4691,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/tt.png"
         },
         "cases": 116,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 59,
@@ -4704,7 +4704,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402568,
+        "updated": 1588036002485,
         "country": "Tunisia",
         "countryInfo": {
             "_id": 788,
@@ -4715,9 +4715,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/tn.png"
         },
         "cases": 967,
-        "todayCases": 18,
+        "todayCases": 0,
         "deaths": 39,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 279,
         "active": 649,
         "critical": 18,
@@ -4728,7 +4728,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402489,
+        "updated": 1588036002407,
         "country": "Turkey",
         "countryInfo": {
             "_id": 792,
@@ -4739,9 +4739,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/tr.png"
         },
         "cases": 112261,
-        "todayCases": 2131,
+        "todayCases": 0,
         "deaths": 2900,
-        "todayDeaths": 95,
+        "todayDeaths": 0,
         "recovered": 33791,
         "active": 75570,
         "critical": 1736,
@@ -4752,7 +4752,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402653,
+        "updated": 1588036002569,
         "country": "Turks and Caicos Islands",
         "countryInfo": {
             "_id": 796,
@@ -4763,7 +4763,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/tc.png"
         },
         "cases": 12,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 5,
@@ -4776,7 +4776,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402518,
+        "updated": 1588036002435,
         "country": "UAE",
         "countryInfo": {
             "_id": 784,
@@ -4787,9 +4787,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ae.png"
         },
         "cases": 10839,
-        "todayCases": 490,
+        "todayCases": 0,
         "deaths": 82,
-        "todayDeaths": 6,
+        "todayDeaths": 0,
         "recovered": 2090,
         "active": 8667,
         "critical": 1,
@@ -4800,7 +4800,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402488,
+        "updated": 1588036002406,
         "country": "UK",
         "countryInfo": {
             "_id": 826,
@@ -4811,9 +4811,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/gb.png"
         },
         "cases": 157149,
-        "todayCases": 4309,
+        "todayCases": 0,
         "deaths": 21092,
-        "todayDeaths": 360,
+        "todayDeaths": 0,
         "recovered": 0,
         "active": 135713,
         "critical": 1559,
@@ -4824,7 +4824,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402484,
+        "updated": 1588036002400,
         "country": "USA",
         "countryInfo": {
             "_id": 840,
@@ -4834,21 +4834,21 @@
             "long": -97,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/us.png"
         },
-        "cases": 1010123,
-        "todayCases": 22963,
-        "deaths": 56796,
-        "todayDeaths": 1383,
-        "recovered": 138989,
-        "active": 814338,
+        "cases": 1010356,
+        "todayCases": 0,
+        "deaths": 56797,
+        "todayDeaths": 0,
+        "recovered": 138990,
+        "active": 814569,
         "critical": 14186,
         "casesPerOneMillion": 3052,
         "deathsPerOneMillion": 172,
-        "tests": 5684175,
-        "testsPerOneMillion": 17173,
+        "tests": 5696928,
+        "testsPerOneMillion": 17211,
         "continent": "North America"
     },
     {
-        "updated": 1588035402620,
+        "updated": 1588036002538,
         "country": "Uganda",
         "countryInfo": {
             "_id": 800,
@@ -4872,7 +4872,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402521,
+        "updated": 1588036002438,
         "country": "Ukraine",
         "countryInfo": {
             "_id": 804,
@@ -4883,9 +4883,9 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ua.png"
         },
         "cases": 9009,
-        "todayCases": 392,
+        "todayCases": 0,
         "deaths": 220,
-        "todayDeaths": 11,
+        "todayDeaths": 0,
         "recovered": 864,
         "active": 7925,
         "critical": 110,
@@ -4896,7 +4896,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402578,
+        "updated": 1588036002496,
         "country": "Uruguay",
         "countryInfo": {
             "_id": 858,
@@ -4906,21 +4906,21 @@
             "long": -56,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/uy.png"
         },
-        "cases": 606,
-        "todayCases": 10,
+        "cases": 620,
+        "todayCases": 14,
         "deaths": 15,
-        "todayDeaths": 1,
-        "recovered": 375,
-        "active": 216,
-        "critical": 10,
-        "casesPerOneMillion": 174,
+        "todayDeaths": 0,
+        "recovered": 386,
+        "active": 219,
+        "critical": 11,
+        "casesPerOneMillion": 178,
         "deathsPerOneMillion": 4,
-        "tests": 17063,
-        "testsPerOneMillion": 4912,
+        "tests": 17505,
+        "testsPerOneMillion": 5039,
         "continent": "South America"
     },
     {
-        "updated": 1588035402546,
+        "updated": 1588036002462,
         "country": "Uzbekistan",
         "countryInfo": {
             "_id": 860,
@@ -4931,7 +4931,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/uz.png"
         },
         "cases": 1904,
-        "todayCases": 35,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 892,
@@ -4944,7 +4944,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402592,
+        "updated": 1588036002510,
         "country": "Venezuela",
         "countryInfo": {
             "_id": 862,
@@ -4955,7 +4955,7 @@
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ve.png"
         },
         "cases": 329,
-        "todayCases": 4,
+        "todayCases": 0,
         "deaths": 10,
         "todayDeaths": 0,
         "recovered": 142,
@@ -4968,7 +4968,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402597,
+        "updated": 1588036002515,
         "country": "Vietnam",
         "countryInfo": {
             "_id": 704,
@@ -4992,7 +4992,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402663,
+        "updated": 1588036002579,
         "country": "Western Sahara",
         "countryInfo": {
             "_id": 732,
@@ -5016,7 +5016,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402667,
+        "updated": 1588036002582,
         "country": "Yemen",
         "countryInfo": {
             "_id": 887,
@@ -5040,7 +5040,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402615,
+        "updated": 1588036002534,
         "country": "Zambia",
         "countryInfo": {
             "_id": 894,
@@ -5064,7 +5064,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402639,
+        "updated": 1588036002556,
         "country": "Zimbabwe",
         "countryInfo": {
             "_id": 716,

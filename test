@@ -1,11 +1,11 @@
 [
     {
-        "updated": 1588035402551,
+        "updated": 1588036002466,
         "country": "Afghanistan",
         "cases": 1703,
-        "todayCases": 172,
+        "todayCases": 0,
         "deaths": 57,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 220,
         "active": 1426,
         "critical": 7,
@@ -16,10 +16,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402571,
+        "updated": 1588036002488,
         "country": "Albania",
         "cases": 736,
-        "todayCases": 10,
+        "todayCases": 0,
         "deaths": 28,
         "todayDeaths": 0,
         "recovered": 422,
@@ -32,12 +32,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402538,
+        "updated": 1588036002455,
         "country": "Algeria",
         "cases": 3517,
-        "todayCases": 135,
+        "todayCases": 0,
         "deaths": 432,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 1558,
         "active": 1527,
         "critical": 40,
@@ -48,10 +48,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402570,
+        "updated": 1588036002487,
         "country": "Andorra",
         "cases": 743,
-        "todayCases": 5,
+        "todayCases": 0,
         "deaths": 40,
         "todayDeaths": 0,
         "recovered": 385,
@@ -64,10 +64,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402640,
+        "updated": 1588036002557,
         "country": "Angola",
         "cases": 27,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 2,
         "todayDeaths": 0,
         "recovered": 6,
@@ -80,7 +80,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402665,
+        "updated": 1588036002580,
         "country": "Anguilla",
         "cases": 3,
         "todayCases": 0,
@@ -96,7 +96,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402642,
+        "updated": 1588036002559,
         "country": "Antigua and Barbuda",
         "cases": 24,
         "todayCases": 0,
@@ -112,12 +112,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402536,
+        "updated": 1588036002453,
         "country": "Argentina",
         "cases": 4003,
-        "todayCases": 111,
+        "todayCases": 0,
         "deaths": 197,
-        "todayDeaths": 5,
+        "todayDeaths": 0,
         "recovered": 1140,
         "active": 2666,
         "critical": 144,
@@ -128,12 +128,12 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402548,
+        "updated": 1588036002464,
         "country": "Armenia",
         "cases": 1808,
-        "todayCases": 62,
+        "todayCases": 0,
         "deaths": 29,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 848,
         "active": 931,
         "critical": 10,
@@ -144,7 +144,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402612,
+        "updated": 1588036002531,
         "country": "Aruba",
         "cases": 100,
         "todayCases": 0,
@@ -160,14 +160,14 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402528,
+        "updated": 1588036002446,
         "country": "Australia",
-        "cases": 6720,
-        "todayCases": 4,
-        "deaths": 83,
-        "todayDeaths": 0,
-        "recovered": 5586,
-        "active": 1051,
+        "cases": 6725,
+        "todayCases": 5,
+        "deaths": 84,
+        "todayDeaths": 1,
+        "recovered": 5602,
+        "active": 1039,
         "critical": 43,
         "casesPerOneMillion": 264,
         "deathsPerOneMillion": 3,
@@ -176,12 +176,12 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402509,
+        "updated": 1588036002427,
         "country": "Austria",
         "cases": 15274,
-        "todayCases": 49,
+        "todayCases": 0,
         "deaths": 549,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 12362,
         "active": 2363,
         "critical": 140,
@@ -192,12 +192,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402551,
+        "updated": 1588036002471,
         "country": "Azerbaijan",
         "cases": 1678,
-        "todayCases": 33,
+        "todayCases": 0,
         "deaths": 22,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 1162,
         "active": 494,
         "critical": 15,
@@ -208,7 +208,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402618,
+        "updated": 1588036002535,
         "country": "Bahamas",
         "cases": 80,
         "todayCases": 0,
@@ -224,10 +224,10 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402543,
+        "updated": 1588036002458,
         "country": "Bahrain",
         "cases": 2723,
-        "todayCases": 76,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 1218,
@@ -240,12 +240,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402530,
+        "updated": 1588036002448,
         "country": "Bangladesh",
         "cases": 5913,
-        "todayCases": 497,
+        "todayCases": 0,
         "deaths": 152,
-        "todayDeaths": 7,
+        "todayDeaths": 0,
         "recovered": 131,
         "active": 5630,
         "critical": 1,
@@ -256,10 +256,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402619,
+        "updated": 1588036002537,
         "country": "Barbados",
         "cases": 80,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 6,
         "todayDeaths": 0,
         "recovered": 39,
@@ -272,12 +272,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402516,
+        "updated": 1588036002433,
         "country": "Belarus",
         "cases": 11289,
-        "todayCases": 826,
+        "todayCases": 0,
         "deaths": 75,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 1740,
         "active": 9474,
         "critical": 92,
@@ -288,12 +288,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402494,
+        "updated": 1588036002417,
         "country": "Belgium",
         "cases": 46687,
-        "todayCases": 553,
+        "todayCases": 0,
         "deaths": 7207,
-        "todayDeaths": 113,
+        "todayDeaths": 0,
         "recovered": 10878,
         "active": 28602,
         "critical": 903,
@@ -304,7 +304,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402645,
+        "updated": 1588036002562,
         "country": "Belize",
         "cases": 18,
         "todayCases": 0,
@@ -320,7 +320,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402629,
+        "updated": 1588036002550,
         "country": "Benin",
         "cases": 64,
         "todayCases": 0,
@@ -336,12 +336,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402610,
+        "updated": 1588036002530,
         "country": "Bermuda",
         "cases": 110,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 6,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 44,
         "active": 60,
         "critical": 10,
@@ -352,7 +352,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402661,
+        "updated": 1588036002576,
         "country": "Bhutan",
         "cases": 7,
         "todayCases": 0,
@@ -368,12 +368,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402568,
+        "updated": 1588036002485,
         "country": "Bolivia",
         "cases": 950,
-        "todayCases": 84,
+        "todayCases": 0,
         "deaths": 50,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 80,
         "active": 820,
         "critical": 3,
@@ -384,12 +384,12 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402553,
+        "updated": 1588036002472,
         "country": "Bosnia",
         "cases": 1565,
-        "todayCases": 49,
+        "todayCases": 0,
         "deaths": 60,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 659,
         "active": 846,
         "critical": 4,
@@ -400,7 +400,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402643,
+        "updated": 1588036002560,
         "country": "Botswana",
         "cases": 22,
         "todayCases": 0,
@@ -416,12 +416,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402492,
+        "updated": 1588036002415,
         "country": "Brazil",
         "cases": 66501,
-        "todayCases": 3642,
+        "todayCases": 0,
         "deaths": 4543,
-        "todayDeaths": 272,
+        "todayDeaths": 0,
         "recovered": 31142,
         "active": 30816,
         "critical": 8318,
@@ -432,7 +432,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402661,
+        "updated": 1588036002576,
         "country": "British Virgin Islands",
         "cases": 6,
         "todayCases": 0,
@@ -448,7 +448,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402605,
+        "updated": 1588036002524,
         "country": "Brunei",
         "cases": 138,
         "todayCases": 0,
@@ -464,12 +464,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402563,
+        "updated": 1588036002480,
         "country": "Bulgaria",
         "cases": 1363,
-        "todayCases": 63,
+        "todayCases": 0,
         "deaths": 58,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 206,
         "active": 1099,
         "critical": 41,
@@ -480,10 +480,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402578,
+        "updated": 1588036002496,
         "country": "Burkina Faso",
         "cases": 635,
-        "todayCases": 3,
+        "todayCases": 0,
         "deaths": 42,
         "todayDeaths": 0,
         "recovered": 469,
@@ -496,7 +496,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402654,
+        "updated": 1588036002570,
         "country": "Burundi",
         "cases": 11,
         "todayCases": 0,
@@ -512,10 +512,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402611,
+        "updated": 1588036002530,
         "country": "Cabo Verde",
         "cases": 109,
-        "todayCases": 3,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 1,
@@ -528,7 +528,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402608,
+        "updated": 1588036002527,
         "country": "Cambodia",
         "cases": 122,
         "todayCases": 0,
@@ -544,12 +544,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402550,
+        "updated": 1588036002465,
         "country": "Cameroon",
         "cases": 1705,
-        "todayCases": 84,
+        "todayCases": 0,
         "deaths": 58,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 805,
         "active": 842,
         "critical": 12,
@@ -560,12 +560,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402493,
+        "updated": 1588036002416,
         "country": "Canada",
         "cases": 48500,
-        "todayCases": 1605,
+        "todayCases": 0,
         "deaths": 2707,
-        "todayDeaths": 147,
+        "todayDeaths": 0,
         "recovered": 18268,
         "active": 27525,
         "critical": 557,
@@ -576,7 +576,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402664,
+        "updated": 1588036002579,
         "country": "Caribbean Netherlands",
         "cases": 5,
         "todayCases": 0,
@@ -592,7 +592,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402627,
+        "updated": 1588036002548,
         "country": "Cayman Islands",
         "cases": 70,
         "todayCases": 0,
@@ -608,7 +608,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402644,
+        "updated": 1588036002561,
         "country": "Central African Republic",
         "cases": 19,
         "todayCases": 0,
@@ -624,7 +624,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402634,
+        "updated": 1588036002552,
         "country": "Chad",
         "cases": 46,
         "todayCases": 0,
@@ -640,7 +640,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402581,
+        "updated": 1588036002499,
         "country": "Channel Islands",
         "cases": 525,
         "todayCases": 0,
@@ -656,12 +656,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402513,
+        "updated": 1588036002430,
         "country": "Chile",
         "cases": 13813,
-        "todayCases": 482,
+        "todayCases": 0,
         "deaths": 198,
-        "todayDeaths": 9,
+        "todayDeaths": 0,
         "recovered": 7327,
         "active": 6288,
         "critical": 426,
@@ -672,15 +672,15 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402668,
+        "updated": 1588036002582,
         "country": "China",
-        "cases": 82830,
-        "todayCases": 3,
+        "cases": 82836,
+        "todayCases": 6,
         "deaths": 4633,
-        "todayDeaths": 1,
-        "recovered": 77474,
-        "active": 723,
-        "critical": 52,
+        "todayDeaths": 0,
+        "recovered": 77555,
+        "active": 648,
+        "critical": 50,
         "casesPerOneMillion": 58,
         "deathsPerOneMillion": 3,
         "tests": 0,
@@ -688,12 +688,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402532,
+        "updated": 1588036002449,
         "country": "Colombia",
         "cases": 5597,
-        "todayCases": 218,
+        "todayCases": 0,
         "deaths": 253,
-        "todayDeaths": 9,
+        "todayDeaths": 0,
         "recovered": 1210,
         "active": 4134,
         "critical": 118,
@@ -704,7 +704,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402601,
+        "updated": 1588036002519,
         "country": "Congo",
         "cases": 200,
         "todayCases": 0,
@@ -720,10 +720,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402576,
+        "updated": 1588036002493,
         "country": "Costa Rica",
         "cases": 697,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 6,
         "todayDeaths": 0,
         "recovered": 287,
@@ -736,12 +736,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402546,
+        "updated": 1588036002461,
         "country": "Croatia",
         "cases": 2039,
-        "todayCases": 9,
+        "todayCases": 0,
         "deaths": 59,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 1166,
         "active": 814,
         "critical": 21,
@@ -752,12 +752,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402562,
+        "updated": 1588036002478,
         "country": "Cuba",
         "cases": 1389,
-        "todayCases": 20,
+        "todayCases": 0,
         "deaths": 56,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 525,
         "active": 808,
         "critical": 12,
@@ -768,7 +768,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402648,
+        "updated": 1588036002564,
         "country": "Cura\u00e7ao",
         "cases": 16,
         "todayCases": 0,
@@ -784,12 +784,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402569,
+        "updated": 1588036002486,
         "country": "Cyprus",
         "cases": 822,
-        "todayCases": 5,
+        "todayCases": 0,
         "deaths": 15,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 148,
         "active": 659,
         "critical": 15,
@@ -800,12 +800,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402527,
+        "updated": 1588036002445,
         "country": "Czechia",
         "cases": 7445,
-        "todayCases": 41,
+        "todayCases": 0,
         "deaths": 223,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 2826,
         "active": 4396,
         "critical": 73,
@@ -816,10 +816,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402565,
+        "updated": 1588036002482,
         "country": "C\u00f4te d'Ivoire",
         "cases": 1164,
-        "todayCases": 14,
+        "todayCases": 0,
         "deaths": 14,
         "todayDeaths": 0,
         "recovered": 499,
@@ -832,10 +832,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402584,
+        "updated": 1588036002502,
         "country": "DRC",
         "cases": 459,
-        "todayCases": 17,
+        "todayCases": 0,
         "deaths": 28,
         "todayDeaths": 0,
         "recovered": 50,
@@ -848,12 +848,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402522,
+        "updated": 1588036002439,
         "country": "Denmark",
         "cases": 8698,
-        "todayCases": 123,
+        "todayCases": 0,
         "deaths": 427,
-        "todayDeaths": 5,
+        "todayDeaths": 0,
         "recovered": 5959,
         "active": 2312,
         "critical": 72,
@@ -864,7 +864,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402572,
+        "updated": 1588036002490,
         "country": "Diamond Princess",
         "cases": 712,
         "todayCases": 0,
@@ -880,10 +880,10 @@
         "continent": ""
     },
     {
-        "updated": 1588035402567,
+        "updated": 1588036002484,
         "country": "Djibouti",
         "cases": 1035,
-        "todayCases": 12,
+        "todayCases": 0,
         "deaths": 2,
         "todayDeaths": 0,
         "recovered": 477,
@@ -896,7 +896,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402649,
+        "updated": 1588036002565,
         "country": "Dominica",
         "cases": 16,
         "todayCases": 0,
@@ -912,12 +912,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402529,
+        "updated": 1588036002447,
         "country": "Dominican Republic",
         "cases": 6293,
-        "todayCases": 158,
+        "todayCases": 0,
         "deaths": 282,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 993,
         "active": 5018,
         "critical": 144,
@@ -928,12 +928,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402504,
+        "updated": 1588036002422,
         "country": "Ecuador",
         "cases": 23240,
-        "todayCases": 521,
+        "todayCases": 0,
         "deaths": 663,
-        "todayDeaths": 87,
+        "todayDeaths": 0,
         "recovered": 1557,
         "active": 21020,
         "critical": 146,
@@ -944,12 +944,12 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402534,
+        "updated": 1588036002451,
         "country": "Egypt",
         "cases": 4782,
-        "todayCases": 248,
+        "todayCases": 0,
         "deaths": 337,
-        "todayDeaths": 20,
+        "todayDeaths": 0,
         "recovered": 1236,
         "active": 3209,
         "critical": 0,
@@ -960,10 +960,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402593,
+        "updated": 1588036002511,
         "country": "El Salvador",
         "cases": 323,
-        "todayCases": 25,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 89,
@@ -976,7 +976,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402597,
+        "updated": 1588036002516,
         "country": "Equatorial Guinea",
         "cases": 258,
         "todayCases": 0,
@@ -992,7 +992,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402636,
+        "updated": 1588036002554,
         "country": "Eritrea",
         "cases": 39,
         "todayCases": 0,
@@ -1008,12 +1008,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402552,
+        "updated": 1588036002471,
         "country": "Estonia",
         "cases": 1647,
-        "todayCases": 4,
+        "todayCases": 0,
         "deaths": 50,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 233,
         "active": 1364,
         "critical": 7,
@@ -1024,10 +1024,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402607,
+        "updated": 1588036002527,
         "country": "Ethiopia",
         "cases": 124,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 3,
         "todayDeaths": 0,
         "recovered": 50,
@@ -1040,7 +1040,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402652,
+        "updated": 1588036002568,
         "country": "Falkland Islands (Malvinas)",
         "cases": 13,
         "todayCases": 0,
@@ -1056,7 +1056,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402601,
+        "updated": 1588036002520,
         "country": "Faroe Islands",
         "cases": 187,
         "todayCases": 0,
@@ -1072,7 +1072,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402646,
+        "updated": 1588036002562,
         "country": "Fiji",
         "cases": 18,
         "todayCases": 0,
@@ -1088,12 +1088,12 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402535,
+        "updated": 1588036002452,
         "country": "Finland",
         "cases": 4695,
-        "todayCases": 119,
+        "todayCases": 0,
         "deaths": 193,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 2500,
         "active": 2002,
         "critical": 56,
@@ -1104,12 +1104,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402486,
+        "updated": 1588036002404,
         "country": "France",
         "cases": 165842,
-        "todayCases": 3742,
+        "todayCases": 0,
         "deaths": 23293,
-        "todayDeaths": 437,
+        "todayDeaths": 0,
         "recovered": 45513,
         "active": 97036,
         "critical": 4608,
@@ -1120,7 +1120,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402610,
+        "updated": 1588036002529,
         "country": "French Guiana",
         "cases": 111,
         "todayCases": 0,
@@ -1136,7 +1136,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402630,
+        "updated": 1588036002551,
         "country": "French Polynesia",
         "cases": 57,
         "todayCases": 0,
@@ -1152,10 +1152,10 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402599,
+        "updated": 1588036002518,
         "country": "Gabon",
         "cases": 211,
-        "todayCases": 35,
+        "todayCases": 0,
         "deaths": 3,
         "todayDeaths": 0,
         "recovered": 43,
@@ -1168,7 +1168,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402656,
+        "updated": 1588036002572,
         "country": "Gambia",
         "cases": 10,
         "todayCases": 0,
@@ -1184,10 +1184,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402582,
+        "updated": 1588036002500,
         "country": "Georgia",
         "cases": 497,
-        "todayCases": 11,
+        "todayCases": 0,
         "deaths": 6,
         "todayDeaths": 0,
         "recovered": 156,
@@ -1200,12 +1200,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402487,
+        "updated": 1588036002405,
         "country": "Germany",
         "cases": 158758,
-        "todayCases": 988,
+        "todayCases": 0,
         "deaths": 6126,
-        "todayDeaths": 150,
+        "todayDeaths": 0,
         "recovered": 114500,
         "active": 38132,
         "critical": 2409,
@@ -1216,7 +1216,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402554,
+        "updated": 1588036002473,
         "country": "Ghana",
         "cases": 1550,
         "todayCases": 0,
@@ -1232,7 +1232,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402605,
+        "updated": 1588036002524,
         "country": "Gibraltar",
         "cases": 141,
         "todayCases": 0,
@@ -1248,12 +1248,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402544,
+        "updated": 1588036002460,
         "country": "Greece",
         "cases": 2534,
-        "todayCases": 17,
+        "todayCases": 0,
         "deaths": 136,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 577,
         "active": 1821,
         "critical": 43,
@@ -1264,7 +1264,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402655,
+        "updated": 1588036002571,
         "country": "Greenland",
         "cases": 11,
         "todayCases": 0,
@@ -1280,7 +1280,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402647,
+        "updated": 1588036002563,
         "country": "Grenada",
         "cases": 18,
         "todayCases": 0,
@@ -1296,7 +1296,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402603,
+        "updated": 1588036002522,
         "country": "Guadeloupe",
         "cases": 149,
         "todayCases": 0,
@@ -1312,12 +1312,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402582,
+        "updated": 1588036002500,
         "country": "Guatemala",
         "cases": 500,
-        "todayCases": 27,
+        "todayCases": 0,
         "deaths": 15,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 49,
         "active": 436,
         "critical": 5,
@@ -1328,10 +1328,10 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402566,
+        "updated": 1588036002483,
         "country": "Guinea",
         "cases": 1163,
-        "todayCases": 167,
+        "todayCases": 0,
         "deaths": 7,
         "todayDeaths": 0,
         "recovered": 246,
@@ -1344,10 +1344,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402625,
+        "updated": 1588036002545,
         "country": "Guinea-Bissau",
         "cases": 73,
-        "todayCases": 20,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 18,
@@ -1360,7 +1360,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402624,
+        "updated": 1588036002543,
         "country": "Guyana",
         "cases": 74,
         "todayCases": 0,
@@ -1376,7 +1376,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402624,
+        "updated": 1588036002544,
         "country": "Haiti",
         "cases": 74,
         "todayCases": 0,
@@ -1392,7 +1392,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402658,
+        "updated": 1588036002574,
         "country": "Holy See (Vatican City State)",
         "cases": 9,
         "todayCases": 0,
@@ -1408,12 +1408,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402577,
+        "updated": 1588036002495,
         "country": "Honduras",
         "cases": 661,
-        "todayCases": 34,
+        "todayCases": 0,
         "deaths": 61,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 79,
         "active": 521,
         "critical": 10,
@@ -1424,7 +1424,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402566,
+        "updated": 1588036002483,
         "country": "Hong Kong",
         "cases": 1038,
         "todayCases": 0,
@@ -1440,12 +1440,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402543,
+        "updated": 1588036002459,
         "country": "Hungary",
         "cases": 2583,
-        "todayCases": 83,
+        "todayCases": 0,
         "deaths": 280,
-        "todayDeaths": 8,
+        "todayDeaths": 0,
         "recovered": 498,
         "active": 1805,
         "critical": 61,
@@ -1456,7 +1456,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402549,
+        "updated": 1588036002464,
         "country": "Iceland",
         "cases": 1792,
         "todayCases": 0,
@@ -1472,12 +1472,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402500,
+        "updated": 1588036002418,
         "country": "India",
         "cases": 29451,
-        "todayCases": 1561,
+        "todayCases": 0,
         "deaths": 939,
-        "todayDeaths": 58,
+        "todayDeaths": 0,
         "recovered": 7137,
         "active": 21375,
         "critical": 0,
@@ -1488,12 +1488,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402520,
+        "updated": 1588036002437,
         "country": "Indonesia",
         "cases": 9096,
-        "todayCases": 214,
+        "todayCases": 0,
         "deaths": 765,
-        "todayDeaths": 22,
+        "todayDeaths": 0,
         "recovered": 1151,
         "active": 7180,
         "critical": 0,
@@ -1504,12 +1504,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402490,
+        "updated": 1588036002408,
         "country": "Iran",
         "cases": 91472,
-        "todayCases": 991,
+        "todayCases": 0,
         "deaths": 5806,
-        "todayDeaths": 96,
+        "todayDeaths": 0,
         "recovered": 70933,
         "active": 14733,
         "critical": 3011,
@@ -1520,12 +1520,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402547,
+        "updated": 1588036002463,
         "country": "Iraq",
         "cases": 1847,
-        "todayCases": 27,
+        "todayCases": 0,
         "deaths": 88,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 1286,
         "active": 473,
         "critical": 0,
@@ -1536,12 +1536,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402505,
+        "updated": 1588036002423,
         "country": "Ireland",
         "cases": 19648,
-        "todayCases": 386,
+        "todayCases": 0,
         "deaths": 1102,
-        "todayDeaths": 15,
+        "todayDeaths": 0,
         "recovered": 9233,
         "active": 9313,
         "critical": 146,
@@ -1552,12 +1552,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402594,
+        "updated": 1588036002512,
         "country": "Isle of Man",
         "cases": 308,
         "todayCases": 0,
         "deaths": 20,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 248,
         "active": 40,
         "critical": 22,
@@ -1568,12 +1568,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402508,
+        "updated": 1588036002425,
         "country": "Israel",
         "cases": 15555,
-        "todayCases": 112,
+        "todayCases": 0,
         "deaths": 204,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 7200,
         "active": 8151,
         "critical": 129,
@@ -1584,12 +1584,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402486,
+        "updated": 1588036002403,
         "country": "Italy",
         "cases": 199414,
-        "todayCases": 1739,
+        "todayCases": 0,
         "deaths": 26977,
-        "todayDeaths": 333,
+        "todayDeaths": 0,
         "recovered": 66624,
         "active": 105813,
         "critical": 1956,
@@ -1600,28 +1600,28 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402589,
+        "updated": 1588036002507,
         "country": "Jamaica",
-        "cases": 350,
-        "todayCases": 45,
+        "cases": 364,
+        "todayCases": 14,
         "deaths": 7,
         "todayDeaths": 0,
-        "recovered": 28,
-        "active": 315,
+        "recovered": 29,
+        "active": 328,
         "critical": 3,
-        "casesPerOneMillion": 118,
+        "casesPerOneMillion": 123,
         "deathsPerOneMillion": 2,
-        "tests": 3262,
-        "testsPerOneMillion": 1102,
+        "tests": 3621,
+        "testsPerOneMillion": 1223,
         "continent": "North America"
     },
     {
-        "updated": 1588035402511,
+        "updated": 1588036002429,
         "country": "Japan",
         "cases": 14153,
-        "todayCases": 712,
+        "todayCases": 0,
         "deaths": 385,
-        "todayDeaths": 13,
+        "todayDeaths": 0,
         "recovered": 1899,
         "active": 11869,
         "critical": 300,
@@ -1632,10 +1632,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402585,
+        "updated": 1588036002504,
         "country": "Jordan",
         "cases": 449,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 7,
         "todayDeaths": 0,
         "recovered": 342,
@@ -1648,10 +1648,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402542,
+        "updated": 1588036002458,
         "country": "Kazakhstan",
         "cases": 2835,
-        "todayCases": 118,
+        "todayCases": 0,
         "deaths": 25,
         "todayDeaths": 0,
         "recovered": 720,
@@ -1664,10 +1664,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402589,
+        "updated": 1588036002508,
         "country": "Kenya",
         "cases": 363,
-        "todayCases": 8,
+        "todayCases": 0,
         "deaths": 14,
         "todayDeaths": 0,
         "recovered": 114,
@@ -1680,12 +1680,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402540,
+        "updated": 1588036002456,
         "country": "Kuwait",
         "cases": 3288,
-        "todayCases": 213,
+        "todayCases": 0,
         "deaths": 22,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 1012,
         "active": 2254,
         "critical": 64,
@@ -1696,10 +1696,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402576,
+        "updated": 1588036002494,
         "country": "Kyrgyzstan",
         "cases": 695,
-        "todayCases": 13,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 395,
@@ -1712,7 +1712,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402645,
+        "updated": 1588036002561,
         "country": "Lao People's Democratic Republic",
         "cases": 19,
         "todayCases": 0,
@@ -1728,12 +1728,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402570,
+        "updated": 1588036002487,
         "country": "Latvia",
         "cases": 818,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 13,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 267,
         "active": 538,
         "critical": 5,
@@ -1744,10 +1744,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402574,
+        "updated": 1588036002492,
         "country": "Lebanon",
         "cases": 710,
-        "todayCases": 3,
+        "todayCases": 0,
         "deaths": 24,
         "todayDeaths": 0,
         "recovered": 145,
@@ -1760,7 +1760,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402607,
+        "updated": 1588036002526,
         "country": "Liberia",
         "cases": 124,
         "todayCases": 0,
@@ -1776,7 +1776,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402629,
+        "updated": 1588036002550,
         "country": "Libyan Arab Jamahiriya",
         "cases": 61,
         "todayCases": 0,
@@ -1792,7 +1792,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402617,
+        "updated": 1588036002534,
         "country": "Liechtenstein",
         "cases": 82,
         "todayCases": 0,
@@ -1808,10 +1808,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402555,
+        "updated": 1588036002474,
         "country": "Lithuania",
         "cases": 1449,
-        "todayCases": 11,
+        "todayCases": 0,
         "deaths": 41,
         "todayDeaths": 0,
         "recovered": 474,
@@ -1824,10 +1824,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402537,
+        "updated": 1588036002454,
         "country": "Luxembourg",
         "cases": 3729,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 88,
         "todayDeaths": 0,
         "recovered": 3123,
@@ -1840,7 +1840,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402658,
+        "updated": 1588036002573,
         "country": "MS Zaandam",
         "cases": 9,
         "todayCases": 0,
@@ -1856,7 +1856,7 @@
         "continent": ""
     },
     {
-        "updated": 1588035402634,
+        "updated": 1588036002553,
         "country": "Macao",
         "cases": 45,
         "todayCases": 0,
@@ -1872,12 +1872,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402560,
+        "updated": 1588036002476,
         "country": "Macedonia",
         "cases": 1399,
-        "todayCases": 13,
+        "todayCases": 0,
         "deaths": 65,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 553,
         "active": 781,
         "critical": 13,
@@ -1888,10 +1888,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402606,
+        "updated": 1588036002525,
         "country": "Madagascar",
         "cases": 128,
-        "todayCases": 4,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 75,
@@ -1904,10 +1904,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402638,
+        "updated": 1588036002556,
         "country": "Malawi",
         "cases": 36,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 3,
         "todayDeaths": 0,
         "recovered": 4,
@@ -1920,12 +1920,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402530,
+        "updated": 1588036002449,
         "country": "Malaysia",
         "cases": 5820,
-        "todayCases": 40,
+        "todayCases": 0,
         "deaths": 99,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 3957,
         "active": 1764,
         "critical": 37,
@@ -1936,10 +1936,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402599,
+        "updated": 1588036002517,
         "country": "Maldives",
         "cases": 226,
-        "todayCases": 12,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 17,
@@ -1952,10 +1952,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402587,
+        "updated": 1588036002506,
         "country": "Mali",
         "cases": 408,
-        "todayCases": 19,
+        "todayCases": 0,
         "deaths": 23,
         "todayDeaths": 0,
         "recovered": 113,
@@ -1968,10 +1968,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402585,
+        "updated": 1588036002503,
         "country": "Malta",
         "cases": 450,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 4,
         "todayDeaths": 0,
         "recovered": 286,
@@ -1984,7 +1984,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402603,
+        "updated": 1588036002521,
         "country": "Martinique",
         "cases": 175,
         "todayCases": 0,
@@ -2000,7 +2000,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402660,
+        "updated": 1588036002575,
         "country": "Mauritania",
         "cases": 7,
         "todayCases": 0,
@@ -2016,12 +2016,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402591,
+        "updated": 1588036002510,
         "country": "Mauritius",
         "cases": 334,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 10,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 302,
         "active": 22,
         "critical": 3,
@@ -2032,7 +2032,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402588,
+        "updated": 1588036002507,
         "country": "Mayotte",
         "cases": 401,
         "todayCases": 0,
@@ -2048,28 +2048,28 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402509,
+        "updated": 1588036002426,
         "country": "Mexico",
-        "cases": 14677,
-        "todayCases": 835,
-        "deaths": 1351,
-        "todayDeaths": 46,
+        "cases": 15529,
+        "todayCases": 852,
+        "deaths": 1434,
+        "todayDeaths": 83,
         "recovered": 8354,
-        "active": 4972,
+        "active": 5741,
         "critical": 378,
-        "casesPerOneMillion": 114,
-        "deathsPerOneMillion": 10,
+        "casesPerOneMillion": 120,
+        "deathsPerOneMillion": 11,
         "tests": 67635,
         "testsPerOneMillion": 525,
         "continent": "North America"
     },
     {
-        "updated": 1588035402539,
+        "updated": 1588036002455,
         "country": "Moldova",
         "cases": 3481,
-        "todayCases": 73,
+        "todayCases": 0,
         "deaths": 102,
-        "todayDeaths": 6,
+        "todayDeaths": 0,
         "recovered": 925,
         "active": 2454,
         "critical": 212,
@@ -2080,10 +2080,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402613,
+        "updated": 1588036002532,
         "country": "Monaco",
         "cases": 95,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 4,
         "todayDeaths": 0,
         "recovered": 42,
@@ -2096,7 +2096,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402637,
+        "updated": 1588036002555,
         "country": "Mongolia",
         "cases": 38,
         "todayCases": 0,
@@ -2112,7 +2112,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402594,
+        "updated": 1588036002512,
         "country": "Montenegro",
         "cases": 321,
         "todayCases": 0,
@@ -2128,7 +2128,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402654,
+        "updated": 1588036002570,
         "country": "Montserrat",
         "cases": 11,
         "todayCases": 0,
@@ -2144,12 +2144,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402536,
+        "updated": 1588036002452,
         "country": "Morocco",
         "cases": 4120,
-        "todayCases": 55,
+        "todayCases": 0,
         "deaths": 162,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 695,
         "active": 3263,
         "critical": 1,
@@ -2160,7 +2160,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402621,
+        "updated": 1588036002539,
         "country": "Mozambique",
         "cases": 76,
         "todayCases": 0,
@@ -2176,7 +2176,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402604,
+        "updated": 1588036002523,
         "country": "Myanmar",
         "cases": 146,
         "todayCases": 0,
@@ -2192,7 +2192,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402649,
+        "updated": 1588036002565,
         "country": "Namibia",
         "cases": 16,
         "todayCases": 0,
@@ -2208,7 +2208,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402633,
+        "updated": 1588036002551,
         "country": "Nepal",
         "cases": 52,
         "todayCases": 0,
@@ -2224,12 +2224,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402499,
+        "updated": 1588036002417,
         "country": "Netherlands",
         "cases": 38245,
-        "todayCases": 400,
+        "todayCases": 0,
         "deaths": 4518,
-        "todayDeaths": 43,
+        "todayDeaths": 0,
         "recovered": 0,
         "active": 33477,
         "critical": 905,
@@ -2240,7 +2240,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402647,
+        "updated": 1588036002563,
         "country": "New Caledonia",
         "cases": 18,
         "todayCases": 0,
@@ -2256,12 +2256,12 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402554,
+        "updated": 1588036002474,
         "country": "New Zealand",
         "cases": 1469,
         "todayCases": 0,
         "deaths": 19,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 1180,
         "active": 270,
         "critical": 1,
@@ -2272,7 +2272,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402652,
+        "updated": 1588036002568,
         "country": "Nicaragua",
         "cases": 13,
         "todayCases": 0,
@@ -2288,10 +2288,10 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402575,
+        "updated": 1588036002492,
         "country": "Niger",
         "cases": 701,
-        "todayCases": 5,
+        "todayCases": 0,
         "deaths": 29,
         "todayDeaths": 0,
         "recovered": 385,
@@ -2304,10 +2304,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402564,
+        "updated": 1588036002481,
         "country": "Nigeria",
         "cases": 1337,
-        "todayCases": 64,
+        "todayCases": 0,
         "deaths": 40,
         "todayDeaths": 0,
         "recovered": 255,
@@ -2320,12 +2320,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402526,
+        "updated": 1588036002443,
         "country": "Norway",
         "cases": 7599,
-        "todayCases": 72,
+        "todayCases": 0,
         "deaths": 205,
-        "todayDeaths": 4,
+        "todayDeaths": 0,
         "recovered": 32,
         "active": 7362,
         "critical": 52,
@@ -2336,10 +2336,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402545,
+        "updated": 1588036002460,
         "country": "Oman",
         "cases": 2049,
-        "todayCases": 51,
+        "todayCases": 0,
         "deaths": 10,
         "todayDeaths": 0,
         "recovered": 364,
@@ -2352,12 +2352,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402512,
+        "updated": 1588036002430,
         "country": "Pakistan",
         "cases": 13915,
-        "todayCases": 587,
+        "todayCases": 0,
         "deaths": 292,
-        "todayDeaths": 11,
+        "todayDeaths": 0,
         "recovered": 3029,
         "active": 10594,
         "critical": 111,
@@ -2368,7 +2368,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402591,
+        "updated": 1588036002509,
         "country": "Palestine",
         "cases": 342,
         "todayCases": 0,
@@ -2384,23 +2384,23 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402531,
+        "updated": 1588036002447,
         "country": "Panama",
-        "cases": 5779,
-        "todayCases": 241,
-        "deaths": 165,
-        "todayDeaths": 6,
-        "recovered": 369,
-        "active": 5245,
-        "critical": 85,
-        "casesPerOneMillion": 1339,
-        "deathsPerOneMillion": 38,
-        "tests": 26642,
-        "testsPerOneMillion": 6175,
+        "cases": 6021,
+        "todayCases": 242,
+        "deaths": 167,
+        "todayDeaths": 2,
+        "recovered": 455,
+        "active": 5399,
+        "critical": 89,
+        "casesPerOneMillion": 1395,
+        "deathsPerOneMillion": 39,
+        "tests": 27834,
+        "testsPerOneMillion": 6451,
         "continent": "North America"
     },
     {
-        "updated": 1588035402659,
+        "updated": 1588036002575,
         "country": "Papua New Guinea",
         "cases": 8,
         "todayCases": 0,
@@ -2416,7 +2416,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588035402598,
+        "updated": 1588036002516,
         "country": "Paraguay",
         "cases": 228,
         "todayCases": 0,
@@ -2432,12 +2432,12 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402502,
+        "updated": 1588036002420,
         "country": "Peru",
         "cases": 28699,
-        "todayCases": 1182,
+        "todayCases": 0,
         "deaths": 782,
-        "todayDeaths": 54,
+        "todayDeaths": 0,
         "recovered": 8425,
         "active": 19492,
         "critical": 598,
@@ -2448,12 +2448,12 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402525,
+        "updated": 1588036002442,
         "country": "Philippines",
         "cases": 7777,
-        "todayCases": 198,
+        "todayCases": 0,
         "deaths": 511,
-        "todayDeaths": 10,
+        "todayDeaths": 0,
         "recovered": 932,
         "active": 6334,
         "critical": 31,
@@ -2464,12 +2464,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402514,
+        "updated": 1588036002431,
         "country": "Poland",
         "cases": 11902,
-        "todayCases": 285,
+        "todayCases": 0,
         "deaths": 562,
-        "todayDeaths": 27,
+        "todayDeaths": 0,
         "recovered": 2466,
         "active": 8874,
         "critical": 160,
@@ -2480,12 +2480,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402503,
+        "updated": 1588036002421,
         "country": "Portugal",
         "cases": 24027,
-        "todayCases": 163,
+        "todayCases": 0,
         "deaths": 928,
-        "todayDeaths": 25,
+        "todayDeaths": 0,
         "recovered": 1357,
         "active": 21742,
         "critical": 176,
@@ -2496,10 +2496,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402517,
+        "updated": 1588036002434,
         "country": "Qatar",
         "cases": 11244,
-        "todayCases": 957,
+        "todayCases": 0,
         "deaths": 10,
         "todayDeaths": 0,
         "recovered": 1066,
@@ -2512,12 +2512,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402515,
+        "updated": 1588036002432,
         "country": "Romania",
         "cases": 11339,
-        "todayCases": 303,
+        "todayCases": 0,
         "deaths": 641,
-        "todayDeaths": 22,
+        "todayDeaths": 0,
         "recovered": 3141,
         "active": 7557,
         "critical": 227,
@@ -2528,12 +2528,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402491,
+        "updated": 1588036002414,
         "country": "Russia",
         "cases": 87147,
-        "todayCases": 6198,
+        "todayCases": 0,
         "deaths": 794,
-        "todayDeaths": 47,
+        "todayDeaths": 0,
         "recovered": 7346,
         "active": 79007,
         "critical": 2300,
@@ -2544,10 +2544,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402600,
+        "updated": 1588036002519,
         "country": "Rwanda",
         "cases": 207,
-        "todayCases": 16,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 93,
@@ -2560,10 +2560,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402587,
+        "updated": 1588036002505,
         "country": "R\u00e9union",
         "cases": 418,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 300,
@@ -2576,12 +2576,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402519,
+        "updated": 1588036002436,
         "country": "S. Korea",
         "cases": 10738,
-        "todayCases": 10,
+        "todayCases": 0,
         "deaths": 243,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 8764,
         "active": 1731,
         "critical": 55,
@@ -2592,7 +2592,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402650,
+        "updated": 1588036002566,
         "country": "Saint Kitts and Nevis",
         "cases": 15,
         "todayCases": 0,
@@ -2608,7 +2608,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402651,
+        "updated": 1588036002566,
         "country": "Saint Lucia",
         "cases": 15,
         "todayCases": 0,
@@ -2624,7 +2624,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402637,
+        "updated": 1588036002554,
         "country": "Saint Martin",
         "cases": 38,
         "todayCases": 0,
@@ -2640,7 +2640,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402666,
+        "updated": 1588036002581,
         "country": "Saint Pierre Miquelon",
         "cases": 1,
         "todayCases": 0,
@@ -2656,10 +2656,10 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402651,
+        "updated": 1588036002567,
         "country": "Saint Vincent and the Grenadines",
         "cases": 15,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 0,
         "todayDeaths": 0,
         "recovered": 5,
@@ -2672,7 +2672,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402580,
+        "updated": 1588036002498,
         "country": "San Marino",
         "cases": 538,
         "todayCases": 0,
@@ -2688,7 +2688,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402665,
+        "updated": 1588036002580,
         "country": "Sao Tome and Principe",
         "cases": 4,
         "todayCases": 0,
@@ -2704,12 +2704,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402507,
+        "updated": 1588036002424,
         "country": "Saudi Arabia",
         "cases": 18811,
-        "todayCases": 1289,
+        "todayCases": 0,
         "deaths": 144,
-        "todayDeaths": 5,
+        "todayDeaths": 0,
         "recovered": 2531,
         "active": 16136,
         "critical": 117,
@@ -2720,10 +2720,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402572,
+        "updated": 1588036002489,
         "country": "Senegal",
         "cases": 736,
-        "todayCases": 65,
+        "todayCases": 0,
         "deaths": 9,
         "todayDeaths": 0,
         "recovered": 284,
@@ -2736,12 +2736,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402524,
+        "updated": 1588036002441,
         "country": "Serbia",
         "cases": 8275,
-        "todayCases": 233,
+        "todayCases": 0,
         "deaths": 162,
-        "todayDeaths": 6,
+        "todayDeaths": 0,
         "recovered": 1209,
         "active": 6904,
         "critical": 85,
@@ -2752,7 +2752,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402656,
+        "updated": 1588036002571,
         "country": "Seychelles",
         "cases": 11,
         "todayCases": 0,
@@ -2768,7 +2768,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402614,
+        "updated": 1588036002533,
         "country": "Sierra Leone",
         "cases": 93,
         "todayCases": 0,
@@ -2784,12 +2784,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402510,
+        "updated": 1588036002428,
         "country": "Singapore",
         "cases": 14423,
-        "todayCases": 799,
+        "todayCases": 0,
         "deaths": 14,
-        "todayDeaths": 2,
+        "todayDeaths": 0,
         "recovered": 1095,
         "active": 13314,
         "critical": 20,
@@ -2800,7 +2800,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402622,
+        "updated": 1588036002542,
         "country": "Sint Maarten",
         "cases": 74,
         "todayCases": 0,
@@ -2816,10 +2816,10 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402562,
+        "updated": 1588036002479,
         "country": "Slovakia",
         "cases": 1381,
-        "todayCases": 2,
+        "todayCases": 0,
         "deaths": 18,
         "todayDeaths": 0,
         "recovered": 403,
@@ -2832,12 +2832,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402559,
+        "updated": 1588036002475,
         "country": "Slovenia",
         "cases": 1402,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 83,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 221,
         "active": 1098,
         "critical": 22,
@@ -2848,12 +2848,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402583,
+        "updated": 1588036002501,
         "country": "Somalia",
         "cases": 480,
-        "todayCases": 44,
+        "todayCases": 0,
         "deaths": 26,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 10,
         "active": 444,
         "critical": 2,
@@ -2864,12 +2864,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402533,
+        "updated": 1588036002450,
         "country": "South Africa",
         "cases": 4793,
-        "todayCases": 247,
+        "todayCases": 0,
         "deaths": 90,
-        "todayDeaths": 3,
+        "todayDeaths": 0,
         "recovered": 1473,
         "active": 3230,
         "critical": 36,
@@ -2880,7 +2880,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402663,
+        "updated": 1588036002578,
         "country": "South Sudan",
         "cases": 6,
         "todayCases": 0,
@@ -2896,12 +2896,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402485,
+        "updated": 1588036002402,
         "country": "Spain",
         "cases": 229422,
-        "todayCases": 2793,
+        "todayCases": 0,
         "deaths": 23521,
-        "todayDeaths": 331,
+        "todayDeaths": 0,
         "recovered": 120832,
         "active": 85069,
         "critical": 7764,
@@ -2912,10 +2912,10 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402579,
+        "updated": 1588036002497,
         "country": "Sri Lanka",
         "cases": 588,
-        "todayCases": 65,
+        "todayCases": 0,
         "deaths": 7,
         "todayDeaths": 0,
         "recovered": 126,
@@ -2928,7 +2928,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402662,
+        "updated": 1588036002577,
         "country": "St. Barth",
         "cases": 6,
         "todayCases": 0,
@@ -2944,12 +2944,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402596,
+        "updated": 1588036002514,
         "country": "Sudan",
         "cases": 275,
-        "todayCases": 38,
+        "todayCases": 0,
         "deaths": 22,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 21,
         "active": 232,
         "critical": 0,
@@ -2960,7 +2960,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402657,
+        "updated": 1588036002572,
         "country": "Suriname",
         "cases": 10,
         "todayCases": 0,
@@ -2976,10 +2976,10 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402628,
+        "updated": 1588036002549,
         "country": "Swaziland",
         "cases": 65,
-        "todayCases": 6,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 10,
@@ -2992,12 +2992,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402506,
+        "updated": 1588036002424,
         "country": "Sweden",
         "cases": 18926,
-        "todayCases": 286,
+        "todayCases": 0,
         "deaths": 2274,
-        "todayDeaths": 80,
+        "todayDeaths": 0,
         "recovered": 1005,
         "active": 15647,
         "critical": 399,
@@ -3008,12 +3008,12 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402501,
+        "updated": 1588036002419,
         "country": "Switzerland",
         "cases": 29164,
-        "todayCases": 103,
+        "todayCases": 0,
         "deaths": 1665,
-        "todayDeaths": 55,
+        "todayDeaths": 0,
         "recovered": 22200,
         "active": 5299,
         "critical": 185,
@@ -3024,7 +3024,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402635,
+        "updated": 1588036002553,
         "country": "Syrian Arab Republic",
         "cases": 43,
         "todayCases": 0,
@@ -3040,7 +3040,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402586,
+        "updated": 1588036002505,
         "country": "Taiwan",
         "cases": 429,
         "todayCases": 0,
@@ -3051,12 +3051,12 @@
         "critical": 0,
         "casesPerOneMillion": 18,
         "deathsPerOneMillion": 0,
-        "tests": 60956,
-        "testsPerOneMillion": 2559,
+        "tests": 61684,
+        "testsPerOneMillion": 2590,
         "continent": "Asia"
     },
     {
-        "updated": 1588035402595,
+        "updated": 1588036002513,
         "country": "Tanzania",
         "cases": 299,
         "todayCases": 0,
@@ -3072,12 +3072,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402541,
+        "updated": 1588036002457,
         "country": "Thailand",
         "cases": 2931,
-        "todayCases": 9,
+        "todayCases": 0,
         "deaths": 52,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 2609,
         "active": 270,
         "critical": 61,
@@ -3088,7 +3088,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402642,
+        "updated": 1588036002559,
         "country": "Timor-Leste",
         "cases": 24,
         "todayCases": 0,
@@ -3104,7 +3104,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402612,
+        "updated": 1588036002531,
         "country": "Togo",
         "cases": 98,
         "todayCases": 0,
@@ -3120,10 +3120,10 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402609,
+        "updated": 1588036002528,
         "country": "Trinidad and Tobago",
         "cases": 116,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 59,
@@ -3136,12 +3136,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402568,
+        "updated": 1588036002485,
         "country": "Tunisia",
         "cases": 967,
-        "todayCases": 18,
+        "todayCases": 0,
         "deaths": 39,
-        "todayDeaths": 1,
+        "todayDeaths": 0,
         "recovered": 279,
         "active": 649,
         "critical": 18,
@@ -3152,12 +3152,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402489,
+        "updated": 1588036002407,
         "country": "Turkey",
         "cases": 112261,
-        "todayCases": 2131,
+        "todayCases": 0,
         "deaths": 2900,
-        "todayDeaths": 95,
+        "todayDeaths": 0,
         "recovered": 33791,
         "active": 75570,
         "critical": 1736,
@@ -3168,10 +3168,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402653,
+        "updated": 1588036002569,
         "country": "Turks and Caicos Islands",
         "cases": 12,
-        "todayCases": 1,
+        "todayCases": 0,
         "deaths": 1,
         "todayDeaths": 0,
         "recovered": 5,
@@ -3184,12 +3184,12 @@
         "continent": "North America"
     },
     {
-        "updated": 1588035402518,
+        "updated": 1588036002435,
         "country": "UAE",
         "cases": 10839,
-        "todayCases": 490,
+        "todayCases": 0,
         "deaths": 82,
-        "todayDeaths": 6,
+        "todayDeaths": 0,
         "recovered": 2090,
         "active": 8667,
         "critical": 1,
@@ -3200,12 +3200,12 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402488,
+        "updated": 1588036002406,
         "country": "UK",
         "cases": 157149,
-        "todayCases": 4309,
+        "todayCases": 0,
         "deaths": 21092,
-        "todayDeaths": 360,
+        "todayDeaths": 0,
         "recovered": 0,
         "active": 135713,
         "critical": 1559,
@@ -3216,23 +3216,23 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402484,
+        "updated": 1588036002400,
         "country": "USA",
-        "cases": 1010123,
-        "todayCases": 22963,
-        "deaths": 56796,
-        "todayDeaths": 1383,
-        "recovered": 138989,
-        "active": 814338,
+        "cases": 1010356,
+        "todayCases": 0,
+        "deaths": 56797,
+        "todayDeaths": 0,
+        "recovered": 138990,
+        "active": 814569,
         "critical": 14186,
         "casesPerOneMillion": 3052,
         "deathsPerOneMillion": 172,
-        "tests": 5684175,
-        "testsPerOneMillion": 17173,
+        "tests": 5696928,
+        "testsPerOneMillion": 17211,
         "continent": "North America"
     },
     {
-        "updated": 1588035402620,
+        "updated": 1588036002538,
         "country": "Uganda",
         "cases": 79,
         "todayCases": 0,
@@ -3248,12 +3248,12 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402521,
+        "updated": 1588036002438,
         "country": "Ukraine",
         "cases": 9009,
-        "todayCases": 392,
+        "todayCases": 0,
         "deaths": 220,
-        "todayDeaths": 11,
+        "todayDeaths": 0,
         "recovered": 864,
         "active": 7925,
         "critical": 110,
@@ -3264,26 +3264,26 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588035402578,
+        "updated": 1588036002496,
         "country": "Uruguay",
-        "cases": 606,
-        "todayCases": 10,
+        "cases": 620,
+        "todayCases": 14,
         "deaths": 15,
-        "todayDeaths": 1,
-        "recovered": 375,
-        "active": 216,
-        "critical": 10,
-        "casesPerOneMillion": 174,
+        "todayDeaths": 0,
+        "recovered": 386,
+        "active": 219,
+        "critical": 11,
+        "casesPerOneMillion": 178,
         "deathsPerOneMillion": 4,
-        "tests": 17063,
-        "testsPerOneMillion": 4912,
+        "tests": 17505,
+        "testsPerOneMillion": 5039,
         "continent": "South America"
     },
     {
-        "updated": 1588035402546,
+        "updated": 1588036002462,
         "country": "Uzbekistan",
         "cases": 1904,
-        "todayCases": 35,
+        "todayCases": 0,
         "deaths": 8,
         "todayDeaths": 0,
         "recovered": 892,
@@ -3296,10 +3296,10 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402592,
+        "updated": 1588036002510,
         "country": "Venezuela",
         "cases": 329,
-        "todayCases": 4,
+        "todayCases": 0,
         "deaths": 10,
         "todayDeaths": 0,
         "recovered": 142,
@@ -3312,7 +3312,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588035402597,
+        "updated": 1588036002515,
         "country": "Vietnam",
         "cases": 270,
         "todayCases": 0,
@@ -3328,7 +3328,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402663,
+        "updated": 1588036002579,
         "country": "Western Sahara",
         "cases": 6,
         "todayCases": 0,
@@ -3344,7 +3344,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402667,
+        "updated": 1588036002582,
         "country": "Yemen",
         "cases": 1,
         "todayCases": 0,
@@ -3360,7 +3360,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588035402615,
+        "updated": 1588036002534,
         "country": "Zambia",
         "cases": 88,
         "todayCases": 0,
@@ -3376,7 +3376,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588035402639,
+        "updated": 1588036002556,
         "country": "Zimbabwe",
         "cases": 31,
         "todayCases": 0,
