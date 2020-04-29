@@ -1,6 +1,6 @@
 [
     {
-        "updated": 1588185686227,
+        "updated": 1588186286010,
         "country": "Afghanistan",
         "countryInfo": {
             "_id": 4,
@@ -24,7 +24,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686251,
+        "updated": 1588186286044,
         "country": "Albania",
         "countryInfo": {
             "_id": 8,
@@ -48,7 +48,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686214,
+        "updated": 1588186285997,
         "country": "Algeria",
         "countryInfo": {
             "_id": 12,
@@ -72,7 +72,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686252,
+        "updated": 1588186286046,
         "country": "Andorra",
         "countryInfo": {
             "_id": 20,
@@ -84,19 +84,19 @@
         },
         "cases": 743,
         "todayCases": 0,
-        "deaths": 41,
-        "todayDeaths": 0,
-        "recovered": 398,
-        "active": 304,
+        "deaths": 42,
+        "todayDeaths": 1,
+        "recovered": 423,
+        "active": 278,
         "critical": 17,
         "casesPerOneMillion": 9616,
-        "deathsPerOneMillion": 531,
+        "deathsPerOneMillion": 544,
         "tests": 1673,
         "testsPerOneMillion": 21653,
         "continent": "Europe"
     },
     {
-        "updated": 1588185686346,
+        "updated": 1588186286159,
         "country": "Angola",
         "countryInfo": {
             "_id": 24,
@@ -120,7 +120,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686380,
+        "updated": 1588186286197,
         "country": "Anguilla",
         "countryInfo": {
             "_id": 660,
@@ -144,7 +144,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686347,
+        "updated": 1588186286160,
         "country": "Antigua and Barbuda",
         "countryInfo": {
             "_id": 28,
@@ -168,7 +168,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686213,
+        "updated": 1588186285996,
         "country": "Argentina",
         "countryInfo": {
             "_id": 32,
@@ -192,7 +192,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686228,
+        "updated": 1588186286010,
         "country": "Armenia",
         "countryInfo": {
             "_id": 51,
@@ -216,7 +216,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686308,
+        "updated": 1588186286127,
         "country": "Aruba",
         "countryInfo": {
             "_id": 533,
@@ -240,7 +240,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686205,
+        "updated": 1588186285988,
         "country": "Australia",
         "countryInfo": {
             "_id": 36,
@@ -264,7 +264,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588185686183,
+        "updated": 1588186285960,
         "country": "Austria",
         "countryInfo": {
             "_id": 40,
@@ -288,7 +288,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686231,
+        "updated": 1588186286014,
         "country": "Azerbaijan",
         "countryInfo": {
             "_id": 31,
@@ -312,7 +312,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686315,
+        "updated": 1588186286133,
         "country": "Bahamas",
         "countryInfo": {
             "_id": 44,
@@ -336,7 +336,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686220,
+        "updated": 1588186286003,
         "country": "Bahrain",
         "countryInfo": {
             "_id": 48,
@@ -360,7 +360,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686204,
+        "updated": 1588186285987,
         "country": "Bangladesh",
         "countryInfo": {
             "_id": 50,
@@ -384,7 +384,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686316,
+        "updated": 1588186286134,
         "country": "Barbados",
         "countryInfo": {
             "_id": 52,
@@ -408,7 +408,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686186,
+        "updated": 1588186285963,
         "country": "Belarus",
         "countryInfo": {
             "_id": 112,
@@ -432,7 +432,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686158,
+        "updated": 1588186285939,
         "country": "Belgium",
         "countryInfo": {
             "_id": 56,
@@ -456,7 +456,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686352,
+        "updated": 1588186286165,
         "country": "Belize",
         "countryInfo": {
             "_id": 84,
@@ -480,7 +480,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686328,
+        "updated": 1588186286145,
         "country": "Benin",
         "countryInfo": {
             "_id": 204,
@@ -504,7 +504,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686305,
+        "updated": 1588186286123,
         "country": "Bermuda",
         "countryInfo": {
             "_id": 60,
@@ -528,7 +528,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686376,
+        "updated": 1588186286191,
         "country": "Bhutan",
         "countryInfo": {
             "_id": 64,
@@ -552,7 +552,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686246,
+        "updated": 1588186286036,
         "country": "Bolivia",
         "countryInfo": {
             "_id": 68,
@@ -576,7 +576,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686231,
+        "updated": 1588186286015,
         "country": "Bosnia",
         "countryInfo": {
             "_id": 70,
@@ -600,7 +600,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686349,
+        "updated": 1588186286162,
         "country": "Botswana",
         "countryInfo": {
             "_id": 72,
@@ -624,7 +624,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686156,
+        "updated": 1588186285937,
         "country": "Brazil",
         "countryInfo": {
             "_id": 76,
@@ -648,7 +648,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686377,
+        "updated": 1588186286192,
         "country": "British Virgin Islands",
         "countryInfo": {
             "_id": 92,
@@ -672,7 +672,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686296,
+        "updated": 1588186286114,
         "country": "Brunei",
         "countryInfo": {
             "_id": 96,
@@ -696,7 +696,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686237,
+        "updated": 1588186286023,
         "country": "Bulgaria",
         "countryInfo": {
             "_id": 100,
@@ -720,7 +720,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686260,
+        "updated": 1588186286058,
         "country": "Burkina Faso",
         "countryInfo": {
             "_id": 854,
@@ -744,7 +744,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686366,
+        "updated": 1588186286176,
         "country": "Burundi",
         "countryInfo": {
             "_id": 108,
@@ -768,7 +768,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686304,
+        "updated": 1588186286121,
         "country": "Cabo Verde",
         "countryInfo": {
             "_id": 132,
@@ -792,7 +792,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686301,
+        "updated": 1588186286119,
         "country": "Cambodia",
         "countryInfo": {
             "_id": 116,
@@ -816,7 +816,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686228,
+        "updated": 1588186286011,
         "country": "Cameroon",
         "countryInfo": {
             "_id": 120,
@@ -840,7 +840,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686157,
+        "updated": 1588186285938,
         "country": "Canada",
         "countryInfo": {
             "_id": 124,
@@ -850,21 +850,21 @@
             "long": -95,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/ca.png"
         },
-        "cases": 50373,
-        "todayCases": 347,
-        "deaths": 2904,
-        "todayDeaths": 45,
+        "cases": 51231,
+        "todayCases": 1205,
+        "deaths": 2984,
+        "todayDeaths": 125,
         "recovered": 19886,
-        "active": 27583,
+        "active": 28361,
         "critical": 557,
-        "casesPerOneMillion": 1335,
-        "deathsPerOneMillion": 77,
+        "casesPerOneMillion": 1357,
+        "deathsPerOneMillion": 79,
         "tests": 754800,
         "testsPerOneMillion": 19999,
         "continent": "North America"
     },
     {
-        "updated": 1588185686379,
+        "updated": 1588186286196,
         "country": "Caribbean Netherlands",
         "countryInfo": {
             "_id": 535,
@@ -888,7 +888,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686326,
+        "updated": 1588186286142,
         "country": "Cayman Islands",
         "countryInfo": {
             "_id": 136,
@@ -912,7 +912,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686333,
+        "updated": 1588186286149,
         "country": "Central African Republic",
         "countryInfo": {
             "_id": 140,
@@ -936,7 +936,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686333,
+        "updated": 1588186286148,
         "country": "Chad",
         "countryInfo": {
             "_id": 148,
@@ -960,7 +960,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686267,
+        "updated": 1588186286065,
         "country": "Channel Islands",
         "countryInfo": {
             "_id": 832,
@@ -984,7 +984,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686184,
+        "updated": 1588186285961,
         "country": "Chile",
         "countryInfo": {
             "_id": 152,
@@ -1008,7 +1008,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686383,
+        "updated": 1588186286200,
         "country": "China",
         "countryInfo": {
             "_id": 156,
@@ -1032,7 +1032,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686208,
+        "updated": 1588186285990,
         "country": "Colombia",
         "countryInfo": {
             "_id": 170,
@@ -1056,7 +1056,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686289,
+        "updated": 1588186286104,
         "country": "Congo",
         "countryInfo": {
             "_id": 178,
@@ -1080,7 +1080,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686258,
+        "updated": 1588186286056,
         "country": "Costa Rica",
         "countryInfo": {
             "_id": 188,
@@ -1104,7 +1104,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686224,
+        "updated": 1588186286007,
         "country": "Croatia",
         "countryInfo": {
             "_id": 191,
@@ -1128,7 +1128,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686236,
+        "updated": 1588186286022,
         "country": "Cuba",
         "countryInfo": {
             "_id": 192,
@@ -1152,7 +1152,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686356,
+        "updated": 1588186286168,
         "country": "Cura\u00e7ao",
         "countryInfo": {
             "_id": 531,
@@ -1176,7 +1176,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686250,
+        "updated": 1588186286043,
         "country": "Cyprus",
         "countryInfo": {
             "_id": 196,
@@ -1200,7 +1200,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686204,
+        "updated": 1588186285986,
         "country": "Czechia",
         "countryInfo": {
             "_id": 203,
@@ -1224,7 +1224,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686244,
+        "updated": 1588186286033,
         "country": "C\u00f4te d'Ivoire",
         "countryInfo": {
             "_id": 384,
@@ -1248,7 +1248,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686269,
+        "updated": 1588186286068,
         "country": "DRC",
         "countryInfo": {
             "_id": 180,
@@ -1272,7 +1272,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686198,
+        "updated": 1588186285979,
         "country": "Denmark",
         "countryInfo": {
             "_id": 208,
@@ -1296,7 +1296,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686256,
+        "updated": 1588186286053,
         "country": "Diamond Princess",
         "countryInfo": {
             "_id": null,
@@ -1320,7 +1320,7 @@
         "continent": ""
     },
     {
-        "updated": 1588185686245,
+        "updated": 1588186286035,
         "country": "Djibouti",
         "countryInfo": {
             "_id": 262,
@@ -1344,7 +1344,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686357,
+        "updated": 1588186286169,
         "country": "Dominica",
         "countryInfo": {
             "_id": 212,
@@ -1368,7 +1368,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686206,
+        "updated": 1588186285989,
         "country": "Dominican Republic",
         "countryInfo": {
             "_id": 214,
@@ -1392,7 +1392,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686173,
+        "updated": 1588186285948,
         "country": "Ecuador",
         "countryInfo": {
             "_id": 218,
@@ -1416,7 +1416,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686210,
+        "updated": 1588186285992,
         "country": "Egypt",
         "countryInfo": {
             "_id": 818,
@@ -1440,7 +1440,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686278,
+        "updated": 1588186286082,
         "country": "El Salvador",
         "countryInfo": {
             "_id": 222,
@@ -1464,7 +1464,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686284,
+        "updated": 1588186286093,
         "country": "Equatorial Guinea",
         "countryInfo": {
             "_id": 226,
@@ -1488,7 +1488,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686337,
+        "updated": 1588186286152,
         "country": "Eritrea",
         "countryInfo": {
             "_id": 232,
@@ -1512,7 +1512,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686233,
+        "updated": 1588186286018,
         "country": "Estonia",
         "countryInfo": {
             "_id": 233,
@@ -1536,7 +1536,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686297,
+        "updated": 1588186286115,
         "country": "Ethiopia",
         "countryInfo": {
             "_id": 231,
@@ -1560,7 +1560,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686364,
+        "updated": 1588186286174,
         "country": "Falkland Islands (Malvinas)",
         "countryInfo": {
             "_id": 238,
@@ -1584,7 +1584,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686290,
+        "updated": 1588186286105,
         "country": "Faroe Islands",
         "countryInfo": {
             "_id": 234,
@@ -1608,7 +1608,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686353,
+        "updated": 1588186286166,
         "country": "Fiji",
         "countryInfo": {
             "_id": 242,
@@ -1632,7 +1632,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588185686212,
+        "updated": 1588186285994,
         "country": "Finland",
         "countryInfo": {
             "_id": 246,
@@ -1656,7 +1656,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686147,
+        "updated": 1588186285929,
         "country": "France",
         "countryInfo": {
             "_id": 250,
@@ -1680,7 +1680,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686300,
+        "updated": 1588186286117,
         "country": "French Guiana",
         "countryInfo": {
             "_id": 254,
@@ -1704,7 +1704,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686330,
+        "updated": 1588186286146,
         "country": "French Polynesia",
         "countryInfo": {
             "_id": 258,
@@ -1728,7 +1728,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588185686288,
+        "updated": 1588186286101,
         "country": "Gabon",
         "countryInfo": {
             "_id": 266,
@@ -1752,7 +1752,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686369,
+        "updated": 1588186286180,
         "country": "Gambia",
         "countryInfo": {
             "_id": 270,
@@ -1776,7 +1776,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686268,
+        "updated": 1588186286067,
         "country": "Georgia",
         "countryInfo": {
             "_id": 268,
@@ -1800,7 +1800,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686150,
+        "updated": 1588186285932,
         "country": "Germany",
         "countryInfo": {
             "_id": 276,
@@ -1824,7 +1824,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686232,
+        "updated": 1588186286017,
         "country": "Ghana",
         "countryInfo": {
             "_id": 288,
@@ -1848,7 +1848,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686295,
+        "updated": 1588186286112,
         "country": "Gibraltar",
         "countryInfo": {
             "_id": 292,
@@ -1872,7 +1872,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686222,
+        "updated": 1588186286005,
         "country": "Greece",
         "countryInfo": {
             "_id": 300,
@@ -1896,7 +1896,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686367,
+        "updated": 1588186286178,
         "country": "Greenland",
         "countryInfo": {
             "_id": 304,
@@ -1920,7 +1920,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686350,
+        "updated": 1588186286163,
         "country": "Grenada",
         "countryInfo": {
             "_id": 308,
@@ -1944,7 +1944,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686294,
+        "updated": 1588186286110,
         "country": "Guadeloupe",
         "countryInfo": {
             "_id": 312,
@@ -1968,7 +1968,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686266,
+        "updated": 1588186286064,
         "country": "Guatemala",
         "countryInfo": {
             "_id": 320,
@@ -1992,7 +1992,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686243,
+        "updated": 1588186286032,
         "country": "Guinea",
         "countryInfo": {
             "_id": 324,
@@ -2016,7 +2016,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686327,
+        "updated": 1588186286143,
         "country": "Guinea-Bissau",
         "countryInfo": {
             "_id": 624,
@@ -2040,7 +2040,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686323,
+        "updated": 1588186286139,
         "country": "Guyana",
         "countryInfo": {
             "_id": 328,
@@ -2064,7 +2064,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686319,
+        "updated": 1588186286136,
         "country": "Haiti",
         "countryInfo": {
             "_id": 332,
@@ -2088,7 +2088,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686371,
+        "updated": 1588186286183,
         "country": "Holy See (Vatican City State)",
         "countryInfo": {
             "_id": 336,
@@ -2112,7 +2112,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686252,
+        "updated": 1588186286047,
         "country": "Honduras",
         "countryInfo": {
             "_id": 340,
@@ -2136,7 +2136,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686247,
+        "updated": 1588186286037,
         "country": "Hong Kong",
         "countryInfo": {
             "_id": 344,
@@ -2160,7 +2160,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686221,
+        "updated": 1588186286004,
         "country": "Hungary",
         "countryInfo": {
             "_id": 348,
@@ -2184,7 +2184,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686230,
+        "updated": 1588186286012,
         "country": "Iceland",
         "countryInfo": {
             "_id": 352,
@@ -2208,7 +2208,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686161,
+        "updated": 1588186285943,
         "country": "India",
         "countryInfo": {
             "_id": 356,
@@ -2232,7 +2232,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686196,
+        "updated": 1588186285978,
         "country": "Indonesia",
         "countryInfo": {
             "_id": 360,
@@ -2256,7 +2256,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686154,
+        "updated": 1588186285936,
         "country": "Iran",
         "countryInfo": {
             "_id": 364,
@@ -2280,7 +2280,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686225,
+        "updated": 1588186286007,
         "country": "Iraq",
         "countryInfo": {
             "_id": 368,
@@ -2304,7 +2304,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686177,
+        "updated": 1588186285953,
         "country": "Ireland",
         "countryInfo": {
             "_id": 372,
@@ -2328,7 +2328,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686284,
+        "updated": 1588186286095,
         "country": "Isle of Man",
         "countryInfo": {
             "_id": 833,
@@ -2352,7 +2352,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686179,
+        "updated": 1588186285956,
         "country": "Israel",
         "countryInfo": {
             "_id": 376,
@@ -2376,7 +2376,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686146,
+        "updated": 1588186285927,
         "country": "Italy",
         "countryInfo": {
             "_id": 380,
@@ -2400,7 +2400,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686277,
+        "updated": 1588186286081,
         "country": "Jamaica",
         "countryInfo": {
             "_id": 388,
@@ -2424,7 +2424,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686185,
+        "updated": 1588186285962,
         "country": "Japan",
         "countryInfo": {
             "_id": 392,
@@ -2448,7 +2448,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686274,
+        "updated": 1588186286075,
         "country": "Jordan",
         "countryInfo": {
             "_id": 400,
@@ -2472,7 +2472,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686218,
+        "updated": 1588186286001,
         "country": "Kazakhstan",
         "countryInfo": {
             "_id": 398,
@@ -2496,7 +2496,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686276,
+        "updated": 1588186286079,
         "country": "Kenya",
         "countryInfo": {
             "_id": 404,
@@ -2520,7 +2520,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686217,
+        "updated": 1588186286000,
         "country": "Kuwait",
         "countryInfo": {
             "_id": 414,
@@ -2544,7 +2544,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686255,
+        "updated": 1588186286050,
         "country": "Kyrgyzstan",
         "countryInfo": {
             "_id": 417,
@@ -2568,7 +2568,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686351,
+        "updated": 1588186286164,
         "country": "Lao People's Democratic Republic",
         "countryInfo": {
             "_id": 418,
@@ -2592,7 +2592,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686249,
+        "updated": 1588186286042,
         "country": "Latvia",
         "countryInfo": {
             "_id": 428,
@@ -2616,7 +2616,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686256,
+        "updated": 1588186286051,
         "country": "Lebanon",
         "countryInfo": {
             "_id": 422,
@@ -2640,7 +2640,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686294,
+        "updated": 1588186286111,
         "country": "Liberia",
         "countryInfo": {
             "_id": 430,
@@ -2664,7 +2664,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686329,
+        "updated": 1588186286145,
         "country": "Libyan Arab Jamahiriya",
         "countryInfo": {
             "_id": 434,
@@ -2688,7 +2688,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686312,
+        "updated": 1588186286131,
         "country": "Liechtenstein",
         "countryInfo": {
             "_id": 438,
@@ -2712,7 +2712,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686243,
+        "updated": 1588186286031,
         "country": "Lithuania",
         "countryInfo": {
             "_id": 440,
@@ -2736,7 +2736,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686216,
+        "updated": 1588186285999,
         "country": "Luxembourg",
         "countryInfo": {
             "_id": 442,
@@ -2760,7 +2760,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686373,
+        "updated": 1588186286184,
         "country": "MS Zaandam",
         "countryInfo": {
             "_id": null,
@@ -2784,7 +2784,7 @@
         "continent": ""
     },
     {
-        "updated": 1588185686334,
+        "updated": 1588186286150,
         "country": "Macao",
         "countryInfo": {
             "_id": 446,
@@ -2808,7 +2808,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686239,
+        "updated": 1588186286026,
         "country": "Macedonia",
         "countryInfo": {
             "_id": 807,
@@ -2832,7 +2832,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686298,
+        "updated": 1588186286116,
         "country": "Madagascar",
         "countryInfo": {
             "_id": 450,
@@ -2856,7 +2856,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686340,
+        "updated": 1588186286154,
         "country": "Malawi",
         "countryInfo": {
             "_id": 454,
@@ -2880,7 +2880,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686209,
+        "updated": 1588186285991,
         "country": "Malaysia",
         "countryInfo": {
             "_id": 458,
@@ -2904,7 +2904,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686286,
+        "updated": 1588186286098,
         "country": "Maldives",
         "countryInfo": {
             "_id": 462,
@@ -2928,7 +2928,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686270,
+        "updated": 1588186286070,
         "country": "Mali",
         "countryInfo": {
             "_id": 466,
@@ -2952,7 +2952,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686272,
+        "updated": 1588186286072,
         "country": "Malta",
         "countryInfo": {
             "_id": 470,
@@ -2976,7 +2976,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686291,
+        "updated": 1588186286107,
         "country": "Martinique",
         "countryInfo": {
             "_id": 474,
@@ -3000,7 +3000,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686374,
+        "updated": 1588186286185,
         "country": "Mauritania",
         "countryInfo": {
             "_id": 478,
@@ -3024,7 +3024,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686281,
+        "updated": 1588186286089,
         "country": "Mauritius",
         "countryInfo": {
             "_id": 480,
@@ -3048,7 +3048,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686273,
+        "updated": 1588186286074,
         "country": "Mayotte",
         "countryInfo": {
             "_id": 175,
@@ -3072,7 +3072,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686178,
+        "updated": 1588186285954,
         "country": "Mexico",
         "countryInfo": {
             "_id": 484,
@@ -3096,7 +3096,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686215,
+        "updated": 1588186285998,
         "country": "Moldova",
         "countryInfo": {
             "_id": 498,
@@ -3120,7 +3120,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686310,
+        "updated": 1588186286129,
         "country": "Monaco",
         "countryInfo": {
             "_id": 492,
@@ -3144,7 +3144,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686339,
+        "updated": 1588186286153,
         "country": "Mongolia",
         "countryInfo": {
             "_id": 496,
@@ -3168,7 +3168,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686283,
+        "updated": 1588186286092,
         "country": "Montenegro",
         "countryInfo": {
             "_id": 499,
@@ -3192,7 +3192,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686367,
+        "updated": 1588186286177,
         "country": "Montserrat",
         "countryInfo": {
             "_id": 500,
@@ -3216,7 +3216,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686212,
+        "updated": 1588186285995,
         "country": "Morocco",
         "countryInfo": {
             "_id": 504,
@@ -3240,7 +3240,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686320,
+        "updated": 1588186286137,
         "country": "Mozambique",
         "countryInfo": {
             "_id": 508,
@@ -3264,7 +3264,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686292,
+        "updated": 1588186286108,
         "country": "Myanmar",
         "countryInfo": {
             "_id": 104,
@@ -3288,7 +3288,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686358,
+        "updated": 1588186286170,
         "country": "Namibia",
         "countryInfo": {
             "_id": 516,
@@ -3312,7 +3312,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686331,
+        "updated": 1588186286147,
         "country": "Nepal",
         "countryInfo": {
             "_id": 524,
@@ -3336,7 +3336,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686160,
+        "updated": 1588186285941,
         "country": "Netherlands",
         "countryInfo": {
             "_id": 528,
@@ -3360,7 +3360,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686354,
+        "updated": 1588186286167,
         "country": "New Caledonia",
         "countryInfo": {
             "_id": 540,
@@ -3384,7 +3384,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588185686235,
+        "updated": 1588186286021,
         "country": "New Zealand",
         "countryInfo": {
             "_id": 554,
@@ -3408,7 +3408,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588185686363,
+        "updated": 1588186286173,
         "country": "Nicaragua",
         "countryInfo": {
             "_id": 558,
@@ -3432,7 +3432,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686258,
+        "updated": 1588186286054,
         "country": "Niger",
         "countryInfo": {
             "_id": 562,
@@ -3456,7 +3456,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686234,
+        "updated": 1588186286019,
         "country": "Nigeria",
         "countryInfo": {
             "_id": 566,
@@ -3480,7 +3480,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686202,
+        "updated": 1588186285985,
         "country": "Norway",
         "countryInfo": {
             "_id": 578,
@@ -3504,7 +3504,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686222,
+        "updated": 1588186286005,
         "country": "Oman",
         "countryInfo": {
             "_id": 512,
@@ -3528,7 +3528,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686182,
+        "updated": 1588186285958,
         "country": "Pakistan",
         "countryInfo": {
             "_id": 586,
@@ -3552,7 +3552,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686280,
+        "updated": 1588186286087,
         "country": "Palestine",
         "countryInfo": {
             "_id": 275,
@@ -3576,7 +3576,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686207,
+        "updated": 1588186285989,
         "country": "Panama",
         "countryInfo": {
             "_id": 591,
@@ -3600,7 +3600,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686374,
+        "updated": 1588186286187,
         "country": "Papua New Guinea",
         "countryInfo": {
             "_id": 598,
@@ -3624,7 +3624,7 @@
         "continent": "Australia\/Oceania"
     },
     {
-        "updated": 1588185686287,
+        "updated": 1588186286099,
         "country": "Paraguay",
         "countryInfo": {
             "_id": 600,
@@ -3648,7 +3648,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686163,
+        "updated": 1588186285944,
         "country": "Peru",
         "countryInfo": {
             "_id": 604,
@@ -3672,7 +3672,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686201,
+        "updated": 1588186285984,
         "country": "Philippines",
         "countryInfo": {
             "_id": 608,
@@ -3696,7 +3696,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686188,
+        "updated": 1588186285964,
         "country": "Poland",
         "countryInfo": {
             "_id": 616,
@@ -3720,7 +3720,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686166,
+        "updated": 1588186285947,
         "country": "Portugal",
         "countryInfo": {
             "_id": 620,
@@ -3744,7 +3744,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686189,
+        "updated": 1588186285971,
         "country": "Qatar",
         "countryInfo": {
             "_id": 634,
@@ -3768,7 +3768,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686191,
+        "updated": 1588186285974,
         "country": "Romania",
         "countryInfo": {
             "_id": 642,
@@ -3792,7 +3792,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686153,
+        "updated": 1588186285935,
         "country": "Russia",
         "countryInfo": {
             "_id": 643,
@@ -3816,7 +3816,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686288,
+        "updated": 1588186286102,
         "country": "Rwanda",
         "countryInfo": {
             "_id": 646,
@@ -3840,7 +3840,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686275,
+        "updated": 1588186286078,
         "country": "R\u00e9union",
         "countryInfo": {
             "_id": 638,
@@ -3864,7 +3864,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686194,
+        "updated": 1588186285976,
         "country": "S. Korea",
         "countryInfo": {
             "_id": 410,
@@ -3888,7 +3888,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686359,
+        "updated": 1588186286171,
         "country": "Saint Kitts and Nevis",
         "countryInfo": {
             "_id": 659,
@@ -3912,7 +3912,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686355,
+        "updated": 1588186286168,
         "country": "Saint Lucia",
         "countryInfo": {
             "_id": 662,
@@ -3936,7 +3936,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686338,
+        "updated": 1588186286152,
         "country": "Saint Martin",
         "countryInfo": {
             "_id": 663,
@@ -3960,7 +3960,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686381,
+        "updated": 1588186286198,
         "country": "Saint Pierre Miquelon",
         "countryInfo": {
             "_id": 666,
@@ -3984,7 +3984,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686362,
+        "updated": 1588186286172,
         "country": "Saint Vincent and the Grenadines",
         "countryInfo": {
             "_id": 670,
@@ -4008,7 +4008,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686263,
+        "updated": 1588186286062,
         "country": "San Marino",
         "countryInfo": {
             "_id": 674,
@@ -4032,7 +4032,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686375,
+        "updated": 1588186286190,
         "country": "Sao Tome and Principe",
         "countryInfo": {
             "_id": 678,
@@ -4056,7 +4056,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686174,
+        "updated": 1588186285950,
         "country": "Saudi Arabia",
         "countryInfo": {
             "_id": 682,
@@ -4080,7 +4080,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686248,
+        "updated": 1588186286040,
         "country": "Senegal",
         "countryInfo": {
             "_id": 686,
@@ -4104,7 +4104,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686200,
+        "updated": 1588186285983,
         "country": "Serbia",
         "countryInfo": {
             "_id": 688,
@@ -4128,7 +4128,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686368,
+        "updated": 1588186286179,
         "country": "Seychelles",
         "countryInfo": {
             "_id": 690,
@@ -4152,7 +4152,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686307,
+        "updated": 1588186286125,
         "country": "Sierra Leone",
         "countryInfo": {
             "_id": 694,
@@ -4176,7 +4176,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686180,
+        "updated": 1588186285957,
         "country": "Singapore",
         "countryInfo": {
             "_id": 702,
@@ -4200,7 +4200,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686322,
+        "updated": 1588186286138,
         "country": "Sint Maarten",
         "countryInfo": {
             "_id": 534,
@@ -4224,7 +4224,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686241,
+        "updated": 1588186286029,
         "country": "Slovakia",
         "countryInfo": {
             "_id": 703,
@@ -4248,7 +4248,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686240,
+        "updated": 1588186286027,
         "country": "Slovenia",
         "countryInfo": {
             "_id": 705,
@@ -4272,7 +4272,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686262,
+        "updated": 1588186286061,
         "country": "Somalia",
         "countryInfo": {
             "_id": 706,
@@ -4296,7 +4296,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686211,
+        "updated": 1588186285993,
         "country": "South Africa",
         "countryInfo": {
             "_id": 710,
@@ -4320,7 +4320,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686341,
+        "updated": 1588186286155,
         "country": "South Sudan",
         "countryInfo": {
             "_id": 728,
@@ -4344,7 +4344,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686145,
+        "updated": 1588186285926,
         "country": "Spain",
         "countryInfo": {
             "_id": 724,
@@ -4368,7 +4368,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686259,
+        "updated": 1588186286057,
         "country": "Sri Lanka",
         "countryInfo": {
             "_id": 144,
@@ -4392,7 +4392,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686378,
+        "updated": 1588186286193,
         "country": "St. Barth",
         "countryInfo": {
             "_id": 652,
@@ -4416,7 +4416,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686279,
+        "updated": 1588186286084,
         "country": "Sudan",
         "countryInfo": {
             "_id": 736,
@@ -4440,7 +4440,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686370,
+        "updated": 1588186286181,
         "country": "Suriname",
         "countryInfo": {
             "_id": 740,
@@ -4464,7 +4464,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686311,
+        "updated": 1588186286130,
         "country": "Swaziland",
         "countryInfo": {
             "_id": 748,
@@ -4488,7 +4488,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686175,
+        "updated": 1588186285951,
         "country": "Sweden",
         "countryInfo": {
             "_id": 752,
@@ -4512,7 +4512,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686164,
+        "updated": 1588186285946,
         "country": "Switzerland",
         "countryInfo": {
             "_id": 756,
@@ -4536,7 +4536,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686336,
+        "updated": 1588186286151,
         "country": "Syrian Arab Republic",
         "countryInfo": {
             "_id": 760,
@@ -4560,7 +4560,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686274,
+        "updated": 1588186286076,
         "country": "Taiwan",
         "countryInfo": {
             "_id": 158,
@@ -4584,7 +4584,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686271,
+        "updated": 1588186286071,
         "country": "Tanzania",
         "countryInfo": {
             "_id": 834,
@@ -4608,7 +4608,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686219,
+        "updated": 1588186286002,
         "country": "Thailand",
         "countryInfo": {
             "_id": 764,
@@ -4632,7 +4632,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686348,
+        "updated": 1588186286161,
         "country": "Timor-Leste",
         "countryInfo": {
             "_id": 626,
@@ -4656,7 +4656,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686306,
+        "updated": 1588186286124,
         "country": "Togo",
         "countryInfo": {
             "_id": 768,
@@ -4680,7 +4680,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686302,
+        "updated": 1588186286120,
         "country": "Trinidad and Tobago",
         "countryInfo": {
             "_id": 780,
@@ -4704,7 +4704,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686247,
+        "updated": 1588186286039,
         "country": "Tunisia",
         "countryInfo": {
             "_id": 788,
@@ -4728,7 +4728,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686151,
+        "updated": 1588186285933,
         "country": "Turkey",
         "countryInfo": {
             "_id": 792,
@@ -4752,7 +4752,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686365,
+        "updated": 1588186286175,
         "country": "Turks and Caicos Islands",
         "countryInfo": {
             "_id": 796,
@@ -4776,7 +4776,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686193,
+        "updated": 1588186285975,
         "country": "UAE",
         "countryInfo": {
             "_id": 784,
@@ -4800,7 +4800,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686149,
+        "updated": 1588186285930,
         "country": "UK",
         "countryInfo": {
             "_id": 826,
@@ -4824,7 +4824,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686143,
+        "updated": 1588186285924,
         "country": "USA",
         "countryInfo": {
             "_id": 840,
@@ -4848,7 +4848,7 @@
         "continent": "North America"
     },
     {
-        "updated": 1588185686318,
+        "updated": 1588186286135,
         "country": "Uganda",
         "countryInfo": {
             "_id": 800,
@@ -4872,7 +4872,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686195,
+        "updated": 1588186285977,
         "country": "Ukraine",
         "countryInfo": {
             "_id": 804,
@@ -4896,7 +4896,7 @@
         "continent": "Europe"
     },
     {
-        "updated": 1588185686261,
+        "updated": 1588186286060,
         "country": "Uruguay",
         "countryInfo": {
             "_id": 858,
@@ -4920,7 +4920,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686226,
+        "updated": 1588186286008,
         "country": "Uzbekistan",
         "countryInfo": {
             "_id": 860,
@@ -4930,21 +4930,21 @@
             "long": 64,
             "flag": "https:\/\/corona.lmao.ninja\/assets\/img\/flags\/uz.png"
         },
-        "cases": 1969,
-        "todayCases": 30,
-        "deaths": 8,
-        "todayDeaths": 0,
+        "cases": 2002,
+        "todayCases": 63,
+        "deaths": 9,
+        "todayDeaths": 1,
         "recovered": 1096,
-        "active": 865,
+        "active": 897,
         "critical": 8,
-        "casesPerOneMillion": 59,
+        "casesPerOneMillion": 60,
         "deathsPerOneMillion": 0,
         "tests": 242536,
         "testsPerOneMillion": 7247,
         "continent": "Asia"
     },
     {
-        "updated": 1588185686282,
+        "updated": 1588186286090,
         "country": "Venezuela",
         "countryInfo": {
             "_id": 862,
@@ -4968,7 +4968,7 @@
         "continent": "South America"
     },
     {
-        "updated": 1588185686285,
+        "updated": 1588186286096,
         "country": "Vietnam",
         "countryInfo": {
             "_id": 704,
@@ -4992,7 +4992,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686378,
+        "updated": 1588186286195,
         "country": "Western Sahara",
         "countryInfo": {
             "_id": 732,
@@ -5016,7 +5016,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686382,
+        "updated": 1588186286199,
         "country": "Yemen",
         "countryInfo": {
             "_id": 887,
@@ -5040,7 +5040,7 @@
         "continent": "Asia"
     },
     {
-        "updated": 1588185686309,
+        "updated": 1588186286128,
         "country": "Zambia",
         "countryInfo": {
             "_id": 894,
@@ -5064,7 +5064,7 @@
         "continent": "Africa"
     },
     {
-        "updated": 1588185686345,
+        "updated": 1588186286157,
         "country": "Zimbabwe",
         "countryInfo": {
             "_id": 716,
