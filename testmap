@@ -1,6 +1,6 @@
 [
     {
-        "updated": 1603694297546,
+        "updated": 1603694897571,
         "country": "Afghanistan",
         "countryInfo": {
             "_id": 4,
@@ -32,7 +32,7 @@
         "criticalPerOneMillion": 2.37
     },
     {
-        "updated": 1603694297567,
+        "updated": 1603694897590,
         "country": "Albania",
         "countryInfo": {
             "_id": 8,
@@ -64,7 +64,7 @@
         "criticalPerOneMillion": 6.95
     },
     {
-        "updated": 1603694297533,
+        "updated": 1603694897553,
         "country": "Algeria",
         "countryInfo": {
             "_id": 12,
@@ -96,7 +96,7 @@
         "criticalPerOneMillion": 0.66
     },
     {
-        "updated": 1603694297634,
+        "updated": 1603694897654,
         "country": "Andorra",
         "countryInfo": {
             "_id": 20,
@@ -128,7 +128,7 @@
         "criticalPerOneMillion": 284.59
     },
     {
-        "updated": 1603694297596,
+        "updated": 1603694897615,
         "country": "Angola",
         "countryInfo": {
             "_id": 24,
@@ -160,7 +160,7 @@
         "criticalPerOneMillion": 0.99
     },
     {
-        "updated": 1603694297713,
+        "updated": 1603694897745,
         "country": "Anguilla",
         "countryInfo": {
             "_id": 660,
@@ -192,7 +192,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297691,
+        "updated": 1603694897722,
         "country": "Antigua and Barbuda",
         "countryInfo": {
             "_id": 28,
@@ -224,7 +224,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297444,
+        "updated": 1603694897462,
         "country": "Argentina",
         "countryInfo": {
             "_id": 32,
@@ -256,7 +256,7 @@
         "criticalPerOneMillion": 107.29
     },
     {
-        "updated": 1603694297519,
+        "updated": 1603694897536,
         "country": "Armenia",
         "countryInfo": {
             "_id": 51,
@@ -266,29 +266,29 @@
             "long": 45,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/am.png"
         },
-        "cases": 77837,
-        "todayCases": 0,
-        "deaths": 1180,
-        "todayDeaths": 0,
-        "recovered": 50908,
-        "todayRecovered": 0,
-        "active": 25749,
+        "cases": 78810,
+        "todayCases": 973,
+        "deaths": 1196,
+        "todayDeaths": 16,
+        "recovered": 51162,
+        "todayRecovered": 254,
+        "active": 26452,
         "critical": 0,
-        "casesPerOneMillion": 26252,
-        "deathsPerOneMillion": 398,
-        "tests": 377340,
-        "testsPerOneMillion": 127264,
+        "casesPerOneMillion": 26580,
+        "deathsPerOneMillion": 403,
+        "tests": 379541,
+        "testsPerOneMillion": 128006,
         "population": 2965018,
         "continent": "Asia",
         "oneCasePerPeople": 38,
-        "oneDeathPerPeople": 2513,
+        "oneDeathPerPeople": 2479,
         "oneTestPerPeople": 8,
-        "activePerOneMillion": 8684.26,
-        "recoveredPerOneMillion": 17169.54,
+        "activePerOneMillion": 8921.36,
+        "recoveredPerOneMillion": 17255.21,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297631,
+        "updated": 1603694897651,
         "country": "Aruba",
         "countryInfo": {
             "_id": 533,
@@ -320,7 +320,7 @@
         "criticalPerOneMillion": 37.41
     },
     {
-        "updated": 1603694297557,
+        "updated": 1603694897581,
         "country": "Australia",
         "countryInfo": {
             "_id": 36,
@@ -352,7 +352,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297517,
+        "updated": 1603694897534,
         "country": "Austria",
         "countryInfo": {
             "_id": 40,
@@ -384,7 +384,7 @@
         "criticalPerOneMillion": 19.28
     },
     {
-        "updated": 1603694297538,
+        "updated": 1603694897559,
         "country": "Azerbaijan",
         "countryInfo": {
             "_id": 31,
@@ -416,7 +416,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297610,
+        "updated": 1603694897629,
         "country": "Bahamas",
         "countryInfo": {
             "_id": 44,
@@ -448,7 +448,7 @@
         "criticalPerOneMillion": 20.28
     },
     {
-        "updated": 1603694297518,
+        "updated": 1603694897535,
         "country": "Bahrain",
         "countryInfo": {
             "_id": 48,
@@ -480,7 +480,7 @@
         "criticalPerOneMillion": 16.86
     },
     {
-        "updated": 1603694297461,
+        "updated": 1603694897485,
         "country": "Bangladesh",
         "countryInfo": {
             "_id": 50,
@@ -512,7 +512,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297685,
+        "updated": 1603694897715,
         "country": "Barbados",
         "countryInfo": {
             "_id": 52,
@@ -544,7 +544,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297514,
+        "updated": 1603694897531,
         "country": "Belarus",
         "countryInfo": {
             "_id": 112,
@@ -576,7 +576,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297474,
+        "updated": 1603694897494,
         "country": "Belgium",
         "countryInfo": {
             "_id": 56,
@@ -608,7 +608,7 @@
         "criticalPerOneMillion": 65.23
     },
     {
-        "updated": 1603694297641,
+        "updated": 1603694897662,
         "country": "Belize",
         "countryInfo": {
             "_id": 84,
@@ -640,7 +640,7 @@
         "criticalPerOneMillion": 2.5
     },
     {
-        "updated": 1603694297645,
+        "updated": 1603694897666,
         "country": "Benin",
         "countryInfo": {
             "_id": 204,
@@ -672,7 +672,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297687,
+        "updated": 1603694897716,
         "country": "Bermuda",
         "countryInfo": {
             "_id": 60,
@@ -704,7 +704,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297681,
+        "updated": 1603694897706,
         "country": "Bhutan",
         "countryInfo": {
             "_id": 64,
@@ -736,7 +736,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297487,
+        "updated": 1603694897507,
         "country": "Bolivia",
         "countryInfo": {
             "_id": 68,
@@ -768,7 +768,7 @@
         "criticalPerOneMillion": 6.06
     },
     {
-        "updated": 1603694297545,
+        "updated": 1603694897570,
         "country": "Bosnia",
         "countryInfo": {
             "_id": 70,
@@ -800,7 +800,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297611,
+        "updated": 1603694897630,
         "country": "Botswana",
         "countryInfo": {
             "_id": 72,
@@ -832,7 +832,7 @@
         "criticalPerOneMillion": 0.42
     },
     {
-        "updated": 1603694297437,
+        "updated": 1603694897453,
         "country": "Brazil",
         "countryInfo": {
             "_id": 76,
@@ -864,7 +864,7 @@
         "criticalPerOneMillion": 39.04
     },
     {
-        "updated": 1603694297694,
+        "updated": 1603694897726,
         "country": "British Virgin Islands",
         "countryInfo": {
             "_id": 92,
@@ -896,7 +896,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297690,
+        "updated": 1603694897721,
         "country": "Brunei",
         "countryInfo": {
             "_id": 96,
@@ -928,7 +928,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297550,
+        "updated": 1603694897574,
         "country": "Bulgaria",
         "countryInfo": {
             "_id": 100,
@@ -960,7 +960,7 @@
         "criticalPerOneMillion": 21.06
     },
     {
-        "updated": 1603694297646,
+        "updated": 1603694897667,
         "country": "Burkina Faso",
         "countryInfo": {
             "_id": 854,
@@ -992,7 +992,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297670,
+        "updated": 1603694897695,
         "country": "Burundi",
         "countryInfo": {
             "_id": 108,
@@ -1024,7 +1024,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297602,
+        "updated": 1603694897621,
         "country": "Cabo Verde",
         "countryInfo": {
             "_id": 132,
@@ -1056,7 +1056,7 @@
         "criticalPerOneMillion": 41.23
     },
     {
-        "updated": 1603694297684,
+        "updated": 1603694897712,
         "country": "Cambodia",
         "countryInfo": {
             "_id": 116,
@@ -1088,7 +1088,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297564,
+        "updated": 1603694897587,
         "country": "Cameroon",
         "countryInfo": {
             "_id": 120,
@@ -1120,7 +1120,7 @@
         "criticalPerOneMillion": 2.28
     },
     {
-        "updated": 1603694297480,
+        "updated": 1603694897500,
         "country": "Canada",
         "countryInfo": {
             "_id": 124,
@@ -1152,7 +1152,7 @@
         "criticalPerOneMillion": 5.68
     },
     {
-        "updated": 1603694297689,
+        "updated": 1603694897720,
         "country": "Caribbean Netherlands",
         "countryInfo": {
             "_id": 535,
@@ -1184,7 +1184,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297685,
+        "updated": 1603694897714,
         "country": "Cayman Islands",
         "countryInfo": {
             "_id": 136,
@@ -1216,7 +1216,7 @@
         "criticalPerOneMillion": 15.16
     },
     {
-        "updated": 1603694297628,
+        "updated": 1603694897648,
         "country": "Central African Republic",
         "countryInfo": {
             "_id": 140,
@@ -1248,7 +1248,7 @@
         "criticalPerOneMillion": 0.41
     },
     {
-        "updated": 1603694297654,
+        "updated": 1603694897679,
         "country": "Chad",
         "countryInfo": {
             "_id": 148,
@@ -1280,7 +1280,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297662,
+        "updated": 1603694897688,
         "country": "Channel Islands",
         "countryInfo": {
             "_id": 832,
@@ -1312,7 +1312,7 @@
         "criticalPerOneMillion": 11.47
     },
     {
-        "updated": 1603694297456,
+        "updated": 1603694897480,
         "country": "Chile",
         "countryInfo": {
             "_id": 152,
@@ -1344,7 +1344,7 @@
         "criticalPerOneMillion": 37.72
     },
     {
-        "updated": 1603694297715,
+        "updated": 1603694897746,
         "country": "China",
         "countryInfo": {
             "_id": 156,
@@ -1376,7 +1376,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297445,
+        "updated": 1603694897463,
         "country": "Colombia",
         "countryInfo": {
             "_id": 170,
@@ -1408,7 +1408,7 @@
         "criticalPerOneMillion": 46.32
     },
     {
-        "updated": 1603694297674,
+        "updated": 1603694897698,
         "country": "Comoros",
         "countryInfo": {
             "_id": 174,
@@ -1440,7 +1440,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297623,
+        "updated": 1603694897642,
         "country": "Congo",
         "countryInfo": {
             "_id": 178,
@@ -1472,7 +1472,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297509,
+        "updated": 1603694897525,
         "country": "Costa Rica",
         "countryInfo": {
             "_id": 188,
@@ -1504,7 +1504,7 @@
         "criticalPerOneMillion": 39.34
     },
     {
-        "updated": 1603694297551,
+        "updated": 1603694897576,
         "country": "Croatia",
         "countryInfo": {
             "_id": 191,
@@ -1536,7 +1536,7 @@
         "criticalPerOneMillion": 14.16
     },
     {
-        "updated": 1603694297609,
+        "updated": 1603694897627,
         "country": "Cuba",
         "countryInfo": {
             "_id": 192,
@@ -1568,7 +1568,7 @@
         "criticalPerOneMillion": 0.44
     },
     {
-        "updated": 1603694297659,
+        "updated": 1603694897686,
         "country": "Cura\u00e7ao",
         "countryInfo": {
             "_id": 531,
@@ -1600,7 +1600,7 @@
         "criticalPerOneMillion": 30.43
     },
     {
-        "updated": 1603694297639,
+        "updated": 1603694897660,
         "country": "Cyprus",
         "countryInfo": {
             "_id": 196,
@@ -1632,7 +1632,7 @@
         "criticalPerOneMillion": 7.44
     },
     {
-        "updated": 1603694297478,
+        "updated": 1603694897498,
         "country": "Czechia",
         "countryInfo": {
             "_id": 203,
@@ -1664,7 +1664,7 @@
         "criticalPerOneMillion": 74.66
     },
     {
-        "updated": 1603694297566,
+        "updated": 1603694897589,
         "country": "C\u00f4te d'Ivoire",
         "countryInfo": {
             "_id": 384,
@@ -1696,7 +1696,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297589,
+        "updated": 1603694897609,
         "country": "DRC",
         "countryInfo": {
             "_id": 180,
@@ -1728,7 +1728,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297548,
+        "updated": 1603694897572,
         "country": "Denmark",
         "countryInfo": {
             "_id": 208,
@@ -1760,7 +1760,7 @@
         "criticalPerOneMillion": 3.1
     },
     {
-        "updated": 1603694297665,
+        "updated": 1603694897691,
         "country": "Diamond Princess",
         "countryInfo": {
             "_id": null,
@@ -1792,7 +1792,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297616,
+        "updated": 1603694897636,
         "country": "Djibouti",
         "countryInfo": {
             "_id": 262,
@@ -1824,7 +1824,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297697,
+        "updated": 1603694897729,
         "country": "Dominica",
         "countryInfo": {
             "_id": 212,
@@ -1856,7 +1856,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297493,
+        "updated": 1603694897512,
         "country": "Dominican Republic",
         "countryInfo": {
             "_id": 214,
@@ -1888,7 +1888,7 @@
         "criticalPerOneMillion": 16.36
     },
     {
-        "updated": 1603694297485,
+        "updated": 1603694897504,
         "country": "Ecuador",
         "countryInfo": {
             "_id": 218,
@@ -1920,7 +1920,7 @@
         "criticalPerOneMillion": 20.59
     },
     {
-        "updated": 1603694297501,
+        "updated": 1603694897520,
         "country": "Egypt",
         "countryInfo": {
             "_id": 818,
@@ -1952,7 +1952,7 @@
         "criticalPerOneMillion": 0.4
     },
     {
-        "updated": 1603694297553,
+        "updated": 1603694897577,
         "country": "El Salvador",
         "countryInfo": {
             "_id": 222,
@@ -1984,7 +1984,7 @@
         "criticalPerOneMillion": 8.47
     },
     {
-        "updated": 1603694297626,
+        "updated": 1603694897646,
         "country": "Equatorial Guinea",
         "countryInfo": {
             "_id": 226,
@@ -2016,7 +2016,7 @@
         "criticalPerOneMillion": 0.71
     },
     {
-        "updated": 1603694297677,
+        "updated": 1603694897702,
         "country": "Eritrea",
         "countryInfo": {
             "_id": 232,
@@ -2048,7 +2048,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297632,
+        "updated": 1603694897652,
         "country": "Estonia",
         "countryInfo": {
             "_id": 233,
@@ -2080,7 +2080,7 @@
         "criticalPerOneMillion": 2.26
     },
     {
-        "updated": 1603694297512,
+        "updated": 1603694897529,
         "country": "Ethiopia",
         "countryInfo": {
             "_id": 231,
@@ -2112,7 +2112,7 @@
         "criticalPerOneMillion": 2.93
     },
     {
-        "updated": 1603694297708,
+        "updated": 1603694897740,
         "country": "Falkland Islands (Malvinas)",
         "countryInfo": {
             "_id": 238,
@@ -2144,7 +2144,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297676,
+        "updated": 1603694897701,
         "country": "Faroe Islands",
         "countryInfo": {
             "_id": 234,
@@ -2176,7 +2176,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297698,
+        "updated": 1603694897730,
         "country": "Fiji",
         "countryInfo": {
             "_id": 242,
@@ -2208,7 +2208,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297576,
+        "updated": 1603694897597,
         "country": "Finland",
         "countryInfo": {
             "_id": 246,
@@ -2240,7 +2240,7 @@
         "criticalPerOneMillion": 1.98
     },
     {
-        "updated": 1603694297440,
+        "updated": 1603694897459,
         "country": "France",
         "countryInfo": {
             "_id": 250,
@@ -2272,7 +2272,7 @@
         "criticalPerOneMillion": 38.27
     },
     {
-        "updated": 1603694297592,
+        "updated": 1603694897613,
         "country": "French Guiana",
         "countryInfo": {
             "_id": 254,
@@ -2304,7 +2304,7 @@
         "criticalPerOneMillion": 6.64
     },
     {
-        "updated": 1603694297614,
+        "updated": 1603694897632,
         "country": "French Polynesia",
         "countryInfo": {
             "_id": 258,
@@ -2336,7 +2336,7 @@
         "criticalPerOneMillion": 60.41
     },
     {
-        "updated": 1603694297599,
+        "updated": 1603694897619,
         "country": "Gabon",
         "countryInfo": {
             "_id": 266,
@@ -2368,7 +2368,7 @@
         "criticalPerOneMillion": 1.34
     },
     {
-        "updated": 1603694297638,
+        "updated": 1603694897659,
         "country": "Gambia",
         "countryInfo": {
             "_id": 270,
@@ -2400,7 +2400,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297556,
+        "updated": 1603694897580,
         "country": "Georgia",
         "countryInfo": {
             "_id": 268,
@@ -2432,7 +2432,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297459,
+        "updated": 1603694897482,
         "country": "Germany",
         "countryInfo": {
             "_id": 276,
@@ -2464,7 +2464,7 @@
         "criticalPerOneMillion": 15.45
     },
     {
-        "updated": 1603694297542,
+        "updated": 1603694897565,
         "country": "Ghana",
         "countryInfo": {
             "_id": 288,
@@ -2496,7 +2496,7 @@
         "criticalPerOneMillion": 0.29
     },
     {
-        "updated": 1603694297668,
+        "updated": 1603694897693,
         "country": "Gibraltar",
         "countryInfo": {
             "_id": 292,
@@ -2528,7 +2528,7 @@
         "criticalPerOneMillion": 593.68
     },
     {
-        "updated": 1603694297554,
+        "updated": 1603694897578,
         "country": "Greece",
         "countryInfo": {
             "_id": 300,
@@ -2560,7 +2560,7 @@
         "criticalPerOneMillion": 8.07
     },
     {
-        "updated": 1603694297705,
+        "updated": 1603694897737,
         "country": "Greenland",
         "countryInfo": {
             "_id": 304,
@@ -2592,7 +2592,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297700,
+        "updated": 1603694897732,
         "country": "Grenada",
         "countryInfo": {
             "_id": 308,
@@ -2624,7 +2624,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297608,
+        "updated": 1603694897626,
         "country": "Guadeloupe",
         "countryInfo": {
             "_id": 312,
@@ -2656,7 +2656,7 @@
         "criticalPerOneMillion": 87.47
     },
     {
-        "updated": 1603694297505,
+        "updated": 1603694897522,
         "country": "Guatemala",
         "countryInfo": {
             "_id": 320,
@@ -2688,7 +2688,7 @@
         "criticalPerOneMillion": 0.28
     },
     {
-        "updated": 1603694297584,
+        "updated": 1603694897603,
         "country": "Guinea",
         "countryInfo": {
             "_id": 324,
@@ -2720,7 +2720,7 @@
         "criticalPerOneMillion": 1.81
     },
     {
-        "updated": 1603694297647,
+        "updated": 1603694897668,
         "country": "Guinea-Bissau",
         "countryInfo": {
             "_id": 624,
@@ -2752,7 +2752,7 @@
         "criticalPerOneMillion": 2.52
     },
     {
-        "updated": 1603694297635,
+        "updated": 1603694897655,
         "country": "Guyana",
         "countryInfo": {
             "_id": 328,
@@ -2784,7 +2784,7 @@
         "criticalPerOneMillion": 19.04
     },
     {
-        "updated": 1603694297597,
+        "updated": 1603694897618,
         "country": "Haiti",
         "countryInfo": {
             "_id": 332,
@@ -2816,7 +2816,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297701,
+        "updated": 1603694897733,
         "country": "Holy See (Vatican City State)",
         "countryInfo": {
             "_id": 336,
@@ -2848,7 +2848,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297513,
+        "updated": 1603694897530,
         "country": "Honduras",
         "countryInfo": {
             "_id": 340,
@@ -2880,7 +2880,7 @@
         "criticalPerOneMillion": 2.61
     },
     {
-        "updated": 1603694297622,
+        "updated": 1603694897641,
         "country": "Hong Kong",
         "countryInfo": {
             "_id": 344,
@@ -2912,7 +2912,7 @@
         "criticalPerOneMillion": 1.6
     },
     {
-        "updated": 1603694297527,
+        "updated": 1603694897547,
         "country": "Hungary",
         "countryInfo": {
             "_id": 348,
@@ -2944,7 +2944,7 @@
         "criticalPerOneMillion": 22.9
     },
     {
-        "updated": 1603694297630,
+        "updated": 1603694897650,
         "country": "Iceland",
         "countryInfo": {
             "_id": 352,
@@ -2976,7 +2976,7 @@
         "criticalPerOneMillion": 11.7
     },
     {
-        "updated": 1603694297435,
+        "updated": 1603694897450,
         "country": "India",
         "countryInfo": {
             "_id": 356,
@@ -3008,7 +3008,7 @@
         "criticalPerOneMillion": 6.46
     },
     {
-        "updated": 1603694297462,
+        "updated": 1603694897486,
         "country": "Indonesia",
         "countryInfo": {
             "_id": 360,
@@ -3040,7 +3040,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297453,
+        "updated": 1603694897476,
         "country": "Iran",
         "countryInfo": {
             "_id": 364,
@@ -3072,7 +3072,7 @@
         "criticalPerOneMillion": 58.92
     },
     {
-        "updated": 1603694297457,
+        "updated": 1603694897481,
         "country": "Iraq",
         "countryInfo": {
             "_id": 368,
@@ -3104,7 +3104,7 @@
         "criticalPerOneMillion": 9.88
     },
     {
-        "updated": 1603694297529,
+        "updated": 1603694897550,
         "country": "Ireland",
         "countryInfo": {
             "_id": 372,
@@ -3136,7 +3136,7 @@
         "criticalPerOneMillion": 7.87
     },
     {
-        "updated": 1603694297680,
+        "updated": 1603694897705,
         "country": "Isle of Man",
         "countryInfo": {
             "_id": 833,
@@ -3168,7 +3168,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297475,
+        "updated": 1603694897495,
         "country": "Israel",
         "countryInfo": {
             "_id": 376,
@@ -3200,7 +3200,7 @@
         "criticalPerOneMillion": 55.01
     },
     {
-        "updated": 1603694297454,
+        "updated": 1603694897478,
         "country": "Italy",
         "countryInfo": {
             "_id": 380,
@@ -3232,7 +3232,7 @@
         "criticalPerOneMillion": 19.99
     },
     {
-        "updated": 1603694297600,
+        "updated": 1603694897620,
         "country": "Jamaica",
         "countryInfo": {
             "_id": 388,
@@ -3264,7 +3264,7 @@
         "criticalPerOneMillion": 1.35
     },
     {
-        "updated": 1603694297511,
+        "updated": 1603694897526,
         "country": "Japan",
         "countryInfo": {
             "_id": 392,
@@ -3296,7 +3296,7 @@
         "criticalPerOneMillion": 1.26
     },
     {
-        "updated": 1603694297535,
+        "updated": 1603694897555,
         "country": "Jordan",
         "countryInfo": {
             "_id": 400,
@@ -3328,7 +3328,7 @@
         "criticalPerOneMillion": 5.37
     },
     {
-        "updated": 1603694297500,
+        "updated": 1603694897519,
         "country": "Kazakhstan",
         "countryInfo": {
             "_id": 398,
@@ -3360,7 +3360,7 @@
         "criticalPerOneMillion": 11.73
     },
     {
-        "updated": 1603694297539,
+        "updated": 1603694897561,
         "country": "Kenya",
         "countryInfo": {
             "_id": 404,
@@ -3392,7 +3392,7 @@
         "criticalPerOneMillion": 0.33
     },
     {
-        "updated": 1603694297494,
+        "updated": 1603694897513,
         "country": "Kuwait",
         "countryInfo": {
             "_id": 414,
@@ -3424,7 +3424,7 @@
         "criticalPerOneMillion": 28.2
     },
     {
-        "updated": 1603694297531,
+        "updated": 1603694897551,
         "country": "Kyrgyzstan",
         "countryInfo": {
             "_id": 417,
@@ -3456,7 +3456,7 @@
         "criticalPerOneMillion": 3.66
     },
     {
-        "updated": 1603694297703,
+        "updated": 1603694897735,
         "country": "Lao People's Democratic Republic",
         "countryInfo": {
             "_id": 418,
@@ -3488,7 +3488,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297629,
+        "updated": 1603694897649,
         "country": "Latvia",
         "countryInfo": {
             "_id": 428,
@@ -3520,7 +3520,7 @@
         "criticalPerOneMillion": 5.32
     },
     {
-        "updated": 1603694297522,
+        "updated": 1603694897539,
         "country": "Lebanon",
         "countryInfo": {
             "_id": 422,
@@ -3552,7 +3552,7 @@
         "criticalPerOneMillion": 36.24
     },
     {
-        "updated": 1603694297652,
+        "updated": 1603694897676,
         "country": "Lesotho",
         "countryInfo": {
             "_id": 426,
@@ -3584,7 +3584,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297655,
+        "updated": 1603694897679,
         "country": "Liberia",
         "countryInfo": {
             "_id": 430,
@@ -3616,7 +3616,7 @@
         "criticalPerOneMillion": 0.39
     },
     {
-        "updated": 1603694297534,
+        "updated": 1603694897554,
         "country": "Libyan Arab Jamahiriya",
         "countryInfo": {
             "_id": 434,
@@ -3648,7 +3648,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297679,
+        "updated": 1603694897704,
         "country": "Liechtenstein",
         "countryInfo": {
             "_id": 438,
@@ -3680,7 +3680,7 @@
         "criticalPerOneMillion": 209.63
     },
     {
-        "updated": 1603694297594,
+        "updated": 1603694897614,
         "country": "Lithuania",
         "countryInfo": {
             "_id": 440,
@@ -3712,7 +3712,7 @@
         "criticalPerOneMillion": 9.59
     },
     {
-        "updated": 1603694297579,
+        "updated": 1603694897598,
         "country": "Luxembourg",
         "countryInfo": {
             "_id": 442,
@@ -3744,7 +3744,7 @@
         "criticalPerOneMillion": 15.89
     },
     {
-        "updated": 1603694297711,
+        "updated": 1603694897742,
         "country": "MS Zaandam",
         "countryInfo": {
             "_id": null,
@@ -3776,7 +3776,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297697,
+        "updated": 1603694897728,
         "country": "Macao",
         "countryInfo": {
             "_id": 446,
@@ -3808,7 +3808,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297558,
+        "updated": 1603694897582,
         "country": "Macedonia",
         "countryInfo": {
             "_id": 807,
@@ -3840,7 +3840,7 @@
         "criticalPerOneMillion": 12
     },
     {
-        "updated": 1603694297570,
+        "updated": 1603694897592,
         "country": "Madagascar",
         "countryInfo": {
             "_id": 450,
@@ -3872,7 +3872,7 @@
         "criticalPerOneMillion": 0.57
     },
     {
-        "updated": 1603694297613,
+        "updated": 1603694897631,
         "country": "Malawi",
         "countryInfo": {
             "_id": 454,
@@ -3904,7 +3904,7 @@
         "criticalPerOneMillion": 0.21
     },
     {
-        "updated": 1603694297560,
+        "updated": 1603694897583,
         "country": "Malaysia",
         "countryInfo": {
             "_id": 458,
@@ -3936,7 +3936,7 @@
         "criticalPerOneMillion": 3.05
     },
     {
-        "updated": 1603694297585,
+        "updated": 1603694897604,
         "country": "Maldives",
         "countryInfo": {
             "_id": 462,
@@ -3968,7 +3968,7 @@
         "criticalPerOneMillion": 22.08
     },
     {
-        "updated": 1603694297640,
+        "updated": 1603694897660,
         "country": "Mali",
         "countryInfo": {
             "_id": 466,
@@ -4000,7 +4000,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297619,
+        "updated": 1603694897638,
         "country": "Malta",
         "countryInfo": {
             "_id": 470,
@@ -4032,7 +4032,7 @@
         "criticalPerOneMillion": 13.58
     },
     {
-        "updated": 1603694297649,
+        "updated": 1603694897671,
         "country": "Martinique",
         "countryInfo": {
             "_id": 474,
@@ -4064,7 +4064,7 @@
         "criticalPerOneMillion": 50.64
     },
     {
-        "updated": 1603694297607,
+        "updated": 1603694897625,
         "country": "Mauritania",
         "countryInfo": {
             "_id": 478,
@@ -4096,7 +4096,7 @@
         "criticalPerOneMillion": 0.64
     },
     {
-        "updated": 1603694297678,
+        "updated": 1603694897703,
         "country": "Mauritius",
         "countryInfo": {
             "_id": 480,
@@ -4128,7 +4128,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297633,
+        "updated": 1603694897653,
         "country": "Mayotte",
         "countryInfo": {
             "_id": 175,
@@ -4160,7 +4160,7 @@
         "criticalPerOneMillion": 10.91
     },
     {
-        "updated": 1603694297446,
+        "updated": 1603694897464,
         "country": "Mexico",
         "countryInfo": {
             "_id": 484,
@@ -4192,7 +4192,7 @@
         "criticalPerOneMillion": 21.5
     },
     {
-        "updated": 1603694297520,
+        "updated": 1603694897538,
         "country": "Moldova",
         "countryInfo": {
             "_id": 498,
@@ -4224,7 +4224,7 @@
         "criticalPerOneMillion": 204.42
     },
     {
-        "updated": 1603694297683,
+        "updated": 1603694897710,
         "country": "Monaco",
         "countryInfo": {
             "_id": 492,
@@ -4256,7 +4256,7 @@
         "criticalPerOneMillion": 127.13
     },
     {
-        "updated": 1603694297682,
+        "updated": 1603694897707,
         "country": "Mongolia",
         "countryInfo": {
             "_id": 496,
@@ -4288,7 +4288,7 @@
         "criticalPerOneMillion": 0.3
     },
     {
-        "updated": 1603694297571,
+        "updated": 1603694897593,
         "country": "Montenegro",
         "countryInfo": {
             "_id": 499,
@@ -4320,7 +4320,7 @@
         "criticalPerOneMillion": 41.4
     },
     {
-        "updated": 1603694297707,
+        "updated": 1603694897739,
         "country": "Montserrat",
         "countryInfo": {
             "_id": 500,
@@ -4352,7 +4352,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297483,
+        "updated": 1603694897503,
         "country": "Morocco",
         "countryInfo": {
             "_id": 504,
@@ -4384,7 +4384,7 @@
         "criticalPerOneMillion": 20.05
     },
     {
-        "updated": 1603694297583,
+        "updated": 1603694897602,
         "country": "Mozambique",
         "countryInfo": {
             "_id": 508,
@@ -4416,7 +4416,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297543,
+        "updated": 1603694897567,
         "country": "Myanmar",
         "countryInfo": {
             "_id": 104,
@@ -4448,7 +4448,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297582,
+        "updated": 1603694897601,
         "country": "Namibia",
         "countryInfo": {
             "_id": 516,
@@ -4480,7 +4480,7 @@
         "criticalPerOneMillion": 0.78
     },
     {
-        "updated": 1603694297486,
+        "updated": 1603694897505,
         "country": "Nepal",
         "countryInfo": {
             "_id": 524,
@@ -4512,7 +4512,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297476,
+        "updated": 1603694897496,
         "country": "Netherlands",
         "countryInfo": {
             "_id": 528,
@@ -4544,7 +4544,7 @@
         "criticalPerOneMillion": 29.86
     },
     {
-        "updated": 1603694297702,
+        "updated": 1603694897734,
         "country": "New Caledonia",
         "countryInfo": {
             "_id": 540,
@@ -4576,7 +4576,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297653,
+        "updated": 1603694897677,
         "country": "New Zealand",
         "countryInfo": {
             "_id": 554,
@@ -4608,7 +4608,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297620,
+        "updated": 1603694897639,
         "country": "Nicaragua",
         "countryInfo": {
             "_id": 558,
@@ -4640,7 +4640,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297656,
+        "updated": 1603694897681,
         "country": "Niger",
         "countryInfo": {
             "_id": 562,
@@ -4672,7 +4672,7 @@
         "criticalPerOneMillion": 0.37
     },
     {
-        "updated": 1603694297524,
+        "updated": 1603694897541,
         "country": "Nigeria",
         "countryInfo": {
             "_id": 566,
@@ -4704,7 +4704,7 @@
         "criticalPerOneMillion": 0.03
     },
     {
-        "updated": 1603694297568,
+        "updated": 1603694897591,
         "country": "Norway",
         "countryInfo": {
             "_id": 578,
@@ -4736,7 +4736,7 @@
         "criticalPerOneMillion": 1.1
     },
     {
-        "updated": 1603694297497,
+        "updated": 1603694897516,
         "country": "Oman",
         "countryInfo": {
             "_id": 512,
@@ -4768,7 +4768,7 @@
         "criticalPerOneMillion": 37.5
     },
     {
-        "updated": 1603694297472,
+        "updated": 1603694897493,
         "country": "Pakistan",
         "countryInfo": {
             "_id": 586,
@@ -4800,7 +4800,7 @@
         "criticalPerOneMillion": 2.52
     },
     {
-        "updated": 1603694297536,
+        "updated": 1603694897556,
         "country": "Palestine",
         "countryInfo": {
             "_id": 275,
@@ -4832,7 +4832,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297490,
+        "updated": 1603694897509,
         "country": "Panama",
         "countryInfo": {
             "_id": 591,
@@ -4864,7 +4864,7 @@
         "criticalPerOneMillion": 29.52
     },
     {
-        "updated": 1603694297669,
+        "updated": 1603694897694,
         "country": "Papua New Guinea",
         "countryInfo": {
             "_id": 598,
@@ -4896,7 +4896,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297525,
+        "updated": 1603694897543,
         "country": "Paraguay",
         "countryInfo": {
             "_id": 600,
@@ -4928,7 +4928,7 @@
         "criticalPerOneMillion": 18.71
     },
     {
-        "updated": 1603694297448,
+        "updated": 1603694897466,
         "country": "Peru",
         "countryInfo": {
             "_id": 604,
@@ -4960,7 +4960,7 @@
         "criticalPerOneMillion": 31.71
     },
     {
-        "updated": 1603694297464,
+        "updated": 1603694897487,
         "country": "Philippines",
         "countryInfo": {
             "_id": 608,
@@ -4992,7 +4992,7 @@
         "criticalPerOneMillion": 14.19
     },
     {
-        "updated": 1603694297479,
+        "updated": 1603694897499,
         "country": "Poland",
         "countryInfo": {
             "_id": 616,
@@ -5024,7 +5024,7 @@
         "criticalPerOneMillion": 25.03
     },
     {
-        "updated": 1603694297496,
+        "updated": 1603694897515,
         "country": "Portugal",
         "countryInfo": {
             "_id": 620,
@@ -5056,7 +5056,7 @@
         "criticalPerOneMillion": 22.58
     },
     {
-        "updated": 1603694297489,
+        "updated": 1603694897508,
         "country": "Qatar",
         "countryInfo": {
             "_id": 634,
@@ -5088,7 +5088,7 @@
         "criticalPerOneMillion": 11.75
     },
     {
-        "updated": 1603694297482,
+        "updated": 1603694897501,
         "country": "Romania",
         "countryInfo": {
             "_id": 642,
@@ -5120,7 +5120,7 @@
         "criticalPerOneMillion": 43.13
     },
     {
-        "updated": 1603694297438,
+        "updated": 1603694897456,
         "country": "Russia",
         "countryInfo": {
             "_id": 643,
@@ -5152,7 +5152,7 @@
         "criticalPerOneMillion": 15.76
     },
     {
-        "updated": 1603694297627,
+        "updated": 1603694897647,
         "country": "Rwanda",
         "countryInfo": {
             "_id": 646,
@@ -5184,7 +5184,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297625,
+        "updated": 1603694897644,
         "country": "R\u00e9union",
         "countryInfo": {
             "_id": 638,
@@ -5216,7 +5216,7 @@
         "criticalPerOneMillion": 11.14
     },
     {
-        "updated": 1603694297561,
+        "updated": 1603694897585,
         "country": "S. Korea",
         "countryInfo": {
             "_id": 410,
@@ -5248,7 +5248,7 @@
         "criticalPerOneMillion": 1.03
     },
     {
-        "updated": 1603694297704,
+        "updated": 1603694897736,
         "country": "Saint Kitts and Nevis",
         "countryInfo": {
             "_id": 659,
@@ -5280,7 +5280,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297695,
+        "updated": 1603694897727,
         "country": "Saint Lucia",
         "countryInfo": {
             "_id": 662,
@@ -5312,7 +5312,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297673,
+        "updated": 1603694897697,
         "country": "Saint Martin",
         "countryInfo": {
             "_id": 663,
@@ -5344,7 +5344,7 @@
         "criticalPerOneMillion": 308.7
     },
     {
-        "updated": 1603694297706,
+        "updated": 1603694897738,
         "country": "Saint Pierre Miquelon",
         "countryInfo": {
             "_id": 666,
@@ -5376,7 +5376,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297693,
+        "updated": 1603694897725,
         "country": "Saint Vincent and the Grenadines",
         "countryInfo": {
             "_id": 670,
@@ -5408,7 +5408,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297661,
+        "updated": 1603694897687,
         "country": "San Marino",
         "countryInfo": {
             "_id": 674,
@@ -5440,7 +5440,7 @@
         "criticalPerOneMillion": 88.35
     },
     {
-        "updated": 1603694297658,
+        "updated": 1603694897684,
         "country": "Sao Tome and Principe",
         "countryInfo": {
             "_id": 678,
@@ -5472,7 +5472,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297468,
+        "updated": 1603694897491,
         "country": "Saudi Arabia",
         "countryInfo": {
             "_id": 682,
@@ -5504,7 +5504,7 @@
         "criticalPerOneMillion": 22.52
     },
     {
-        "updated": 1603694297574,
+        "updated": 1603694897596,
         "country": "Senegal",
         "countryInfo": {
             "_id": 686,
@@ -5536,7 +5536,7 @@
         "criticalPerOneMillion": 0.24
     },
     {
-        "updated": 1603694297549,
+        "updated": 1603694897573,
         "country": "Serbia",
         "countryInfo": {
             "_id": 688,
@@ -5568,7 +5568,7 @@
         "criticalPerOneMillion": 2.98
     },
     {
-        "updated": 1603694297688,
+        "updated": 1603694897718,
         "country": "Seychelles",
         "countryInfo": {
             "_id": 690,
@@ -5600,7 +5600,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297648,
+        "updated": 1603694897669,
         "country": "Sierra Leone",
         "countryInfo": {
             "_id": 694,
@@ -5632,7 +5632,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297528,
+        "updated": 1603694897548,
         "country": "Singapore",
         "countryInfo": {
             "_id": 702,
@@ -5664,7 +5664,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297664,
+        "updated": 1603694897689,
         "country": "Sint Maarten",
         "countryInfo": {
             "_id": 534,
@@ -5696,7 +5696,7 @@
         "criticalPerOneMillion": 139.44
     },
     {
-        "updated": 1603694297544,
+        "updated": 1603694897568,
         "country": "Slovakia",
         "countryInfo": {
             "_id": 703,
@@ -5728,7 +5728,7 @@
         "criticalPerOneMillion": 12.09
     },
     {
-        "updated": 1603694297563,
+        "updated": 1603694897586,
         "country": "Slovenia",
         "countryInfo": {
             "_id": 705,
@@ -5760,7 +5760,7 @@
         "criticalPerOneMillion": 34.15
     },
     {
-        "updated": 1603694297712,
+        "updated": 1603694897744,
         "country": "Solomon Islands",
         "countryInfo": {
             "_id": 90,
@@ -5792,7 +5792,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297636,
+        "updated": 1603694897656,
         "country": "Somalia",
         "countryInfo": {
             "_id": 706,
@@ -5824,7 +5824,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297451,
+        "updated": 1603694897475,
         "country": "South Africa",
         "countryInfo": {
             "_id": 710,
@@ -5856,7 +5856,7 @@
         "criticalPerOneMillion": 9.17
     },
     {
-        "updated": 1603694297642,
+        "updated": 1603694897662,
         "country": "South Sudan",
         "countryInfo": {
             "_id": 728,
@@ -5888,7 +5888,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297442,
+        "updated": 1603694897460,
         "country": "Spain",
         "countryInfo": {
             "_id": 724,
@@ -5920,7 +5920,7 @@
         "criticalPerOneMillion": 43.43
     },
     {
-        "updated": 1603694297605,
+        "updated": 1603694897623,
         "country": "Sri Lanka",
         "countryInfo": {
             "_id": 144,
@@ -5952,7 +5952,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297692,
+        "updated": 1603694897724,
         "country": "St. Barth",
         "countryInfo": {
             "_id": 652,
@@ -5984,7 +5984,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297580,
+        "updated": 1603694897600,
         "country": "Sudan",
         "countryInfo": {
             "_id": 736,
@@ -6016,7 +6016,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297624,
+        "updated": 1603694897643,
         "country": "Suriname",
         "countryInfo": {
             "_id": 740,
@@ -6048,7 +6048,7 @@
         "criticalPerOneMillion": 13.6
     },
     {
-        "updated": 1603694297615,
+        "updated": 1603694897633,
         "country": "Swaziland",
         "countryInfo": {
             "_id": 748,
@@ -6080,7 +6080,7 @@
         "criticalPerOneMillion": 16.32
     },
     {
-        "updated": 1603694297499,
+        "updated": 1603694897518,
         "country": "Sweden",
         "countryInfo": {
             "_id": 752,
@@ -6112,7 +6112,7 @@
         "criticalPerOneMillion": 3.85
     },
     {
-        "updated": 1603694297508,
+        "updated": 1603694897523,
         "country": "Switzerland",
         "countryInfo": {
             "_id": 756,
@@ -6144,7 +6144,7 @@
         "criticalPerOneMillion": 14.18
     },
     {
-        "updated": 1603694297621,
+        "updated": 1603694897640,
         "country": "Syrian Arab Republic",
         "countryInfo": {
             "_id": 760,
@@ -6176,7 +6176,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297671,
+        "updated": 1603694897696,
         "country": "Taiwan",
         "countryInfo": {
             "_id": 158,
@@ -6208,7 +6208,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297590,
+        "updated": 1603694897611,
         "country": "Tajikistan",
         "countryInfo": {
             "_id": 762,
@@ -6240,7 +6240,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297675,
+        "updated": 1603694897700,
         "country": "Tanzania",
         "countryInfo": {
             "_id": 834,
@@ -6272,7 +6272,7 @@
         "criticalPerOneMillion": 0.12
     },
     {
-        "updated": 1603694297637,
+        "updated": 1603694897657,
         "country": "Thailand",
         "countryInfo": {
             "_id": 764,
@@ -6304,7 +6304,7 @@
         "criticalPerOneMillion": 0.01
     },
     {
-        "updated": 1603694297699,
+        "updated": 1603694897731,
         "country": "Timor-Leste",
         "countryInfo": {
             "_id": 626,
@@ -6336,7 +6336,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297650,
+        "updated": 1603694897672,
         "country": "Togo",
         "countryInfo": {
             "_id": 768,
@@ -6368,7 +6368,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297617,
+        "updated": 1603694897637,
         "country": "Trinidad and Tobago",
         "countryInfo": {
             "_id": 780,
@@ -6400,7 +6400,7 @@
         "criticalPerOneMillion": 9.99
     },
     {
-        "updated": 1603694297540,
+        "updated": 1603694897563,
         "country": "Tunisia",
         "countryInfo": {
             "_id": 788,
@@ -6432,7 +6432,7 @@
         "criticalPerOneMillion": 14.25
     },
     {
-        "updated": 1603694297466,
+        "updated": 1603694897488,
         "country": "Turkey",
         "countryInfo": {
             "_id": 792,
@@ -6464,7 +6464,7 @@
         "criticalPerOneMillion": 20.61
     },
     {
-        "updated": 1603694297667,
+        "updated": 1603694897692,
         "country": "Turks and Caicos Islands",
         "countryInfo": {
             "_id": 796,
@@ -6496,7 +6496,7 @@
         "criticalPerOneMillion": 25.72
     },
     {
-        "updated": 1603694297492,
+        "updated": 1603694897511,
         "country": "UAE",
         "countryInfo": {
             "_id": 784,
@@ -6528,7 +6528,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297450,
+        "updated": 1603694897467,
         "country": "UK",
         "countryInfo": {
             "_id": 826,
@@ -6560,7 +6560,7 @@
         "criticalPerOneMillion": 10.93
     },
     {
-        "updated": 1603694297433,
+        "updated": 1603694897448,
         "country": "USA",
         "countryInfo": {
             "_id": 840,
@@ -6592,7 +6592,7 @@
         "criticalPerOneMillion": 49.38
     },
     {
-        "updated": 1603694297587,
+        "updated": 1603694897607,
         "country": "Uganda",
         "countryInfo": {
             "_id": 800,
@@ -6624,7 +6624,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297469,
+        "updated": 1603694897490,
         "country": "Ukraine",
         "countryInfo": {
             "_id": 804,
@@ -6634,29 +6634,29 @@
             "long": 32,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ua.png"
         },
-        "cases": 343498,
-        "todayCases": 0,
-        "deaths": 6391,
-        "todayDeaths": 0,
-        "recovered": 141508,
-        "todayRecovered": 0,
-        "active": 195599,
+        "cases": 348924,
+        "todayCases": 5426,
+        "deaths": 6464,
+        "todayDeaths": 73,
+        "recovered": 142537,
+        "todayRecovered": 1029,
+        "active": 199923,
         "critical": 177,
-        "casesPerOneMillion": 7870,
-        "deathsPerOneMillion": 146,
+        "casesPerOneMillion": 7994,
+        "deathsPerOneMillion": 148,
         "tests": 3025148,
         "testsPerOneMillion": 69307,
         "population": 43648730,
         "continent": "Europe",
-        "oneCasePerPeople": 127,
-        "oneDeathPerPeople": 6830,
+        "oneCasePerPeople": 125,
+        "oneDeathPerPeople": 6753,
         "oneTestPerPeople": 14,
-        "activePerOneMillion": 4481.21,
-        "recoveredPerOneMillion": 3241.97,
+        "activePerOneMillion": 4580.27,
+        "recoveredPerOneMillion": 3265.55,
         "criticalPerOneMillion": 4.06
     },
     {
-        "updated": 1603694297643,
+        "updated": 1603694897664,
         "country": "Uruguay",
         "countryInfo": {
             "_id": 858,
@@ -6688,7 +6688,7 @@
         "criticalPerOneMillion": 3.16
     },
     {
-        "updated": 1603694297523,
+        "updated": 1603694897540,
         "country": "Uzbekistan",
         "countryInfo": {
             "_id": 860,
@@ -6720,7 +6720,7 @@
         "criticalPerOneMillion": 7.5
     },
     {
-        "updated": 1603694297516,
+        "updated": 1603694897533,
         "country": "Venezuela",
         "countryInfo": {
             "_id": 862,
@@ -6752,7 +6752,7 @@
         "criticalPerOneMillion": 4.12
     },
     {
-        "updated": 1603694297657,
+        "updated": 1603694897682,
         "country": "Vietnam",
         "countryInfo": {
             "_id": 704,
@@ -6784,7 +6784,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297714,
+        "updated": 1603694897745,
         "country": "Wallis and Futuna",
         "countryInfo": {
             "_id": 876,
@@ -6816,7 +6816,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297709,
+        "updated": 1603694897741,
         "country": "Western Sahara",
         "countryInfo": {
             "_id": 732,
@@ -6848,7 +6848,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297651,
+        "updated": 1603694897673,
         "country": "Yemen",
         "countryInfo": {
             "_id": 887,
@@ -6880,7 +6880,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297573,
+        "updated": 1603694897595,
         "country": "Zambia",
         "countryInfo": {
             "_id": 894,
@@ -6912,7 +6912,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1603694297603,
+        "updated": 1603694897622,
         "country": "Zimbabwe",
         "countryInfo": {
             "_id": 716,
