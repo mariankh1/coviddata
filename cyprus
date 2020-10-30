@@ -1,1 +1,24 @@
-[ null] 
+[ {
+    "updated": 1604062784122,
+    "country": "Cyprus",
+    "cases": 4051,
+    "todayCases": 0,
+    "deaths": 25,
+    "todayDeaths": 0,
+    "recovered": 1882,
+    "todayRecovered": 0,
+    "active": 2144,
+    "critical": 2,
+    "casesPerOneMillion": 3347,
+    "deathsPerOneMillion": 21,
+    "tests": 471104,
+    "testsPerOneMillion": 389261,
+    "population": 1210252,
+    "continent": "Asia",
+    "oneCasePerPeople": 299,
+    "oneDeathPerPeople": 48410,
+    "oneTestPerPeople": 3,
+    "activePerOneMillion": 1771.53,
+    "recoveredPerOneMillion": 1555.05,
+    "criticalPerOneMillion": 1.65
+}] 
