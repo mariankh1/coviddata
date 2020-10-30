@@ -1,6 +1,6 @@
 [
     {
-        "updated": 1604068186603,
+        "updated": 1604089788361,
         "country": "Afghanistan",
         "countryInfo": {
             "_id": 4,
@@ -32,7 +32,7 @@
         "criticalPerOneMillion": 2.37
     },
     {
-        "updated": 1604068186616,
+        "updated": 1604089788373,
         "country": "Albania",
         "countryInfo": {
             "_id": 8,
@@ -42,29 +42,29 @@
             "long": 20,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/al.png"
         },
-        "cases": 20315,
-        "todayCases": 0,
-        "deaths": 499,
-        "todayDeaths": 0,
-        "recovered": 11007,
-        "todayRecovered": 0,
-        "active": 8809,
-        "critical": 20,
-        "casesPerOneMillion": 7062,
-        "deathsPerOneMillion": 173,
-        "tests": 118027,
-        "testsPerOneMillion": 41028,
+        "cases": 20634,
+        "todayCases": 319,
+        "deaths": 502,
+        "todayDeaths": 3,
+        "recovered": 11097,
+        "todayRecovered": 90,
+        "active": 9035,
+        "critical": 15,
+        "casesPerOneMillion": 7173,
+        "deathsPerOneMillion": 175,
+        "tests": 119561,
+        "testsPerOneMillion": 41561,
         "population": 2876752,
         "continent": "Europe",
-        "oneCasePerPeople": 142,
-        "oneDeathPerPeople": 5765,
+        "oneCasePerPeople": 139,
+        "oneDeathPerPeople": 5731,
         "oneTestPerPeople": 24,
-        "activePerOneMillion": 3062.13,
-        "recoveredPerOneMillion": 3826.19,
-        "criticalPerOneMillion": 6.95
+        "activePerOneMillion": 3140.69,
+        "recoveredPerOneMillion": 3857.48,
+        "criticalPerOneMillion": 5.21
     },
     {
-        "updated": 1604068186588,
+        "updated": 1604089788345,
         "country": "Algeria",
         "countryInfo": {
             "_id": 12,
@@ -96,7 +96,7 @@
         "criticalPerOneMillion": 0.66
     },
     {
-        "updated": 1604068186673,
+        "updated": 1604089788429,
         "country": "Andorra",
         "countryInfo": {
             "_id": 20,
@@ -106,29 +106,29 @@
             "long": 1.6,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ad.png"
         },
-        "cases": 4567,
-        "todayCases": 0,
-        "deaths": 73,
-        "todayDeaths": 0,
-        "recovered": 3260,
-        "todayRecovered": 0,
-        "active": 1234,
+        "cases": 4665,
+        "todayCases": 98,
+        "deaths": 75,
+        "todayDeaths": 2,
+        "recovered": 3377,
+        "todayRecovered": 117,
+        "active": 1213,
         "critical": 22,
-        "casesPerOneMillion": 59077,
-        "deathsPerOneMillion": 944,
+        "casesPerOneMillion": 60345,
+        "deathsPerOneMillion": 970,
         "tests": 146308,
         "testsPerOneMillion": 1892583,
         "population": 77306,
         "continent": "Europe",
         "oneCasePerPeople": 17,
-        "oneDeathPerPeople": 1059,
+        "oneDeathPerPeople": 1031,
         "oneTestPerPeople": 1,
-        "activePerOneMillion": 15962.54,
-        "recoveredPerOneMillion": 42170.08,
+        "activePerOneMillion": 15690.89,
+        "recoveredPerOneMillion": 43683.54,
         "criticalPerOneMillion": 284.58
     },
     {
-        "updated": 1604068186638,
+        "updated": 1604089788395,
         "country": "Angola",
         "countryInfo": {
             "_id": 24,
@@ -138,29 +138,29 @@
             "long": 18.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ao.png"
         },
-        "cases": 10269,
-        "todayCases": 0,
-        "deaths": 275,
-        "todayDeaths": 0,
-        "recovered": 3736,
-        "todayRecovered": 0,
-        "active": 6258,
-        "critical": 48,
-        "casesPerOneMillion": 309,
+        "cases": 10558,
+        "todayCases": 289,
+        "deaths": 279,
+        "todayDeaths": 4,
+        "recovered": 4107,
+        "todayRecovered": 371,
+        "active": 6172,
+        "critical": 45,
+        "casesPerOneMillion": 318,
         "deathsPerOneMillion": 8,
         "tests": 85213,
         "testsPerOneMillion": 2567,
         "population": 33192044,
         "continent": "Africa",
-        "oneCasePerPeople": 3232,
-        "oneDeathPerPeople": 120698,
+        "oneCasePerPeople": 3144,
+        "oneDeathPerPeople": 118968,
         "oneTestPerPeople": 390,
-        "activePerOneMillion": 188.54,
-        "recoveredPerOneMillion": 112.56,
-        "criticalPerOneMillion": 1.45
+        "activePerOneMillion": 185.95,
+        "recoveredPerOneMillion": 123.73,
+        "criticalPerOneMillion": 1.36
     },
     {
-        "updated": 1604068186753,
+        "updated": 1604089788505,
         "country": "Anguilla",
         "countryInfo": {
             "_id": 660,
@@ -192,7 +192,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186734,
+        "updated": 1604089788483,
         "country": "Antigua and Barbuda",
         "countryInfo": {
             "_id": 28,
@@ -224,7 +224,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186499,
+        "updated": 1604089788261,
         "country": "Argentina",
         "countryInfo": {
             "_id": 32,
@@ -256,7 +256,7 @@
         "criticalPerOneMillion": 109.88
     },
     {
-        "updated": 1604068186568,
+        "updated": 1604089788329,
         "country": "Armenia",
         "countryInfo": {
             "_id": 51,
@@ -288,7 +288,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186675,
+        "updated": 1604089788430,
         "country": "Aruba",
         "countryInfo": {
             "_id": 533,
@@ -298,29 +298,29 @@
             "long": -69.9667,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/aw.png"
         },
-        "cases": 4472,
-        "todayCases": 0,
+        "cases": 4494,
+        "todayCases": 22,
         "deaths": 37,
         "todayDeaths": 0,
         "recovered": 4286,
         "todayRecovered": 0,
-        "active": 149,
+        "active": 171,
         "critical": 4,
-        "casesPerOneMillion": 41827,
+        "casesPerOneMillion": 42033,
         "deathsPerOneMillion": 346,
-        "tests": 39106,
-        "testsPerOneMillion": 365764,
+        "tests": 39418,
+        "testsPerOneMillion": 368682,
         "population": 106916,
         "continent": "North America",
         "oneCasePerPeople": 24,
         "oneDeathPerPeople": 2890,
         "oneTestPerPeople": 3,
-        "activePerOneMillion": 1393.62,
+        "activePerOneMillion": 1599.39,
         "recoveredPerOneMillion": 40087.55,
         "criticalPerOneMillion": 37.41
     },
     {
-        "updated": 1604068186611,
+        "updated": 1604089788368,
         "country": "Australia",
         "countryInfo": {
             "_id": 36,
@@ -352,7 +352,7 @@
         "criticalPerOneMillion": 0.04
     },
     {
-        "updated": 1604068186560,
+        "updated": 1604089788323,
         "country": "Austria",
         "countryInfo": {
             "_id": 40,
@@ -384,7 +384,7 @@
         "criticalPerOneMillion": 29.15
     },
     {
-        "updated": 1604068186590,
+        "updated": 1604089788350,
         "country": "Azerbaijan",
         "countryInfo": {
             "_id": 31,
@@ -416,7 +416,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186653,
+        "updated": 1604089788409,
         "country": "Bahamas",
         "countryInfo": {
             "_id": 44,
@@ -426,29 +426,29 @@
             "long": -76,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/bs.png"
         },
-        "cases": 6607,
-        "todayCases": 0,
-        "deaths": 138,
-        "todayDeaths": 0,
+        "cases": 6644,
+        "todayCases": 37,
+        "deaths": 142,
+        "todayDeaths": 4,
         "recovered": 4257,
         "todayRecovered": 0,
-        "active": 2212,
+        "active": 2245,
         "critical": 12,
-        "casesPerOneMillion": 16749,
-        "deathsPerOneMillion": 350,
+        "casesPerOneMillion": 16843,
+        "deathsPerOneMillion": 360,
         "tests": 35181,
         "testsPerOneMillion": 89184,
         "population": 394477,
         "continent": "North America",
-        "oneCasePerPeople": 60,
-        "oneDeathPerPeople": 2859,
+        "oneCasePerPeople": 59,
+        "oneDeathPerPeople": 2778,
         "oneTestPerPeople": 11,
-        "activePerOneMillion": 5607.42,
+        "activePerOneMillion": 5691.08,
         "recoveredPerOneMillion": 10791.5,
         "criticalPerOneMillion": 30.42
     },
     {
-        "updated": 1604068186569,
+        "updated": 1604089788330,
         "country": "Bahrain",
         "countryInfo": {
             "_id": 48,
@@ -480,7 +480,7 @@
         "criticalPerOneMillion": 10.46
     },
     {
-        "updated": 1604068186523,
+        "updated": 1604089788282,
         "country": "Bangladesh",
         "countryInfo": {
             "_id": 50,
@@ -512,7 +512,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186730,
+        "updated": 1604089788478,
         "country": "Barbados",
         "countryInfo": {
             "_id": 52,
@@ -522,29 +522,29 @@
             "long": -59.5333,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/bb.png"
         },
-        "cases": 234,
-        "todayCases": 0,
+        "cases": 236,
+        "todayCases": 2,
         "deaths": 7,
         "todayDeaths": 0,
-        "recovered": 217,
-        "todayRecovered": 0,
-        "active": 10,
+        "recovered": 218,
+        "todayRecovered": 1,
+        "active": 11,
         "critical": 0,
-        "casesPerOneMillion": 814,
+        "casesPerOneMillion": 821,
         "deathsPerOneMillion": 24,
-        "tests": 34310,
-        "testsPerOneMillion": 119342,
+        "tests": 34998,
+        "testsPerOneMillion": 121736,
         "population": 287492,
         "continent": "North America",
-        "oneCasePerPeople": 1229,
+        "oneCasePerPeople": 1218,
         "oneDeathPerPeople": 41070,
         "oneTestPerPeople": 8,
-        "activePerOneMillion": 34.78,
-        "recoveredPerOneMillion": 754.8,
+        "activePerOneMillion": 38.26,
+        "recoveredPerOneMillion": 758.28,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186563,
+        "updated": 1604089788324,
         "country": "Belarus",
         "countryInfo": {
             "_id": 112,
@@ -576,7 +576,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186524,
+        "updated": 1604089788283,
         "country": "Belgium",
         "countryInfo": {
             "_id": 56,
@@ -608,7 +608,7 @@
         "criticalPerOneMillion": 91.07
     },
     {
-        "updated": 1604068186685,
+        "updated": 1604089788439,
         "country": "Belize",
         "countryInfo": {
             "_id": 84,
@@ -640,7 +640,7 @@
         "criticalPerOneMillion": 2.5
     },
     {
-        "updated": 1604068186689,
+        "updated": 1604089788442,
         "country": "Benin",
         "countryInfo": {
             "_id": 204,
@@ -672,7 +672,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186731,
+        "updated": 1604089788479,
         "country": "Bermuda",
         "countryInfo": {
             "_id": 60,
@@ -682,29 +682,29 @@
             "long": -64.75,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/bm.png"
         },
-        "cases": 198,
-        "todayCases": 0,
+        "cases": 199,
+        "todayCases": 1,
         "deaths": 9,
         "todayDeaths": 0,
         "recovered": 176,
         "todayRecovered": 0,
-        "active": 13,
+        "active": 14,
         "critical": 0,
-        "casesPerOneMillion": 3183,
+        "casesPerOneMillion": 3199,
         "deathsPerOneMillion": 145,
-        "tests": 84664,
-        "testsPerOneMillion": 1361136,
+        "tests": 85656,
+        "testsPerOneMillion": 1377084,
         "population": 62201,
         "continent": "North America",
-        "oneCasePerPeople": 314,
+        "oneCasePerPeople": 313,
         "oneDeathPerPeople": 6911,
         "oneTestPerPeople": 1,
-        "activePerOneMillion": 209,
+        "activePerOneMillion": 225.08,
         "recoveredPerOneMillion": 2829.54,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186724,
+        "updated": 1604089788473,
         "country": "Bhutan",
         "countryInfo": {
             "_id": 64,
@@ -736,7 +736,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186545,
+        "updated": 1604089788304,
         "country": "Bolivia",
         "countryInfo": {
             "_id": 68,
@@ -768,7 +768,7 @@
         "criticalPerOneMillion": 6.06
     },
     {
-        "updated": 1604068186597,
+        "updated": 1604089788356,
         "country": "Bosnia",
         "countryInfo": {
             "_id": 70,
@@ -800,7 +800,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186652,
+        "updated": 1604089788410,
         "country": "Botswana",
         "countryInfo": {
             "_id": 72,
@@ -832,7 +832,7 @@
         "criticalPerOneMillion": 0.42
     },
     {
-        "updated": 1604068186494,
+        "updated": 1604089788256,
         "country": "Brazil",
         "countryInfo": {
             "_id": 76,
@@ -842,29 +842,29 @@
             "long": -55,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/br.png"
         },
-        "cases": 5496402,
-        "todayCases": 0,
-        "deaths": 159033,
-        "todayDeaths": 0,
+        "cases": 5499875,
+        "todayCases": 3473,
+        "deaths": 159104,
+        "todayDeaths": 71,
         "recovered": 4954159,
         "todayRecovered": 0,
-        "active": 383210,
+        "active": 386612,
         "critical": 8318,
-        "casesPerOneMillion": 25798,
-        "deathsPerOneMillion": 746,
+        "casesPerOneMillion": 25814,
+        "deathsPerOneMillion": 747,
         "tests": 21900000,
         "testsPerOneMillion": 102789,
         "population": 213056940,
         "continent": "South America",
         "oneCasePerPeople": 39,
-        "oneDeathPerPeople": 1340,
+        "oneDeathPerPeople": 1339,
         "oneTestPerPeople": 10,
-        "activePerOneMillion": 1798.63,
+        "activePerOneMillion": 1814.59,
         "recoveredPerOneMillion": 23252.75,
         "criticalPerOneMillion": 39.04
     },
     {
-        "updated": 1604068186738,
+        "updated": 1604089788489,
         "country": "British Virgin Islands",
         "countryInfo": {
             "_id": 92,
@@ -896,7 +896,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186733,
+        "updated": 1604089788482,
         "country": "Brunei",
         "countryInfo": {
             "_id": 96,
@@ -928,7 +928,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186595,
+        "updated": 1604089788355,
         "country": "Bulgaria",
         "countryInfo": {
             "_id": 100,
@@ -960,7 +960,7 @@
         "criticalPerOneMillion": 24.09
     },
     {
-        "updated": 1604068186689,
+        "updated": 1604089788443,
         "country": "Burkina Faso",
         "countryInfo": {
             "_id": 854,
@@ -992,7 +992,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186713,
+        "updated": 1604089788464,
         "country": "Burundi",
         "countryInfo": {
             "_id": 108,
@@ -1024,7 +1024,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186645,
+        "updated": 1604089788402,
         "country": "Cabo Verde",
         "countryInfo": {
             "_id": 132,
@@ -1034,29 +1034,29 @@
             "long": -24,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/cv.png"
         },
-        "cases": 8603,
-        "todayCases": 0,
+        "cases": 8694,
+        "todayCases": 91,
         "deaths": 95,
         "todayDeaths": 0,
-        "recovered": 7796,
-        "todayRecovered": 0,
-        "active": 712,
+        "recovered": 7913,
+        "todayRecovered": 117,
+        "active": 686,
         "critical": 23,
-        "casesPerOneMillion": 15419,
+        "casesPerOneMillion": 15582,
         "deathsPerOneMillion": 170,
         "tests": 87480,
         "testsPerOneMillion": 156784,
         "population": 557966,
         "continent": "Africa",
-        "oneCasePerPeople": 65,
+        "oneCasePerPeople": 64,
         "oneDeathPerPeople": 5873,
         "oneTestPerPeople": 6,
-        "activePerOneMillion": 1276.06,
-        "recoveredPerOneMillion": 13972.18,
+        "activePerOneMillion": 1229.47,
+        "recoveredPerOneMillion": 14181.87,
         "criticalPerOneMillion": 41.22
     },
     {
-        "updated": 1604068186726,
+        "updated": 1604089788476,
         "country": "Cambodia",
         "countryInfo": {
             "_id": 116,
@@ -1088,7 +1088,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186613,
+        "updated": 1604089788370,
         "country": "Cameroon",
         "countryInfo": {
             "_id": 120,
@@ -1120,7 +1120,7 @@
         "criticalPerOneMillion": 2.28
     },
     {
-        "updated": 1604068186539,
+        "updated": 1604089788298,
         "country": "Canada",
         "countryInfo": {
             "_id": 124,
@@ -1130,29 +1130,29 @@
             "long": -95,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ca.png"
         },
-        "cases": 228542,
-        "todayCases": 0,
-        "deaths": 10074,
-        "todayDeaths": 0,
-        "recovered": 191209,
-        "todayRecovered": 0,
-        "active": 27259,
+        "cases": 230547,
+        "todayCases": 2005,
+        "deaths": 10100,
+        "todayDeaths": 26,
+        "recovered": 193158,
+        "todayRecovered": 1949,
+        "active": 27289,
         "critical": 228,
-        "casesPerOneMillion": 6038,
-        "deathsPerOneMillion": 266,
+        "casesPerOneMillion": 6091,
+        "deathsPerOneMillion": 267,
         "tests": 9753158,
         "testsPerOneMillion": 257673,
         "population": 37850887,
         "continent": "North America",
-        "oneCasePerPeople": 166,
-        "oneDeathPerPeople": 3757,
+        "oneCasePerPeople": 164,
+        "oneDeathPerPeople": 3748,
         "oneTestPerPeople": 4,
-        "activePerOneMillion": 720.17,
-        "recoveredPerOneMillion": 5051.64,
+        "activePerOneMillion": 720.96,
+        "recoveredPerOneMillion": 5103.13,
         "criticalPerOneMillion": 6.02
     },
     {
-        "updated": 1604068186732,
+        "updated": 1604089788480,
         "country": "Caribbean Netherlands",
         "countryInfo": {
             "_id": 535,
@@ -1184,7 +1184,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186729,
+        "updated": 1604089788477,
         "country": "Cayman Islands",
         "countryInfo": {
             "_id": 136,
@@ -1194,29 +1194,29 @@
             "long": -80.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ky.png"
         },
-        "cases": 239,
-        "todayCases": 0,
+        "cases": 240,
+        "todayCases": 1,
         "deaths": 1,
         "todayDeaths": 0,
-        "recovered": 218,
-        "todayRecovered": 0,
-        "active": 20,
+        "recovered": 221,
+        "todayRecovered": 3,
+        "active": 18,
         "critical": 1,
-        "casesPerOneMillion": 3623,
+        "casesPerOneMillion": 3638,
         "deathsPerOneMillion": 15,
-        "tests": 46399,
-        "testsPerOneMillion": 703282,
+        "tests": 46733,
+        "testsPerOneMillion": 708344,
         "population": 65975,
         "continent": "North America",
-        "oneCasePerPeople": 276,
+        "oneCasePerPeople": 275,
         "oneDeathPerPeople": 65975,
         "oneTestPerPeople": 1,
-        "activePerOneMillion": 303.15,
-        "recoveredPerOneMillion": 3304.28,
+        "activePerOneMillion": 272.83,
+        "recoveredPerOneMillion": 3349.75,
         "criticalPerOneMillion": 15.16
     },
     {
-        "updated": 1604068186671,
+        "updated": 1604089788426,
         "country": "Central African Republic",
         "countryInfo": {
             "_id": 140,
@@ -1248,7 +1248,7 @@
         "criticalPerOneMillion": 0.41
     },
     {
-        "updated": 1604068186696,
+        "updated": 1604089788451,
         "country": "Chad",
         "countryInfo": {
             "_id": 148,
@@ -1258,13 +1258,13 @@
             "long": 19,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/td.png"
         },
-        "cases": 1473,
-        "todayCases": 0,
-        "deaths": 97,
-        "todayDeaths": 0,
-        "recovered": 1307,
-        "todayRecovered": 0,
-        "active": 69,
+        "cases": 1483,
+        "todayCases": 10,
+        "deaths": 98,
+        "todayDeaths": 1,
+        "recovered": 1314,
+        "todayRecovered": 7,
+        "active": 71,
         "critical": 0,
         "casesPerOneMillion": 89,
         "deathsPerOneMillion": 6,
@@ -1272,15 +1272,15 @@
         "testsPerOneMillion": 0,
         "population": 16576580,
         "continent": "Africa",
-        "oneCasePerPeople": 11254,
-        "oneDeathPerPeople": 170893,
+        "oneCasePerPeople": 11178,
+        "oneDeathPerPeople": 169149,
         "oneTestPerPeople": 0,
-        "activePerOneMillion": 4.16,
-        "recoveredPerOneMillion": 78.85,
+        "activePerOneMillion": 4.28,
+        "recoveredPerOneMillion": 79.27,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186704,
+        "updated": 1604089788457,
         "country": "Channel Islands",
         "countryInfo": {
             "_id": 832,
@@ -1290,29 +1290,29 @@
             "long": -2.13,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/je.png"
         },
-        "cases": 836,
-        "todayCases": 0,
+        "cases": 841,
+        "todayCases": 5,
         "deaths": 48,
         "todayDeaths": 0,
-        "recovered": 710,
-        "todayRecovered": 0,
-        "active": 78,
+        "recovered": 713,
+        "todayRecovered": 3,
+        "active": 80,
         "critical": 10,
-        "casesPerOneMillion": 4794,
+        "casesPerOneMillion": 4823,
         "deathsPerOneMillion": 275,
         "tests": 165849,
         "testsPerOneMillion": 951029,
         "population": 174389,
         "continent": "Europe",
-        "oneCasePerPeople": 209,
+        "oneCasePerPeople": 207,
         "oneDeathPerPeople": 3633,
         "oneTestPerPeople": 1,
-        "activePerOneMillion": 447.28,
-        "recoveredPerOneMillion": 4071.36,
+        "activePerOneMillion": 458.74,
+        "recoveredPerOneMillion": 4088.56,
         "criticalPerOneMillion": 57.34
     },
     {
-        "updated": 1604068186517,
+        "updated": 1604089788273,
         "country": "Chile",
         "countryInfo": {
             "_id": 152,
@@ -1322,29 +1322,29 @@
             "long": -71,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/cl.png"
         },
-        "cases": 507050,
-        "todayCases": 0,
-        "deaths": 14118,
-        "todayDeaths": 0,
-        "recovered": 483922,
-        "todayRecovered": 0,
-        "active": 9010,
-        "critical": 748,
-        "casesPerOneMillion": 26450,
-        "deathsPerOneMillion": 736,
-        "tests": 4232623,
-        "testsPerOneMillion": 220793,
+        "cases": 508571,
+        "todayCases": 1521,
+        "deaths": 14158,
+        "todayDeaths": 40,
+        "recovered": 485152,
+        "todayRecovered": 1230,
+        "active": 9261,
+        "critical": 764,
+        "casesPerOneMillion": 26529,
+        "deathsPerOneMillion": 739,
+        "tests": 4269503,
+        "testsPerOneMillion": 222716,
         "population": 19170131,
         "continent": "South America",
         "oneCasePerPeople": 38,
-        "oneDeathPerPeople": 1358,
-        "oneTestPerPeople": 5,
-        "activePerOneMillion": 470,
-        "recoveredPerOneMillion": 25243.54,
-        "criticalPerOneMillion": 39.02
+        "oneDeathPerPeople": 1354,
+        "oneTestPerPeople": 4,
+        "activePerOneMillion": 483.1,
+        "recoveredPerOneMillion": 25307.7,
+        "criticalPerOneMillion": 39.85
     },
     {
-        "updated": 1604068186755,
+        "updated": 1604089788507,
         "country": "China",
         "countryInfo": {
             "_id": 156,
@@ -1376,7 +1376,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186507,
+        "updated": 1604089788263,
         "country": "Colombia",
         "countryInfo": {
             "_id": 170,
@@ -1408,7 +1408,7 @@
         "criticalPerOneMillion": 46.32
     },
     {
-        "updated": 1604068186715,
+        "updated": 1604089788466,
         "country": "Comoros",
         "countryInfo": {
             "_id": 174,
@@ -1440,7 +1440,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186667,
+        "updated": 1604089788422,
         "country": "Congo",
         "countryInfo": {
             "_id": 178,
@@ -1472,7 +1472,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186557,
+        "updated": 1604089788317,
         "country": "Costa Rica",
         "countryInfo": {
             "_id": 188,
@@ -1482,29 +1482,29 @@
             "long": -84,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/cr.png"
         },
-        "cases": 107570,
-        "todayCases": 0,
-        "deaths": 1357,
-        "todayDeaths": 0,
-        "recovered": 65666,
-        "todayRecovered": 0,
-        "active": 40547,
-        "critical": 182,
-        "casesPerOneMillion": 21053,
-        "deathsPerOneMillion": 266,
+        "cases": 108866,
+        "todayCases": 1296,
+        "deaths": 1371,
+        "todayDeaths": 14,
+        "recovered": 66202,
+        "todayRecovered": 536,
+        "active": 41293,
+        "critical": 186,
+        "casesPerOneMillion": 21307,
+        "deathsPerOneMillion": 268,
         "tests": 308063,
         "testsPerOneMillion": 60293,
         "population": 5109396,
         "continent": "North America",
         "oneCasePerPeople": 47,
-        "oneDeathPerPeople": 3765,
+        "oneDeathPerPeople": 3727,
         "oneTestPerPeople": 17,
-        "activePerOneMillion": 7935.77,
-        "recoveredPerOneMillion": 12852.01,
-        "criticalPerOneMillion": 35.62
+        "activePerOneMillion": 8081.78,
+        "recoveredPerOneMillion": 12956.91,
+        "criticalPerOneMillion": 36.4
     },
     {
-        "updated": 1604068186599,
+        "updated": 1604089788358,
         "country": "Croatia",
         "countryInfo": {
             "_id": 191,
@@ -1536,7 +1536,7 @@
         "criticalPerOneMillion": 18.06
     },
     {
-        "updated": 1604068186651,
+        "updated": 1604089788408,
         "country": "Cuba",
         "countryInfo": {
             "_id": 192,
@@ -1546,29 +1546,29 @@
             "long": -80,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/cu.png"
         },
-        "cases": 6766,
-        "todayCases": 0,
+        "cases": 6801,
+        "todayCases": 35,
         "deaths": 128,
         "todayDeaths": 0,
-        "recovered": 6132,
-        "todayRecovered": 0,
-        "active": 506,
+        "recovered": 6178,
+        "todayRecovered": 46,
+        "active": 495,
         "critical": 3,
-        "casesPerOneMillion": 597,
+        "casesPerOneMillion": 601,
         "deathsPerOneMillion": 11,
-        "tests": 824042,
-        "testsPerOneMillion": 72767,
+        "tests": 832287,
+        "testsPerOneMillion": 73496,
         "population": 11324318,
         "continent": "North America",
-        "oneCasePerPeople": 1674,
+        "oneCasePerPeople": 1665,
         "oneDeathPerPeople": 88471,
         "oneTestPerPeople": 14,
-        "activePerOneMillion": 44.68,
-        "recoveredPerOneMillion": 541.49,
+        "activePerOneMillion": 43.71,
+        "recoveredPerOneMillion": 545.55,
         "criticalPerOneMillion": 0.26
     },
     {
-        "updated": 1604068186702,
+        "updated": 1604089788456,
         "country": "Cura\u00e7ao",
         "countryInfo": {
             "_id": 531,
@@ -1600,7 +1600,7 @@
         "criticalPerOneMillion": 18.26
     },
     {
-        "updated": 1604068186678,
+        "updated": 1604089788433,
         "country": "Cyprus",
         "countryInfo": {
             "_id": 196,
@@ -1632,7 +1632,7 @@
         "criticalPerOneMillion": 1.65
     },
     {
-        "updated": 1604068186536,
+        "updated": 1604089788294,
         "country": "Czechia",
         "countryInfo": {
             "_id": 203,
@@ -1642,29 +1642,29 @@
             "long": 15.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/cz.png"
         },
-        "cases": 310068,
-        "todayCases": 0,
-        "deaths": 2862,
-        "todayDeaths": 0,
+        "cases": 316838,
+        "todayCases": 6770,
+        "deaths": 3033,
+        "todayDeaths": 171,
         "recovered": 128628,
         "todayRecovered": 0,
-        "active": 178578,
+        "active": 185177,
         "critical": 1031,
-        "casesPerOneMillion": 28936,
-        "deathsPerOneMillion": 267,
+        "casesPerOneMillion": 29568,
+        "deathsPerOneMillion": 283,
         "tests": 2203719,
         "testsPerOneMillion": 205656,
         "population": 10715565,
         "continent": "Europe",
-        "oneCasePerPeople": 35,
-        "oneDeathPerPeople": 3744,
+        "oneCasePerPeople": 34,
+        "oneDeathPerPeople": 3533,
         "oneTestPerPeople": 5,
-        "activePerOneMillion": 16665.29,
+        "activePerOneMillion": 17281.12,
         "recoveredPerOneMillion": 12003.85,
         "criticalPerOneMillion": 96.22
     },
     {
-        "updated": 1604068186615,
+        "updated": 1604089788372,
         "country": "C\u00f4te d'Ivoire",
         "countryInfo": {
             "_id": 384,
@@ -1674,29 +1674,29 @@
             "long": -5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ci.png"
         },
-        "cases": 20628,
-        "todayCases": 0,
+        "cases": 20692,
+        "todayCases": 64,
         "deaths": 124,
         "todayDeaths": 0,
-        "recovered": 20310,
-        "todayRecovered": 0,
-        "active": 194,
+        "recovered": 20349,
+        "todayRecovered": 39,
+        "active": 219,
         "critical": 0,
-        "casesPerOneMillion": 776,
+        "casesPerOneMillion": 778,
         "deathsPerOneMillion": 5,
-        "tests": 192394,
-        "testsPerOneMillion": 7236,
+        "tests": 193715,
+        "testsPerOneMillion": 7286,
         "population": 26588317,
         "continent": "Africa",
-        "oneCasePerPeople": 1289,
+        "oneCasePerPeople": 1285,
         "oneDeathPerPeople": 214422,
-        "oneTestPerPeople": 138,
-        "activePerOneMillion": 7.3,
-        "recoveredPerOneMillion": 763.87,
+        "oneTestPerPeople": 137,
+        "activePerOneMillion": 8.24,
+        "recoveredPerOneMillion": 765.34,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186635,
+        "updated": 1604089788392,
         "country": "DRC",
         "countryInfo": {
             "_id": 180,
@@ -1728,7 +1728,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186600,
+        "updated": 1604089788359,
         "country": "Denmark",
         "countryInfo": {
             "_id": 208,
@@ -1760,7 +1760,7 @@
         "criticalPerOneMillion": 2.93
     },
     {
-        "updated": 1604068186707,
+        "updated": 1604089788459,
         "country": "Diamond Princess",
         "countryInfo": {
             "_id": null,
@@ -1792,7 +1792,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186663,
+        "updated": 1604089788417,
         "country": "Djibouti",
         "countryInfo": {
             "_id": 262,
@@ -1802,29 +1802,29 @@
             "long": 43,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/dj.png"
         },
-        "cases": 5558,
-        "todayCases": 0,
+        "cases": 5559,
+        "todayCases": 1,
         "deaths": 61,
         "todayDeaths": 0,
-        "recovered": 5431,
-        "todayRecovered": 0,
-        "active": 66,
+        "recovered": 5437,
+        "todayRecovered": 6,
+        "active": 61,
         "critical": 0,
-        "casesPerOneMillion": 5599,
+        "casesPerOneMillion": 5600,
         "deathsPerOneMillion": 61,
-        "tests": 84842,
-        "testsPerOneMillion": 85467,
+        "tests": 84973,
+        "testsPerOneMillion": 85599,
         "population": 992685,
         "continent": "Africa",
         "oneCasePerPeople": 179,
         "oneDeathPerPeople": 16274,
         "oneTestPerPeople": 12,
-        "activePerOneMillion": 66.49,
-        "recoveredPerOneMillion": 5471.02,
+        "activePerOneMillion": 61.45,
+        "recoveredPerOneMillion": 5477.06,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186740,
+        "updated": 1604089788491,
         "country": "Dominica",
         "countryInfo": {
             "_id": 212,
@@ -1856,7 +1856,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186551,
+        "updated": 1604089788311,
         "country": "Dominican Republic",
         "countryInfo": {
             "_id": 214,
@@ -1866,29 +1866,29 @@
             "long": -70.6667,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/do.png"
         },
-        "cases": 125913,
-        "todayCases": 0,
-        "deaths": 2234,
-        "todayDeaths": 0,
-        "recovered": 103944,
-        "todayRecovered": 0,
-        "active": 19735,
-        "critical": 179,
-        "casesPerOneMillion": 11569,
+        "cases": 126332,
+        "todayCases": 419,
+        "deaths": 2236,
+        "todayDeaths": 2,
+        "recovered": 104486,
+        "todayRecovered": 542,
+        "active": 19610,
+        "critical": 174,
+        "casesPerOneMillion": 11608,
         "deathsPerOneMillion": 205,
-        "tests": 582708,
-        "testsPerOneMillion": 53540,
+        "tests": 588002,
+        "testsPerOneMillion": 54026,
         "population": 10883596,
         "continent": "North America",
         "oneCasePerPeople": 86,
-        "oneDeathPerPeople": 4872,
+        "oneDeathPerPeople": 4867,
         "oneTestPerPeople": 19,
-        "activePerOneMillion": 1813.28,
-        "recoveredPerOneMillion": 9550.52,
-        "criticalPerOneMillion": 16.45
+        "activePerOneMillion": 1801.79,
+        "recoveredPerOneMillion": 9600.32,
+        "criticalPerOneMillion": 15.99
     },
     {
-        "updated": 1604068186542,
+        "updated": 1604089788301,
         "country": "Ecuador",
         "countryInfo": {
             "_id": 218,
@@ -1898,29 +1898,29 @@
             "long": -77.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ec.png"
         },
-        "cases": 166302,
-        "todayCases": 0,
-        "deaths": 12622,
-        "todayDeaths": 0,
+        "cases": 167147,
+        "todayCases": 845,
+        "deaths": 12632,
+        "todayDeaths": 10,
         "recovered": 141759,
         "todayRecovered": 0,
-        "active": 11921,
+        "active": 12756,
         "critical": 336,
-        "casesPerOneMillion": 9380,
+        "casesPerOneMillion": 9427,
         "deathsPerOneMillion": 712,
-        "tests": 537793,
-        "testsPerOneMillion": 30332,
+        "tests": 541502,
+        "testsPerOneMillion": 30541,
         "population": 17730347,
         "continent": "South America",
-        "oneCasePerPeople": 107,
-        "oneDeathPerPeople": 1405,
+        "oneCasePerPeople": 106,
+        "oneDeathPerPeople": 1404,
         "oneTestPerPeople": 33,
-        "activePerOneMillion": 672.35,
+        "activePerOneMillion": 719.44,
         "recoveredPerOneMillion": 7995.27,
         "criticalPerOneMillion": 18.95
     },
     {
-        "updated": 1604068186558,
+        "updated": 1604089788319,
         "country": "Egypt",
         "countryInfo": {
             "_id": 818,
@@ -1952,7 +1952,7 @@
         "criticalPerOneMillion": 0.4
     },
     {
-        "updated": 1604068186607,
+        "updated": 1604089788364,
         "country": "El Salvador",
         "countryInfo": {
             "_id": 222,
@@ -1984,7 +1984,7 @@
         "criticalPerOneMillion": 6.46
     },
     {
-        "updated": 1604068186670,
+        "updated": 1604089788425,
         "country": "Equatorial Guinea",
         "countryInfo": {
             "_id": 226,
@@ -2016,7 +2016,7 @@
         "criticalPerOneMillion": 0.71
     },
     {
-        "updated": 1604068186720,
+        "updated": 1604089788470,
         "country": "Eritrea",
         "countryInfo": {
             "_id": 232,
@@ -2026,29 +2026,29 @@
             "long": 39,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/er.png"
         },
-        "cases": 461,
-        "todayCases": 0,
+        "cases": 463,
+        "todayCases": 2,
         "deaths": 0,
         "todayDeaths": 0,
-        "recovered": 405,
-        "todayRecovered": 0,
-        "active": 56,
+        "recovered": 412,
+        "todayRecovered": 7,
+        "active": 51,
         "critical": 0,
-        "casesPerOneMillion": 129,
+        "casesPerOneMillion": 130,
         "deathsPerOneMillion": 0,
         "tests": 0,
         "testsPerOneMillion": 0,
         "population": 3562443,
         "continent": "Africa",
-        "oneCasePerPeople": 7728,
+        "oneCasePerPeople": 7694,
         "oneDeathPerPeople": 0,
         "oneTestPerPeople": 0,
-        "activePerOneMillion": 15.72,
-        "recoveredPerOneMillion": 113.69,
+        "activePerOneMillion": 14.32,
+        "recoveredPerOneMillion": 115.65,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186672,
+        "updated": 1604089788428,
         "country": "Estonia",
         "countryInfo": {
             "_id": 233,
@@ -2080,7 +2080,7 @@
         "criticalPerOneMillion": 3.01
     },
     {
-        "updated": 1604068186566,
+        "updated": 1604089788326,
         "country": "Ethiopia",
         "countryInfo": {
             "_id": 231,
@@ -2090,29 +2090,29 @@
             "long": 38,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/et.png"
         },
-        "cases": 95301,
-        "todayCases": 0,
-        "deaths": 1457,
-        "todayDeaths": 0,
-        "recovered": 50753,
-        "todayRecovered": 0,
-        "active": 43091,
-        "critical": 311,
-        "casesPerOneMillion": 822,
+        "cases": 95789,
+        "todayCases": 488,
+        "deaths": 1464,
+        "todayDeaths": 7,
+        "recovered": 51713,
+        "todayRecovered": 960,
+        "active": 42612,
+        "critical": 327,
+        "casesPerOneMillion": 827,
         "deathsPerOneMillion": 13,
-        "tests": 1469117,
-        "testsPerOneMillion": 12678,
+        "tests": 1474983,
+        "testsPerOneMillion": 12729,
         "population": 115879271,
         "continent": "Africa",
-        "oneCasePerPeople": 1216,
-        "oneDeathPerPeople": 79533,
+        "oneCasePerPeople": 1210,
+        "oneDeathPerPeople": 79153,
         "oneTestPerPeople": 79,
-        "activePerOneMillion": 371.86,
-        "recoveredPerOneMillion": 437.98,
-        "criticalPerOneMillion": 2.68
+        "activePerOneMillion": 367.73,
+        "recoveredPerOneMillion": 446.27,
+        "criticalPerOneMillion": 2.82
     },
     {
-        "updated": 1604068186749,
+        "updated": 1604089788501,
         "country": "Falkland Islands (Malvinas)",
         "countryInfo": {
             "_id": 238,
@@ -2144,7 +2144,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186719,
+        "updated": 1604089788469,
         "country": "Faroe Islands",
         "countryInfo": {
             "_id": 234,
@@ -2176,7 +2176,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186741,
+        "updated": 1604089788492,
         "country": "Fiji",
         "countryInfo": {
             "_id": 242,
@@ -2208,7 +2208,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186623,
+        "updated": 1604089788380,
         "country": "Finland",
         "countryInfo": {
             "_id": 246,
@@ -2240,7 +2240,7 @@
         "criticalPerOneMillion": 1.8
     },
     {
-        "updated": 1604068186497,
+        "updated": 1604089788259,
         "country": "France",
         "countryInfo": {
             "_id": 250,
@@ -2250,29 +2250,29 @@
             "long": 2,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/fr.png"
         },
-        "cases": 1282769,
-        "todayCases": 0,
-        "deaths": 36020,
-        "todayDeaths": 0,
+        "cases": 1331984,
+        "todayCases": 49215,
+        "deaths": 36276,
+        "todayDeaths": 256,
         "recovered": 115287,
         "todayRecovered": 0,
-        "active": 1131462,
+        "active": 1180421,
         "critical": 3156,
-        "casesPerOneMillion": 19638,
-        "deathsPerOneMillion": 551,
-        "tests": 15592956,
-        "testsPerOneMillion": 238711,
+        "casesPerOneMillion": 20391,
+        "deathsPerOneMillion": 555,
+        "tests": 15836818,
+        "testsPerOneMillion": 242445,
         "population": 65321359,
         "continent": "Europe",
-        "oneCasePerPeople": 51,
-        "oneDeathPerPeople": 1813,
+        "oneCasePerPeople": 49,
+        "oneDeathPerPeople": 1801,
         "oneTestPerPeople": 4,
-        "activePerOneMillion": 17321.47,
+        "activePerOneMillion": 18070.98,
         "recoveredPerOneMillion": 1764.92,
         "criticalPerOneMillion": 48.31
     },
     {
-        "updated": 1604068186637,
+        "updated": 1604089788396,
         "country": "French Guiana",
         "countryInfo": {
             "_id": 254,
@@ -2304,7 +2304,7 @@
         "criticalPerOneMillion": 9.96
     },
     {
-        "updated": 1604068186649,
+        "updated": 1604089788406,
         "country": "French Polynesia",
         "countryInfo": {
             "_id": 258,
@@ -2336,7 +2336,7 @@
         "criticalPerOneMillion": 85.27
     },
     {
-        "updated": 1604068186643,
+        "updated": 1604089788401,
         "country": "Gabon",
         "countryInfo": {
             "_id": 266,
@@ -2368,7 +2368,7 @@
         "criticalPerOneMillion": 1.34
     },
     {
-        "updated": 1604068186681,
+        "updated": 1604089788436,
         "country": "Gambia",
         "countryInfo": {
             "_id": 270,
@@ -2400,7 +2400,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186604,
+        "updated": 1604089788362,
         "country": "Georgia",
         "countryInfo": {
             "_id": 268,
@@ -2432,7 +2432,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186519,
+        "updated": 1604089788272,
         "country": "Germany",
         "countryInfo": {
             "_id": 276,
@@ -2442,29 +2442,29 @@
             "long": 9,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/de.png"
         },
-        "cases": 505310,
-        "todayCases": 6957,
-        "deaths": 10474,
-        "todayDeaths": 39,
+        "cases": 517344,
+        "todayCases": 18991,
+        "deaths": 10519,
+        "todayDeaths": 84,
         "recovered": 345700,
         "todayRecovered": 6500,
-        "active": 149136,
-        "critical": 1696,
-        "casesPerOneMillion": 6025,
+        "active": 161125,
+        "critical": 1839,
+        "casesPerOneMillion": 6168,
         "deathsPerOneMillion": 125,
         "tests": 21882967,
         "testsPerOneMillion": 260907,
         "population": 83872585,
         "continent": "Europe",
-        "oneCasePerPeople": 166,
-        "oneDeathPerPeople": 8008,
+        "oneCasePerPeople": 162,
+        "oneDeathPerPeople": 7973,
         "oneTestPerPeople": 4,
-        "activePerOneMillion": 1778.13,
+        "activePerOneMillion": 1921.07,
         "recoveredPerOneMillion": 4121.73,
-        "criticalPerOneMillion": 20.22
+        "criticalPerOneMillion": 21.93
     },
     {
-        "updated": 1604068186598,
+        "updated": 1604089788357,
         "country": "Ghana",
         "countryInfo": {
             "_id": 288,
@@ -2496,7 +2496,7 @@
         "criticalPerOneMillion": 0.35
     },
     {
-        "updated": 1604068186710,
+        "updated": 1604089788461,
         "country": "Gibraltar",
         "countryInfo": {
             "_id": 292,
@@ -2528,7 +2528,7 @@
         "criticalPerOneMillion": 682.74
     },
     {
-        "updated": 1604068186605,
+        "updated": 1604089788363,
         "country": "Greece",
         "countryInfo": {
             "_id": 300,
@@ -2538,29 +2538,29 @@
             "long": 22,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/gr.png"
         },
-        "cases": 35510,
-        "todayCases": 0,
-        "deaths": 615,
-        "todayDeaths": 0,
+        "cases": 37196,
+        "todayCases": 1686,
+        "deaths": 620,
+        "todayDeaths": 5,
         "recovered": 9989,
         "todayRecovered": 0,
-        "active": 24906,
-        "critical": 114,
-        "casesPerOneMillion": 3412,
-        "deathsPerOneMillion": 59,
-        "tests": 1730519,
-        "testsPerOneMillion": 166299,
+        "active": 26587,
+        "critical": 128,
+        "casesPerOneMillion": 3574,
+        "deathsPerOneMillion": 60,
+        "tests": 1753842,
+        "testsPerOneMillion": 168541,
         "population": 10406046,
         "continent": "Europe",
-        "oneCasePerPeople": 293,
-        "oneDeathPerPeople": 16920,
+        "oneCasePerPeople": 280,
+        "oneDeathPerPeople": 16784,
         "oneTestPerPeople": 6,
-        "activePerOneMillion": 2393.42,
+        "activePerOneMillion": 2554.96,
         "recoveredPerOneMillion": 959.92,
-        "criticalPerOneMillion": 10.96
+        "criticalPerOneMillion": 12.3
     },
     {
-        "updated": 1604068186746,
+        "updated": 1604089788498,
         "country": "Greenland",
         "countryInfo": {
             "_id": 304,
@@ -2592,7 +2592,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186742,
+        "updated": 1604089788494,
         "country": "Grenada",
         "countryInfo": {
             "_id": 308,
@@ -2624,7 +2624,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186648,
+        "updated": 1604089788405,
         "country": "Guadeloupe",
         "countryInfo": {
             "_id": 312,
@@ -2656,7 +2656,7 @@
         "criticalPerOneMillion": 47.48
     },
     {
-        "updated": 1604068186559,
+        "updated": 1604089788318,
         "country": "Guatemala",
         "countryInfo": {
             "_id": 320,
@@ -2666,29 +2666,29 @@
             "long": -90.25,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/gt.png"
         },
-        "cases": 106790,
-        "todayCases": 0,
-        "deaths": 3704,
-        "todayDeaths": 0,
-        "recovered": 96187,
-        "todayRecovered": 0,
-        "active": 6899,
+        "cases": 107339,
+        "todayCases": 549,
+        "deaths": 3714,
+        "todayDeaths": 10,
+        "recovered": 96752,
+        "todayRecovered": 565,
+        "active": 6873,
         "critical": 5,
-        "casesPerOneMillion": 5925,
+        "casesPerOneMillion": 5956,
         "deathsPerOneMillion": 206,
-        "tests": 425241,
-        "testsPerOneMillion": 23594,
+        "tests": 430041,
+        "testsPerOneMillion": 23861,
         "population": 18023067,
         "continent": "North America",
-        "oneCasePerPeople": 169,
-        "oneDeathPerPeople": 4866,
+        "oneCasePerPeople": 168,
+        "oneDeathPerPeople": 4853,
         "oneTestPerPeople": 42,
-        "activePerOneMillion": 382.79,
-        "recoveredPerOneMillion": 5336.88,
+        "activePerOneMillion": 381.34,
+        "recoveredPerOneMillion": 5368.23,
         "criticalPerOneMillion": 0.28
     },
     {
-        "updated": 1604068186632,
+        "updated": 1604089788390,
         "country": "Guinea",
         "countryInfo": {
             "_id": 324,
@@ -2698,29 +2698,29 @@
             "long": -10,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/gn.png"
         },
-        "cases": 12020,
-        "todayCases": 0,
-        "deaths": 71,
-        "todayDeaths": 0,
+        "cases": 12072,
+        "todayCases": 52,
+        "deaths": 72,
+        "todayDeaths": 1,
         "recovered": 10550,
         "todayRecovered": 0,
-        "active": 1399,
+        "active": 1450,
         "critical": 24,
-        "casesPerOneMillion": 907,
+        "casesPerOneMillion": 911,
         "deathsPerOneMillion": 5,
         "tests": 41696,
         "testsPerOneMillion": 3148,
         "population": 13246958,
         "continent": "Africa",
-        "oneCasePerPeople": 1102,
-        "oneDeathPerPeople": 186577,
+        "oneCasePerPeople": 1097,
+        "oneDeathPerPeople": 183986,
         "oneTestPerPeople": 318,
-        "activePerOneMillion": 105.61,
+        "activePerOneMillion": 109.46,
         "recoveredPerOneMillion": 796.41,
         "criticalPerOneMillion": 1.81
     },
     {
-        "updated": 1604068186690,
+        "updated": 1604089788444,
         "country": "Guinea-Bissau",
         "countryInfo": {
             "_id": 624,
@@ -2752,7 +2752,7 @@
         "criticalPerOneMillion": 2.52
     },
     {
-        "updated": 1604068186677,
+        "updated": 1604089788432,
         "country": "Guyana",
         "countryInfo": {
             "_id": 328,
@@ -2784,7 +2784,7 @@
         "criticalPerOneMillion": 8.89
     },
     {
-        "updated": 1604068186642,
+        "updated": 1604089788399,
         "country": "Haiti",
         "countryInfo": {
             "_id": 332,
@@ -2816,7 +2816,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186744,
+        "updated": 1604089788495,
         "country": "Holy See (Vatican City State)",
         "countryInfo": {
             "_id": 336,
@@ -2848,7 +2848,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186565,
+        "updated": 1604089788325,
         "country": "Honduras",
         "countryInfo": {
             "_id": 340,
@@ -2880,7 +2880,7 @@
         "criticalPerOneMillion": 2.51
     },
     {
-        "updated": 1604068186666,
+        "updated": 1604089788420,
         "country": "Hong Kong",
         "countryInfo": {
             "_id": 344,
@@ -2912,7 +2912,7 @@
         "criticalPerOneMillion": 1.2
     },
     {
-        "updated": 1604068186573,
+        "updated": 1604089788333,
         "country": "Hungary",
         "countryInfo": {
             "_id": 348,
@@ -2944,7 +2944,7 @@
         "criticalPerOneMillion": 27.66
     },
     {
-        "updated": 1604068186671,
+        "updated": 1604089788427,
         "country": "Iceland",
         "countryInfo": {
             "_id": 352,
@@ -2976,7 +2976,7 @@
         "criticalPerOneMillion": 11.7
     },
     {
-        "updated": 1604068186492,
+        "updated": 1604089788254,
         "country": "India",
         "countryInfo": {
             "_id": 356,
@@ -2986,29 +2986,29 @@
             "long": 77,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/in.png"
         },
-        "cases": 8089593,
-        "todayCases": 1547,
-        "deaths": 121144,
-        "todayDeaths": 13,
-        "recovered": 7373375,
-        "todayRecovered": 1477,
-        "active": 595074,
+        "cases": 8136166,
+        "todayCases": 48120,
+        "deaths": 121681,
+        "todayDeaths": 550,
+        "recovered": 7430911,
+        "todayRecovered": 59013,
+        "active": 583574,
         "critical": 8944,
-        "casesPerOneMillion": 5843,
+        "casesPerOneMillion": 5877,
         "deathsPerOneMillion": 88,
         "tests": 107728088,
         "testsPerOneMillion": 77813,
         "population": 1384456382,
         "continent": "Asia",
-        "oneCasePerPeople": 171,
-        "oneDeathPerPeople": 11428,
+        "oneCasePerPeople": 170,
+        "oneDeathPerPeople": 11378,
         "oneTestPerPeople": 13,
-        "activePerOneMillion": 429.83,
-        "recoveredPerOneMillion": 5325.83,
+        "activePerOneMillion": 421.52,
+        "recoveredPerOneMillion": 5367.39,
         "criticalPerOneMillion": 6.46
     },
     {
-        "updated": 1604068186522,
+        "updated": 1604089788280,
         "country": "Indonesia",
         "countryInfo": {
             "_id": 360,
@@ -3040,7 +3040,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186516,
+        "updated": 1604089788270,
         "country": "Iran",
         "countryInfo": {
             "_id": 364,
@@ -3072,7 +3072,7 @@
         "criticalPerOneMillion": 60.8
     },
     {
-        "updated": 1604068186520,
+        "updated": 1604089788279,
         "country": "Iraq",
         "countryInfo": {
             "_id": 368,
@@ -3104,7 +3104,7 @@
         "criticalPerOneMillion": 10.91
     },
     {
-        "updated": 1604068186582,
+        "updated": 1604089788339,
         "country": "Ireland",
         "countryInfo": {
             "_id": 372,
@@ -3114,29 +3114,29 @@
             "long": -8,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ie.png"
         },
-        "cases": 60297,
-        "todayCases": 0,
-        "deaths": 1902,
-        "todayDeaths": 0,
+        "cases": 61059,
+        "todayCases": 762,
+        "deaths": 1908,
+        "todayDeaths": 6,
         "recovered": 23364,
         "todayRecovered": 0,
-        "active": 35031,
+        "active": 35787,
         "critical": 42,
-        "casesPerOneMillion": 12167,
-        "deathsPerOneMillion": 384,
-        "tests": 1606685,
-        "testsPerOneMillion": 324199,
+        "casesPerOneMillion": 12321,
+        "deathsPerOneMillion": 385,
+        "tests": 1620483,
+        "testsPerOneMillion": 326984,
         "population": 4955853,
         "continent": "Europe",
-        "oneCasePerPeople": 82,
-        "oneDeathPerPeople": 2606,
+        "oneCasePerPeople": 81,
+        "oneDeathPerPeople": 2597,
         "oneTestPerPeople": 3,
-        "activePerOneMillion": 7068.61,
+        "activePerOneMillion": 7221.16,
         "recoveredPerOneMillion": 4714.43,
         "criticalPerOneMillion": 8.47
     },
     {
-        "updated": 1604068186722,
+        "updated": 1604089788472,
         "country": "Isle of Man",
         "countryInfo": {
             "_id": 833,
@@ -3146,29 +3146,29 @@
             "long": -4.55,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/im.png"
         },
-        "cases": 352,
-        "todayCases": 0,
+        "cases": 353,
+        "todayCases": 1,
         "deaths": 24,
         "todayDeaths": 0,
         "recovered": 324,
         "todayRecovered": 0,
-        "active": 4,
+        "active": 5,
         "critical": 0,
-        "casesPerOneMillion": 4132,
+        "casesPerOneMillion": 4144,
         "deathsPerOneMillion": 282,
-        "tests": 16041,
-        "testsPerOneMillion": 188317,
+        "tests": 16108,
+        "testsPerOneMillion": 189103,
         "population": 85181,
         "continent": "Europe",
-        "oneCasePerPeople": 242,
+        "oneCasePerPeople": 241,
         "oneDeathPerPeople": 3549,
         "oneTestPerPeople": 5,
-        "activePerOneMillion": 46.96,
+        "activePerOneMillion": 58.7,
         "recoveredPerOneMillion": 3803.67,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186535,
+        "updated": 1604089788295,
         "country": "Israel",
         "countryInfo": {
             "_id": 376,
@@ -3200,7 +3200,7 @@
         "criticalPerOneMillion": 46.64
     },
     {
-        "updated": 1604068186514,
+        "updated": 1604089788269,
         "country": "Italy",
         "countryInfo": {
             "_id": 380,
@@ -3210,29 +3210,29 @@
             "long": 12.8333,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/it.png"
         },
-        "cases": 616595,
-        "todayCases": 0,
-        "deaths": 38122,
-        "todayDeaths": 0,
-        "recovered": 279282,
-        "todayRecovered": 0,
-        "active": 299191,
-        "critical": 1651,
-        "casesPerOneMillion": 10203,
-        "deathsPerOneMillion": 631,
-        "tests": 15353490,
-        "testsPerOneMillion": 254061,
+        "cases": 647674,
+        "todayCases": 31084,
+        "deaths": 38321,
+        "todayDeaths": 199,
+        "recovered": 283567,
+        "todayRecovered": 4285,
+        "active": 325786,
+        "critical": 1746,
+        "casesPerOneMillion": 10717,
+        "deathsPerOneMillion": 634,
+        "tests": 15568575,
+        "testsPerOneMillion": 257620,
         "population": 60432243,
         "continent": "Europe",
-        "oneCasePerPeople": 98,
-        "oneDeathPerPeople": 1585,
+        "oneCasePerPeople": 93,
+        "oneDeathPerPeople": 1577,
         "oneTestPerPeople": 4,
-        "activePerOneMillion": 4950.85,
-        "recoveredPerOneMillion": 4621.41,
-        "criticalPerOneMillion": 27.32
+        "activePerOneMillion": 5390.93,
+        "recoveredPerOneMillion": 4692.31,
+        "criticalPerOneMillion": 28.89
     },
     {
-        "updated": 1604068186644,
+        "updated": 1604089788400,
         "country": "Jamaica",
         "countryInfo": {
             "_id": 388,
@@ -3242,29 +3242,29 @@
             "long": -77.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/jm.png"
         },
-        "cases": 8927,
-        "todayCases": 0,
-        "deaths": 202,
-        "todayDeaths": 0,
-        "recovered": 4429,
-        "todayRecovered": 0,
-        "active": 4296,
-        "critical": 4,
-        "casesPerOneMillion": 3010,
-        "deathsPerOneMillion": 68,
-        "tests": 94441,
-        "testsPerOneMillion": 31847,
+        "cases": 9005,
+        "todayCases": 78,
+        "deaths": 205,
+        "todayDeaths": 3,
+        "recovered": 4442,
+        "todayRecovered": 13,
+        "active": 4358,
+        "critical": 3,
+        "casesPerOneMillion": 3037,
+        "deathsPerOneMillion": 69,
+        "tests": 95083,
+        "testsPerOneMillion": 32064,
         "population": 2965437,
         "continent": "North America",
-        "oneCasePerPeople": 332,
-        "oneDeathPerPeople": 14680,
+        "oneCasePerPeople": 329,
+        "oneDeathPerPeople": 14466,
         "oneTestPerPeople": 31,
-        "activePerOneMillion": 1448.69,
-        "recoveredPerOneMillion": 1493.54,
-        "criticalPerOneMillion": 1.35
+        "activePerOneMillion": 1469.6,
+        "recoveredPerOneMillion": 1497.92,
+        "criticalPerOneMillion": 1.01
     },
     {
-        "updated": 1604068186562,
+        "updated": 1604089788321,
         "country": "Japan",
         "countryInfo": {
             "_id": 392,
@@ -3274,29 +3274,29 @@
             "long": 138,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/jp.png"
         },
-        "cases": 98852,
-        "todayCases": 0,
-        "deaths": 1733,
-        "todayDeaths": 0,
-        "recovered": 91322,
-        "todayRecovered": 0,
-        "active": 5797,
-        "critical": 161,
-        "casesPerOneMillion": 782,
+        "cases": 99622,
+        "todayCases": 770,
+        "deaths": 1744,
+        "todayDeaths": 11,
+        "recovered": 91890,
+        "todayRecovered": 568,
+        "active": 5988,
+        "critical": 156,
+        "casesPerOneMillion": 788,
         "deathsPerOneMillion": 14,
-        "tests": 2658586,
-        "testsPerOneMillion": 21042,
+        "tests": 2681667,
+        "testsPerOneMillion": 21225,
         "population": 126347390,
         "continent": "Asia",
-        "oneCasePerPeople": 1278,
-        "oneDeathPerPeople": 72907,
-        "oneTestPerPeople": 48,
-        "activePerOneMillion": 45.88,
-        "recoveredPerOneMillion": 722.79,
-        "criticalPerOneMillion": 1.27
+        "oneCasePerPeople": 1268,
+        "oneDeathPerPeople": 72447,
+        "oneTestPerPeople": 47,
+        "activePerOneMillion": 47.39,
+        "recoveredPerOneMillion": 727.28,
+        "criticalPerOneMillion": 1.23
     },
     {
-        "updated": 1604068186575,
+        "updated": 1604089788334,
         "country": "Jordan",
         "countryInfo": {
             "_id": 400,
@@ -3306,29 +3306,29 @@
             "long": 36,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/jo.png"
         },
-        "cases": 65385,
-        "todayCases": 0,
-        "deaths": 740,
-        "todayDeaths": 0,
-        "recovered": 7508,
-        "todayRecovered": 0,
-        "active": 57137,
+        "cases": 69306,
+        "todayCases": 3921,
+        "deaths": 772,
+        "todayDeaths": 32,
+        "recovered": 7600,
+        "todayRecovered": 92,
+        "active": 60934,
         "critical": 55,
-        "casesPerOneMillion": 6388,
-        "deathsPerOneMillion": 72,
-        "tests": 1808896,
-        "testsPerOneMillion": 176713,
+        "casesPerOneMillion": 6771,
+        "deathsPerOneMillion": 75,
+        "tests": 1837854,
+        "testsPerOneMillion": 179542,
         "population": 10236367,
         "continent": "Asia",
-        "oneCasePerPeople": 157,
-        "oneDeathPerPeople": 13833,
+        "oneCasePerPeople": 148,
+        "oneDeathPerPeople": 13260,
         "oneTestPerPeople": 6,
-        "activePerOneMillion": 5581.77,
-        "recoveredPerOneMillion": 733.46,
+        "activePerOneMillion": 5952.7,
+        "recoveredPerOneMillion": 742.45,
         "criticalPerOneMillion": 5.37
     },
     {
-        "updated": 1604068186556,
+        "updated": 1604089788316,
         "country": "Kazakhstan",
         "countryInfo": {
             "_id": 398,
@@ -3360,7 +3360,7 @@
         "criticalPerOneMillion": 11.72
     },
     {
-        "updated": 1604068186593,
+        "updated": 1604089788351,
         "country": "Kenya",
         "countryInfo": {
             "_id": 404,
@@ -3370,29 +3370,29 @@
             "long": 38,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ke.png"
         },
-        "cases": 52612,
-        "todayCases": 0,
+        "cases": 53797,
+        "todayCases": 1185,
         "deaths": 964,
         "todayDeaths": 0,
-        "recovered": 35604,
-        "todayRecovered": 0,
-        "active": 16044,
+        "recovered": 35876,
+        "todayRecovered": 272,
+        "active": 16957,
         "critical": 36,
-        "casesPerOneMillion": 972,
+        "casesPerOneMillion": 993,
         "deathsPerOneMillion": 18,
-        "tests": 677601,
-        "testsPerOneMillion": 12513,
+        "tests": 687452,
+        "testsPerOneMillion": 12694,
         "population": 54153626,
         "continent": "Africa",
-        "oneCasePerPeople": 1029,
+        "oneCasePerPeople": 1007,
         "oneDeathPerPeople": 56176,
-        "oneTestPerPeople": 80,
-        "activePerOneMillion": 296.27,
-        "recoveredPerOneMillion": 657.46,
+        "oneTestPerPeople": 79,
+        "activePerOneMillion": 313.13,
+        "recoveredPerOneMillion": 662.49,
         "criticalPerOneMillion": 0.66
     },
     {
-        "updated": 1604068186552,
+        "updated": 1604089788312,
         "country": "Kuwait",
         "countryInfo": {
             "_id": 414,
@@ -3424,7 +3424,7 @@
         "criticalPerOneMillion": 25.17
     },
     {
-        "updated": 1604068186583,
+        "updated": 1604089788341,
         "country": "Kyrgyzstan",
         "countryInfo": {
             "_id": 417,
@@ -3456,7 +3456,7 @@
         "criticalPerOneMillion": 3.66
     },
     {
-        "updated": 1604068186745,
+        "updated": 1604089788496,
         "country": "Lao People's Democratic Republic",
         "countryInfo": {
             "_id": 418,
@@ -3488,7 +3488,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186659,
+        "updated": 1604089788415,
         "country": "Latvia",
         "countryInfo": {
             "_id": 428,
@@ -3520,7 +3520,7 @@
         "criticalPerOneMillion": 5.32
     },
     {
-        "updated": 1604068186570,
+        "updated": 1604089788331,
         "country": "Lebanon",
         "countryInfo": {
             "_id": 422,
@@ -3530,29 +3530,29 @@
             "long": 35.8333,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/lb.png"
         },
-        "cases": 77778,
-        "todayCases": 0,
-        "deaths": 610,
-        "todayDeaths": 0,
-        "recovered": 39123,
-        "todayRecovered": 0,
-        "active": 38045,
-        "critical": 248,
-        "casesPerOneMillion": 11412,
-        "deathsPerOneMillion": 90,
-        "tests": 1200652,
-        "testsPerOneMillion": 176172,
+        "cases": 79529,
+        "todayCases": 1751,
+        "deaths": 625,
+        "todayDeaths": 15,
+        "recovered": 40352,
+        "todayRecovered": 1229,
+        "active": 38552,
+        "critical": 270,
+        "casesPerOneMillion": 11669,
+        "deathsPerOneMillion": 92,
+        "tests": 1212828,
+        "testsPerOneMillion": 177958,
         "population": 6815239,
         "continent": "Asia",
-        "oneCasePerPeople": 88,
-        "oneDeathPerPeople": 11173,
+        "oneCasePerPeople": 86,
+        "oneDeathPerPeople": 10904,
         "oneTestPerPeople": 6,
-        "activePerOneMillion": 5582.34,
-        "recoveredPerOneMillion": 5740.52,
-        "criticalPerOneMillion": 36.39
+        "activePerOneMillion": 5656.73,
+        "recoveredPerOneMillion": 5920.85,
+        "criticalPerOneMillion": 39.62
     },
     {
-        "updated": 1604068186696,
+        "updated": 1604089788449,
         "country": "Lesotho",
         "countryInfo": {
             "_id": 426,
@@ -3562,29 +3562,29 @@
             "long": 28.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ls.png"
         },
-        "cases": 1947,
-        "todayCases": 0,
-        "deaths": 43,
-        "todayDeaths": 0,
+        "cases": 1953,
+        "todayCases": 6,
+        "deaths": 44,
+        "todayDeaths": 1,
         "recovered": 975,
         "todayRecovered": 0,
-        "active": 929,
+        "active": 934,
         "critical": 0,
-        "casesPerOneMillion": 906,
+        "casesPerOneMillion": 909,
         "deathsPerOneMillion": 20,
-        "tests": 22451,
-        "testsPerOneMillion": 10453,
+        "tests": 22645,
+        "testsPerOneMillion": 10543,
         "population": 2147835,
         "continent": "Africa",
-        "oneCasePerPeople": 1103,
-        "oneDeathPerPeople": 49950,
-        "oneTestPerPeople": 96,
-        "activePerOneMillion": 432.53,
+        "oneCasePerPeople": 1100,
+        "oneDeathPerPeople": 48814,
+        "oneTestPerPeople": 95,
+        "activePerOneMillion": 434.86,
         "recoveredPerOneMillion": 453.95,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186698,
+        "updated": 1604089788452,
         "country": "Liberia",
         "countryInfo": {
             "_id": 430,
@@ -3616,7 +3616,7 @@
         "criticalPerOneMillion": 0.39
     },
     {
-        "updated": 1604068186581,
+        "updated": 1604089788340,
         "country": "Libyan Arab Jamahiriya",
         "countryInfo": {
             "_id": 434,
@@ -3648,7 +3648,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186716,
+        "updated": 1604089788467,
         "country": "Liechtenstein",
         "countryInfo": {
             "_id": 438,
@@ -3680,7 +3680,7 @@
         "criticalPerOneMillion": 393.04
     },
     {
-        "updated": 1604068186625,
+        "updated": 1604089788383,
         "country": "Lithuania",
         "countryInfo": {
             "_id": 440,
@@ -3712,7 +3712,7 @@
         "criticalPerOneMillion": 12.55
     },
     {
-        "updated": 1604068186620,
+        "updated": 1604089788376,
         "country": "Luxembourg",
         "countryInfo": {
             "_id": 442,
@@ -3722,29 +3722,29 @@
             "long": 6.1667,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/lu.png"
         },
-        "cases": 16356,
-        "todayCases": 0,
-        "deaths": 150,
-        "todayDeaths": 0,
-        "recovered": 9865,
-        "todayRecovered": 0,
-        "active": 6341,
-        "critical": 21,
-        "casesPerOneMillion": 25991,
-        "deathsPerOneMillion": 238,
-        "tests": 1039049,
-        "testsPerOneMillion": 1651142,
+        "cases": 17134,
+        "todayCases": 778,
+        "deaths": 152,
+        "todayDeaths": 2,
+        "recovered": 10081,
+        "todayRecovered": 216,
+        "active": 6901,
+        "critical": 24,
+        "casesPerOneMillion": 27227,
+        "deathsPerOneMillion": 242,
+        "tests": 1051725,
+        "testsPerOneMillion": 1671286,
         "population": 629291,
         "continent": "Europe",
-        "oneCasePerPeople": 38,
-        "oneDeathPerPeople": 4195,
+        "oneCasePerPeople": 37,
+        "oneDeathPerPeople": 4140,
         "oneTestPerPeople": 1,
-        "activePerOneMillion": 10076.42,
-        "recoveredPerOneMillion": 15676.37,
-        "criticalPerOneMillion": 33.37
+        "activePerOneMillion": 10966.31,
+        "recoveredPerOneMillion": 16019.62,
+        "criticalPerOneMillion": 38.14
     },
     {
-        "updated": 1604068186751,
+        "updated": 1604089788503,
         "country": "MS Zaandam",
         "countryInfo": {
             "_id": null,
@@ -3776,7 +3776,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186739,
+        "updated": 1604089788490,
         "country": "Macao",
         "countryInfo": {
             "_id": 446,
@@ -3808,7 +3808,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186610,
+        "updated": 1604089788367,
         "country": "Macedonia",
         "countryInfo": {
             "_id": 807,
@@ -3818,29 +3818,29 @@
             "long": 22,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/mk.png"
         },
-        "cases": 29558,
-        "todayCases": 0,
-        "deaths": 977,
-        "todayDeaths": 0,
-        "recovered": 19994,
-        "todayRecovered": 0,
-        "active": 8587,
+        "cases": 30488,
+        "todayCases": 930,
+        "deaths": 982,
+        "todayDeaths": 5,
+        "recovered": 20448,
+        "todayRecovered": 454,
+        "active": 9058,
         "critical": 25,
-        "casesPerOneMillion": 14188,
-        "deathsPerOneMillion": 469,
+        "casesPerOneMillion": 14634,
+        "deathsPerOneMillion": 471,
         "tests": 243357,
         "testsPerOneMillion": 116811,
         "population": 2083346,
         "continent": "Europe",
-        "oneCasePerPeople": 70,
-        "oneDeathPerPeople": 2132,
+        "oneCasePerPeople": 68,
+        "oneDeathPerPeople": 2122,
         "oneTestPerPeople": 9,
-        "activePerOneMillion": 4121.73,
-        "recoveredPerOneMillion": 9597.06,
+        "activePerOneMillion": 4347.81,
+        "recoveredPerOneMillion": 9814.98,
         "criticalPerOneMillion": 12
     },
     {
-        "updated": 1604068186619,
+        "updated": 1604089788377,
         "country": "Madagascar",
         "countryInfo": {
             "_id": 450,
@@ -3872,7 +3872,7 @@
         "criticalPerOneMillion": 0.57
     },
     {
-        "updated": 1604068186655,
+        "updated": 1604089788412,
         "country": "Malawi",
         "countryInfo": {
             "_id": 454,
@@ -3882,29 +3882,29 @@
             "long": 34,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/mw.png"
         },
-        "cases": 5916,
-        "todayCases": 0,
+        "cases": 5923,
+        "todayCases": 7,
         "deaths": 184,
         "todayDeaths": 0,
-        "recovered": 5303,
-        "todayRecovered": 0,
-        "active": 429,
+        "recovered": 5323,
+        "todayRecovered": 20,
+        "active": 416,
         "critical": 4,
         "casesPerOneMillion": 307,
         "deathsPerOneMillion": 10,
-        "tests": 60907,
-        "testsPerOneMillion": 3158,
+        "tests": 62171,
+        "testsPerOneMillion": 3223,
         "population": 19288664,
         "continent": "Africa",
-        "oneCasePerPeople": 3260,
+        "oneCasePerPeople": 3257,
         "oneDeathPerPeople": 104830,
-        "oneTestPerPeople": 317,
-        "activePerOneMillion": 22.24,
-        "recoveredPerOneMillion": 274.93,
+        "oneTestPerPeople": 310,
+        "activePerOneMillion": 21.57,
+        "recoveredPerOneMillion": 275.97,
         "criticalPerOneMillion": 0.21
     },
     {
-        "updated": 1604068186609,
+        "updated": 1604089788366,
         "country": "Malaysia",
         "countryInfo": {
             "_id": 458,
@@ -3936,7 +3936,7 @@
         "criticalPerOneMillion": 2.77
     },
     {
-        "updated": 1604068186633,
+        "updated": 1604089788391,
         "country": "Maldives",
         "countryInfo": {
             "_id": 462,
@@ -3946,15 +3946,15 @@
             "long": 73,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/mv.png"
         },
-        "cases": 11616,
-        "todayCases": 0,
+        "cases": 11643,
+        "todayCases": 27,
         "deaths": 37,
         "todayDeaths": 0,
-        "recovered": 10733,
-        "todayRecovered": 0,
-        "active": 846,
+        "recovered": 10779,
+        "todayRecovered": 46,
+        "active": 827,
         "critical": 12,
-        "casesPerOneMillion": 21367,
+        "casesPerOneMillion": 21417,
         "deathsPerOneMillion": 68,
         "tests": 150743,
         "testsPerOneMillion": 277287,
@@ -3963,12 +3963,12 @@
         "oneCasePerPeople": 47,
         "oneDeathPerPeople": 14693,
         "oneTestPerPeople": 4,
-        "activePerOneMillion": 1556.19,
-        "recoveredPerOneMillion": 19742.99,
+        "activePerOneMillion": 1521.24,
+        "recoveredPerOneMillion": 19827.61,
         "criticalPerOneMillion": 22.07
     },
     {
-        "updated": 1604068186683,
+        "updated": 1604089788438,
         "country": "Mali",
         "countryInfo": {
             "_id": 466,
@@ -3978,29 +3978,29 @@
             "long": -4,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ml.png"
         },
-        "cases": 3537,
-        "todayCases": 0,
+        "cases": 3545,
+        "todayCases": 8,
         "deaths": 136,
         "todayDeaths": 0,
-        "recovered": 2686,
-        "todayRecovered": 0,
-        "active": 715,
+        "recovered": 2746,
+        "todayRecovered": 60,
+        "active": 663,
         "critical": 0,
         "casesPerOneMillion": 173,
         "deathsPerOneMillion": 7,
-        "tests": 73365,
-        "testsPerOneMillion": 3590,
+        "tests": 74112,
+        "testsPerOneMillion": 3626,
         "population": 20437315,
         "continent": "Africa",
-        "oneCasePerPeople": 5778,
+        "oneCasePerPeople": 5765,
         "oneDeathPerPeople": 150274,
-        "oneTestPerPeople": 279,
-        "activePerOneMillion": 34.99,
-        "recoveredPerOneMillion": 131.43,
+        "oneTestPerPeople": 276,
+        "activePerOneMillion": 32.44,
+        "recoveredPerOneMillion": 134.36,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186654,
+        "updated": 1604089788411,
         "country": "Malta",
         "countryInfo": {
             "_id": 470,
@@ -4032,7 +4032,7 @@
         "criticalPerOneMillion": 33.94
     },
     {
-        "updated": 1604068186753,
+        "updated": 1604089788505,
         "country": "Marshall Islands",
         "countryInfo": {
             "_id": 584,
@@ -4064,7 +4064,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186682,
+        "updated": 1604089788437,
         "country": "Martinique",
         "countryInfo": {
             "_id": 474,
@@ -4096,7 +4096,7 @@
         "criticalPerOneMillion": 42.65
     },
     {
-        "updated": 1604068186647,
+        "updated": 1604089788404,
         "country": "Mauritania",
         "countryInfo": {
             "_id": 478,
@@ -4128,7 +4128,7 @@
         "criticalPerOneMillion": 0.64
     },
     {
-        "updated": 1604068186721,
+        "updated": 1604089788471,
         "country": "Mauritius",
         "countryInfo": {
             "_id": 480,
@@ -4160,7 +4160,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186676,
+        "updated": 1604089788431,
         "country": "Mayotte",
         "countryInfo": {
             "_id": 175,
@@ -4192,7 +4192,7 @@
         "criticalPerOneMillion": 14.55
     },
     {
-        "updated": 1604068186510,
+        "updated": 1604089788265,
         "country": "Mexico",
         "countryInfo": {
             "_id": 484,
@@ -4224,7 +4224,7 @@
         "criticalPerOneMillion": 21.94
     },
     {
-        "updated": 1604068186572,
+        "updated": 1604089788332,
         "country": "Moldova",
         "countryInfo": {
             "_id": 498,
@@ -4234,29 +4234,29 @@
             "long": 29,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/md.png"
         },
-        "cases": 74233,
-        "todayCases": 0,
-        "deaths": 1747,
-        "todayDeaths": 0,
-        "recovered": 54495,
-        "todayRecovered": 0,
-        "active": 17991,
-        "critical": 814,
-        "casesPerOneMillion": 18416,
-        "deathsPerOneMillion": 433,
-        "tests": 366644,
-        "testsPerOneMillion": 90960,
+        "cases": 75201,
+        "todayCases": 968,
+        "deaths": 1766,
+        "todayDeaths": 19,
+        "recovered": 55190,
+        "todayRecovered": 695,
+        "active": 18245,
+        "critical": 789,
+        "casesPerOneMillion": 18656,
+        "deathsPerOneMillion": 438,
+        "tests": 370107,
+        "testsPerOneMillion": 91819,
         "population": 4030840,
         "continent": "Europe",
         "oneCasePerPeople": 54,
-        "oneDeathPerPeople": 2307,
+        "oneDeathPerPeople": 2282,
         "oneTestPerPeople": 11,
-        "activePerOneMillion": 4463.34,
-        "recoveredPerOneMillion": 13519.51,
-        "criticalPerOneMillion": 201.94
+        "activePerOneMillion": 4526.35,
+        "recoveredPerOneMillion": 13691.94,
+        "criticalPerOneMillion": 195.74
     },
     {
-        "updated": 1604068186723,
+        "updated": 1604089788472,
         "country": "Monaco",
         "countryInfo": {
             "_id": 492,
@@ -4288,7 +4288,7 @@
         "criticalPerOneMillion": 127.12
     },
     {
-        "updated": 1604068186725,
+        "updated": 1604089788474,
         "country": "Mongolia",
         "countryInfo": {
             "_id": 496,
@@ -4320,7 +4320,7 @@
         "criticalPerOneMillion": 0.3
     },
     {
-        "updated": 1604068186618,
+        "updated": 1604089788375,
         "country": "Montenegro",
         "countryInfo": {
             "_id": 499,
@@ -4330,29 +4330,29 @@
             "long": 19,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/me.png"
         },
-        "cases": 17746,
-        "todayCases": 0,
-        "deaths": 290,
-        "todayDeaths": 0,
-        "recovered": 13727,
-        "todayRecovered": 0,
-        "active": 3729,
+        "cases": 18066,
+        "todayCases": 320,
+        "deaths": 294,
+        "todayDeaths": 4,
+        "recovered": 13942,
+        "todayRecovered": 215,
+        "active": 3830,
         "critical": 26,
-        "casesPerOneMillion": 28254,
-        "deathsPerOneMillion": 462,
-        "tests": 88363,
-        "testsPerOneMillion": 140685,
+        "casesPerOneMillion": 28763,
+        "deathsPerOneMillion": 468,
+        "tests": 89345,
+        "testsPerOneMillion": 142248,
         "population": 628092,
         "continent": "Europe",
         "oneCasePerPeople": 35,
-        "oneDeathPerPeople": 2166,
+        "oneDeathPerPeople": 2136,
         "oneTestPerPeople": 7,
-        "activePerOneMillion": 5937.03,
-        "recoveredPerOneMillion": 21855.08,
+        "activePerOneMillion": 6097.83,
+        "recoveredPerOneMillion": 22197.39,
         "criticalPerOneMillion": 41.4
     },
     {
-        "updated": 1604068186748,
+        "updated": 1604089788500,
         "country": "Montserrat",
         "countryInfo": {
             "_id": 500,
@@ -4384,7 +4384,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186540,
+        "updated": 1604089788299,
         "country": "Morocco",
         "countryInfo": {
             "_id": 504,
@@ -4394,29 +4394,29 @@
             "long": -5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ma.png"
         },
-        "cases": 212038,
-        "todayCases": 0,
-        "deaths": 3572,
-        "todayDeaths": 0,
-        "recovered": 174911,
-        "todayRecovered": 0,
-        "active": 33555,
-        "critical": 787,
-        "casesPerOneMillion": 5722,
-        "deathsPerOneMillion": 96,
-        "tests": 3285045,
-        "testsPerOneMillion": 88656,
+        "cases": 215294,
+        "todayCases": 3256,
+        "deaths": 3625,
+        "todayDeaths": 53,
+        "recovered": 177925,
+        "todayRecovered": 3014,
+        "active": 33744,
+        "critical": 819,
+        "casesPerOneMillion": 5810,
+        "deathsPerOneMillion": 98,
+        "tests": 3305323,
+        "testsPerOneMillion": 89203,
         "population": 37053740,
         "continent": "Africa",
-        "oneCasePerPeople": 175,
-        "oneDeathPerPeople": 10373,
+        "oneCasePerPeople": 172,
+        "oneDeathPerPeople": 10222,
         "oneTestPerPeople": 11,
-        "activePerOneMillion": 905.58,
-        "recoveredPerOneMillion": 4720.47,
-        "criticalPerOneMillion": 21.24
+        "activePerOneMillion": 910.68,
+        "recoveredPerOneMillion": 4801.81,
+        "criticalPerOneMillion": 22.1
     },
     {
-        "updated": 1604068186629,
+        "updated": 1604089788386,
         "country": "Mozambique",
         "countryInfo": {
             "_id": 508,
@@ -4426,29 +4426,29 @@
             "long": 35,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/mz.png"
         },
-        "cases": 12525,
-        "todayCases": 0,
+        "cases": 12777,
+        "todayCases": 252,
         "deaths": 91,
         "todayDeaths": 0,
-        "recovered": 10001,
-        "todayRecovered": 0,
-        "active": 2433,
+        "recovered": 10437,
+        "todayRecovered": 436,
+        "active": 2249,
         "critical": 0,
-        "casesPerOneMillion": 397,
+        "casesPerOneMillion": 405,
         "deathsPerOneMillion": 3,
-        "tests": 185273,
-        "testsPerOneMillion": 5875,
+        "tests": 187499,
+        "testsPerOneMillion": 5946,
         "population": 31535713,
         "continent": "Africa",
-        "oneCasePerPeople": 2518,
+        "oneCasePerPeople": 2468,
         "oneDeathPerPeople": 346546,
-        "oneTestPerPeople": 170,
-        "activePerOneMillion": 77.15,
-        "recoveredPerOneMillion": 317.13,
+        "oneTestPerPeople": 168,
+        "activePerOneMillion": 71.32,
+        "recoveredPerOneMillion": 330.96,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186594,
+        "updated": 1604089788354,
         "country": "Myanmar",
         "countryInfo": {
             "_id": 104,
@@ -4480,7 +4480,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186627,
+        "updated": 1604089788385,
         "country": "Namibia",
         "countryInfo": {
             "_id": 516,
@@ -4512,7 +4512,7 @@
         "criticalPerOneMillion": 1.57
     },
     {
-        "updated": 1604068186541,
+        "updated": 1604089788300,
         "country": "Nepal",
         "countryInfo": {
             "_id": 524,
@@ -4544,7 +4544,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186532,
+        "updated": 1604089788290,
         "country": "Netherlands",
         "countryInfo": {
             "_id": 528,
@@ -4576,7 +4576,7 @@
         "criticalPerOneMillion": 33.82
     },
     {
-        "updated": 1604068186743,
+        "updated": 1604089788494,
         "country": "New Caledonia",
         "countryInfo": {
             "_id": 540,
@@ -4608,7 +4608,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186695,
+        "updated": 1604089788450,
         "country": "New Zealand",
         "countryInfo": {
             "_id": 554,
@@ -4640,7 +4640,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186664,
+        "updated": 1604089788418,
         "country": "Nicaragua",
         "countryInfo": {
             "_id": 558,
@@ -4672,7 +4672,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186699,
+        "updated": 1604089788453,
         "country": "Niger",
         "countryInfo": {
             "_id": 562,
@@ -4704,7 +4704,7 @@
         "criticalPerOneMillion": 0.37
     },
     {
-        "updated": 1604068186576,
+        "updated": 1604089788337,
         "country": "Nigeria",
         "countryInfo": {
             "_id": 566,
@@ -4736,7 +4736,7 @@
         "criticalPerOneMillion": 0.03
     },
     {
-        "updated": 1604068186617,
+        "updated": 1604089788374,
         "country": "Norway",
         "countryInfo": {
             "_id": 578,
@@ -4746,29 +4746,29 @@
             "long": 10,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/no.png"
         },
-        "cases": 19618,
-        "todayCases": 54,
+        "cases": 19861,
+        "todayCases": 297,
         "deaths": 282,
         "todayDeaths": 1,
         "recovered": 11863,
         "todayRecovered": 0,
-        "active": 7473,
+        "active": 7716,
         "critical": 10,
-        "casesPerOneMillion": 3609,
+        "casesPerOneMillion": 3654,
         "deathsPerOneMillion": 52,
         "tests": 1580349,
         "testsPerOneMillion": 290763,
         "population": 5435187,
         "continent": "Europe",
-        "oneCasePerPeople": 277,
+        "oneCasePerPeople": 274,
         "oneDeathPerPeople": 19274,
         "oneTestPerPeople": 3,
-        "activePerOneMillion": 1374.93,
+        "activePerOneMillion": 1419.64,
         "recoveredPerOneMillion": 2182.63,
         "criticalPerOneMillion": 1.84
     },
     {
-        "updated": 1604068186555,
+        "updated": 1604089788314,
         "country": "Oman",
         "countryInfo": {
             "_id": 512,
@@ -4800,7 +4800,7 @@
         "criticalPerOneMillion": 35.93
     },
     {
-        "updated": 1604068186534,
+        "updated": 1604089788292,
         "country": "Pakistan",
         "countryInfo": {
             "_id": 586,
@@ -4832,7 +4832,7 @@
         "criticalPerOneMillion": 2.84
     },
     {
-        "updated": 1604068186592,
+        "updated": 1604089788353,
         "country": "Palestine",
         "countryInfo": {
             "_id": 275,
@@ -4864,7 +4864,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186548,
+        "updated": 1604089788308,
         "country": "Panama",
         "countryInfo": {
             "_id": 591,
@@ -4896,7 +4896,7 @@
         "criticalPerOneMillion": 27.44
     },
     {
-        "updated": 1604068186711,
+        "updated": 1604089788462,
         "country": "Papua New Guinea",
         "countryInfo": {
             "_id": 598,
@@ -4928,7 +4928,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186580,
+        "updated": 1604089788338,
         "country": "Paraguay",
         "countryInfo": {
             "_id": 600,
@@ -4960,7 +4960,7 @@
         "criticalPerOneMillion": 16.62
     },
     {
-        "updated": 1604068186512,
+        "updated": 1604089788267,
         "country": "Peru",
         "countryInfo": {
             "_id": 604,
@@ -4992,7 +4992,7 @@
         "criticalPerOneMillion": 31.76
     },
     {
-        "updated": 1604068186525,
+        "updated": 1604089788284,
         "country": "Philippines",
         "countryInfo": {
             "_id": 608,
@@ -5024,7 +5024,7 @@
         "criticalPerOneMillion": 13.47
     },
     {
-        "updated": 1604068186533,
+        "updated": 1604089788291,
         "country": "Poland",
         "countryInfo": {
             "_id": 616,
@@ -5056,7 +5056,7 @@
         "criticalPerOneMillion": 33.15
     },
     {
-        "updated": 1604068186546,
+        "updated": 1604089788305,
         "country": "Portugal",
         "countryInfo": {
             "_id": 620,
@@ -5076,8 +5076,8 @@
         "critical": 275,
         "casesPerOneMillion": 13475,
         "deathsPerOneMillion": 242,
-        "tests": 3327220,
-        "testsPerOneMillion": 326621,
+        "tests": 3361537,
+        "testsPerOneMillion": 329990,
         "population": 10186799,
         "continent": "Europe",
         "oneCasePerPeople": 74,
@@ -5088,7 +5088,7 @@
         "criticalPerOneMillion": 27
     },
     {
-        "updated": 1604068186547,
+        "updated": 1604089788306,
         "country": "Qatar",
         "countryInfo": {
             "_id": 634,
@@ -5120,7 +5120,7 @@
         "criticalPerOneMillion": 13.89
     },
     {
-        "updated": 1604068186538,
+        "updated": 1604089788296,
         "country": "Romania",
         "countryInfo": {
             "_id": 642,
@@ -5152,7 +5152,7 @@
         "criticalPerOneMillion": 47.77
     },
     {
-        "updated": 1604068186495,
+        "updated": 1604089788257,
         "country": "Russia",
         "countryInfo": {
             "_id": 643,
@@ -5184,7 +5184,7 @@
         "criticalPerOneMillion": 15.76
     },
     {
-        "updated": 1604068186669,
+        "updated": 1604089788424,
         "country": "Rwanda",
         "countryInfo": {
             "_id": 646,
@@ -5194,29 +5194,29 @@
             "long": 30,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/rw.png"
         },
-        "cases": 5131,
-        "todayCases": 0,
+        "cases": 5134,
+        "todayCases": 3,
         "deaths": 35,
         "todayDeaths": 0,
-        "recovered": 4851,
-        "todayRecovered": 0,
-        "active": 245,
+        "recovered": 4878,
+        "todayRecovered": 27,
+        "active": 221,
         "critical": 0,
         "casesPerOneMillion": 393,
         "deathsPerOneMillion": 3,
-        "tests": 553876,
-        "testsPerOneMillion": 42425,
+        "tests": 555686,
+        "testsPerOneMillion": 42564,
         "population": 13055457,
         "continent": "Africa",
-        "oneCasePerPeople": 2544,
+        "oneCasePerPeople": 2543,
         "oneDeathPerPeople": 373013,
-        "oneTestPerPeople": 24,
-        "activePerOneMillion": 18.77,
-        "recoveredPerOneMillion": 371.57,
+        "oneTestPerPeople": 23,
+        "activePerOneMillion": 16.93,
+        "recoveredPerOneMillion": 373.64,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186665,
+        "updated": 1604089788419,
         "country": "R\u00e9union",
         "countryInfo": {
             "_id": 638,
@@ -5248,7 +5248,7 @@
         "criticalPerOneMillion": 11.14
     },
     {
-        "updated": 1604068186612,
+        "updated": 1604089788369,
         "country": "S. Korea",
         "countryInfo": {
             "_id": 410,
@@ -5280,7 +5280,7 @@
         "criticalPerOneMillion": 0.99
     },
     {
-        "updated": 1604068186746,
+        "updated": 1604089788497,
         "country": "Saint Kitts and Nevis",
         "countryInfo": {
             "_id": 659,
@@ -5312,7 +5312,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186736,
+        "updated": 1604089788487,
         "country": "Saint Lucia",
         "countryInfo": {
             "_id": 662,
@@ -5344,7 +5344,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186712,
+        "updated": 1604089788463,
         "country": "Saint Martin",
         "countryInfo": {
             "_id": 663,
@@ -5376,7 +5376,7 @@
         "criticalPerOneMillion": 308.64
     },
     {
-        "updated": 1604068186747,
+        "updated": 1604089788499,
         "country": "Saint Pierre Miquelon",
         "countryInfo": {
             "_id": 666,
@@ -5408,7 +5408,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186737,
+        "updated": 1604089788488,
         "country": "Saint Vincent and the Grenadines",
         "countryInfo": {
             "_id": 670,
@@ -5440,7 +5440,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186703,
+        "updated": 1604089788456,
         "country": "San Marino",
         "countryInfo": {
             "_id": 674,
@@ -5472,7 +5472,7 @@
         "criticalPerOneMillion": 88.35
     },
     {
-        "updated": 1604068186701,
+        "updated": 1604089788455,
         "country": "Sao Tome and Principe",
         "countryInfo": {
             "_id": 678,
@@ -5504,7 +5504,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186530,
+        "updated": 1604089788288,
         "country": "Saudi Arabia",
         "countryInfo": {
             "_id": 682,
@@ -5536,7 +5536,7 @@
         "criticalPerOneMillion": 21.89
     },
     {
-        "updated": 1604068186624,
+        "updated": 1604089788381,
         "country": "Senegal",
         "countryInfo": {
             "_id": 686,
@@ -5568,7 +5568,7 @@
         "criticalPerOneMillion": 0.36
     },
     {
-        "updated": 1604068186601,
+        "updated": 1604089788360,
         "country": "Serbia",
         "countryInfo": {
             "_id": 688,
@@ -5578,29 +5578,29 @@
             "long": 21,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/rs.png"
         },
-        "cases": 43592,
-        "todayCases": 0,
-        "deaths": 809,
-        "todayDeaths": 0,
+        "cases": 45137,
+        "todayCases": 1545,
+        "deaths": 814,
+        "todayDeaths": 5,
         "recovered": 31536,
         "todayRecovered": 0,
-        "active": 11247,
-        "critical": 44,
-        "casesPerOneMillion": 4996,
+        "active": 12787,
+        "critical": 47,
+        "casesPerOneMillion": 5173,
         "deathsPerOneMillion": 93,
-        "tests": 1318096,
-        "testsPerOneMillion": 151060,
+        "tests": 1329100,
+        "testsPerOneMillion": 152321,
         "population": 8725625,
         "continent": "Europe",
-        "oneCasePerPeople": 200,
-        "oneDeathPerPeople": 10786,
+        "oneCasePerPeople": 193,
+        "oneDeathPerPeople": 10719,
         "oneTestPerPeople": 7,
-        "activePerOneMillion": 1288.96,
+        "activePerOneMillion": 1465.45,
         "recoveredPerOneMillion": 3614.18,
-        "criticalPerOneMillion": 5.04
+        "criticalPerOneMillion": 5.39
     },
     {
-        "updated": 1604068186733,
+        "updated": 1604089788481,
         "country": "Seychelles",
         "countryInfo": {
             "_id": 690,
@@ -5632,7 +5632,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186691,
+        "updated": 1604089788445,
         "country": "Sierra Leone",
         "countryInfo": {
             "_id": 694,
@@ -5642,29 +5642,29 @@
             "long": -11.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/sl.png"
         },
-        "cases": 2362,
-        "todayCases": 0,
+        "cases": 2365,
+        "todayCases": 3,
         "deaths": 74,
         "todayDeaths": 0,
-        "recovered": 1795,
-        "todayRecovered": 0,
+        "recovered": 1798,
+        "todayRecovered": 3,
         "active": 493,
         "critical": 0,
-        "casesPerOneMillion": 294,
+        "casesPerOneMillion": 295,
         "deathsPerOneMillion": 9,
         "tests": 0,
         "testsPerOneMillion": 0,
         "population": 8029470,
         "continent": "Africa",
-        "oneCasePerPeople": 3399,
+        "oneCasePerPeople": 3395,
         "oneDeathPerPeople": 108506,
         "oneTestPerPeople": 0,
         "activePerOneMillion": 61.4,
-        "recoveredPerOneMillion": 223.55,
+        "recoveredPerOneMillion": 223.93,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186586,
+        "updated": 1604089788343,
         "country": "Singapore",
         "countryInfo": {
             "_id": 702,
@@ -5696,7 +5696,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186706,
+        "updated": 1604089788458,
         "country": "Sint Maarten",
         "countryInfo": {
             "_id": 534,
@@ -5728,7 +5728,7 @@
         "criticalPerOneMillion": 139.42
     },
     {
-        "updated": 1604068186589,
+        "updated": 1604089788349,
         "country": "Slovakia",
         "countryInfo": {
             "_id": 703,
@@ -5760,7 +5760,7 @@
         "criticalPerOneMillion": 37.54
     },
     {
-        "updated": 1604068186608,
+        "updated": 1604089788365,
         "country": "Slovenia",
         "countryInfo": {
             "_id": 705,
@@ -5792,7 +5792,7 @@
         "criticalPerOneMillion": 58.68
     },
     {
-        "updated": 1604068186752,
+        "updated": 1604089788504,
         "country": "Solomon Islands",
         "countryInfo": {
             "_id": 90,
@@ -5824,7 +5824,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186679,
+        "updated": 1604089788434,
         "country": "Somalia",
         "countryInfo": {
             "_id": 706,
@@ -5856,7 +5856,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186513,
+        "updated": 1604089788268,
         "country": "South Africa",
         "countryInfo": {
             "_id": 710,
@@ -5866,29 +5866,29 @@
             "long": 24,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/za.png"
         },
-        "cases": 721770,
-        "todayCases": 0,
-        "deaths": 19164,
-        "todayDeaths": 0,
-        "recovered": 649935,
-        "todayRecovered": 0,
-        "active": 52671,
+        "cases": 723682,
+        "todayCases": 1912,
+        "deaths": 19230,
+        "todayDeaths": 66,
+        "recovered": 653052,
+        "todayRecovered": 3117,
+        "active": 51400,
         "critical": 546,
-        "casesPerOneMillion": 12120,
-        "deathsPerOneMillion": 322,
-        "tests": 4777609,
-        "testsPerOneMillion": 80224,
+        "casesPerOneMillion": 12152,
+        "deathsPerOneMillion": 323,
+        "tests": 4800823,
+        "testsPerOneMillion": 80614,
         "population": 59553172,
         "continent": "Africa",
-        "oneCasePerPeople": 83,
-        "oneDeathPerPeople": 3108,
+        "oneCasePerPeople": 82,
+        "oneDeathPerPeople": 3097,
         "oneTestPerPeople": 12,
-        "activePerOneMillion": 884.44,
-        "recoveredPerOneMillion": 10913.52,
+        "activePerOneMillion": 863.09,
+        "recoveredPerOneMillion": 10965.86,
         "criticalPerOneMillion": 9.17
     },
     {
-        "updated": 1604068186688,
+        "updated": 1604089788441,
         "country": "South Sudan",
         "countryInfo": {
             "_id": 728,
@@ -5920,7 +5920,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186498,
+        "updated": 1604089788260,
         "country": "Spain",
         "countryInfo": {
             "_id": 724,
@@ -5930,29 +5930,29 @@
             "long": -4,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/es.png"
         },
-        "cases": 1238922,
-        "todayCases": 0,
-        "deaths": 35639,
-        "todayDeaths": 0,
+        "cases": 1264517,
+        "todayCases": 25595,
+        "deaths": 35878,
+        "todayDeaths": 239,
         "recovered": 0,
         "todayRecovered": 0,
-        "active": 1203283,
-        "critical": 2404,
-        "casesPerOneMillion": 26495,
-        "deathsPerOneMillion": 762,
+        "active": 1228639,
+        "critical": 2482,
+        "casesPerOneMillion": 27042,
+        "deathsPerOneMillion": 767,
         "tests": 16690076,
         "testsPerOneMillion": 356925,
         "population": 46760790,
         "continent": "Europe",
-        "oneCasePerPeople": 38,
-        "oneDeathPerPeople": 1312,
+        "oneCasePerPeople": 37,
+        "oneDeathPerPeople": 1303,
         "oneTestPerPeople": 3,
-        "activePerOneMillion": 25732.73,
+        "activePerOneMillion": 26274.98,
         "recoveredPerOneMillion": 0,
-        "criticalPerOneMillion": 51.41
+        "criticalPerOneMillion": 53.08
     },
     {
-        "updated": 1604068186641,
+        "updated": 1604089788398,
         "country": "Sri Lanka",
         "countryInfo": {
             "_id": 144,
@@ -5962,29 +5962,29 @@
             "long": 81,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/lk.png"
         },
-        "cases": 10105,
-        "todayCases": 314,
+        "cases": 10424,
+        "todayCases": 633,
         "deaths": 19,
         "todayDeaths": 0,
         "recovered": 4282,
         "todayRecovered": 140,
-        "active": 5804,
+        "active": 6123,
         "critical": 0,
-        "casesPerOneMillion": 471,
+        "casesPerOneMillion": 486,
         "deathsPerOneMillion": 0.9,
         "tests": 480838,
         "testsPerOneMillion": 22424,
         "population": 21442920,
         "continent": "Asia",
-        "oneCasePerPeople": 2122,
+        "oneCasePerPeople": 2057,
         "oneDeathPerPeople": 1128575,
         "oneTestPerPeople": 45,
-        "activePerOneMillion": 270.67,
+        "activePerOneMillion": 285.55,
         "recoveredPerOneMillion": 199.69,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186735,
+        "updated": 1604089788486,
         "country": "St. Barth",
         "countryInfo": {
             "_id": 652,
@@ -6016,7 +6016,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186626,
+        "updated": 1604089788384,
         "country": "Sudan",
         "countryInfo": {
             "_id": 729,
@@ -6048,7 +6048,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186668,
+        "updated": 1604089788423,
         "country": "Suriname",
         "countryInfo": {
             "_id": 740,
@@ -6080,7 +6080,7 @@
         "criticalPerOneMillion": 5.1
     },
     {
-        "updated": 1604068186656,
+        "updated": 1604089788413,
         "country": "Swaziland",
         "countryInfo": {
             "_id": 748,
@@ -6090,15 +6090,15 @@
             "long": 31.5,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/sz.png"
         },
-        "cases": 5899,
-        "todayCases": 0,
+        "cases": 5909,
+        "todayCases": 10,
         "deaths": 117,
         "todayDeaths": 0,
-        "recovered": 5542,
-        "todayRecovered": 0,
-        "active": 240,
+        "recovered": 5557,
+        "todayRecovered": 15,
+        "active": 235,
         "critical": 19,
-        "casesPerOneMillion": 5067,
+        "casesPerOneMillion": 5076,
         "deathsPerOneMillion": 101,
         "tests": 46202,
         "testsPerOneMillion": 39689,
@@ -6107,12 +6107,12 @@
         "oneCasePerPeople": 197,
         "oneDeathPerPeople": 9950,
         "oneTestPerPeople": 25,
-        "activePerOneMillion": 206.17,
-        "recoveredPerOneMillion": 4760.75,
+        "activePerOneMillion": 201.87,
+        "recoveredPerOneMillion": 4773.63,
         "criticalPerOneMillion": 16.32
     },
     {
-        "updated": 1604068186553,
+        "updated": 1604089788313,
         "country": "Sweden",
         "countryInfo": {
             "_id": 752,
@@ -6144,7 +6144,7 @@
         "criticalPerOneMillion": 5.83
     },
     {
-        "updated": 1604068186543,
+        "updated": 1604089788303,
         "country": "Switzerland",
         "countryInfo": {
             "_id": 756,
@@ -6156,27 +6156,27 @@
         },
         "cases": 154251,
         "todayCases": 9207,
-        "deaths": 2242,
-        "todayDeaths": 42,
+        "deaths": 2249,
+        "todayDeaths": 49,
         "recovered": 65200,
         "todayRecovered": 100,
-        "active": 86809,
+        "active": 86802,
         "critical": 211,
         "casesPerOneMillion": 17780,
-        "deathsPerOneMillion": 258,
+        "deathsPerOneMillion": 259,
         "tests": 1933386,
         "testsPerOneMillion": 222857,
         "population": 8675457,
         "continent": "Europe",
         "oneCasePerPeople": 56,
-        "oneDeathPerPeople": 3870,
+        "oneDeathPerPeople": 3857,
         "oneTestPerPeople": 4,
-        "activePerOneMillion": 10006.27,
+        "activePerOneMillion": 10005.47,
         "recoveredPerOneMillion": 7515.45,
         "criticalPerOneMillion": 24.32
     },
     {
-        "updated": 1604068186662,
+        "updated": 1604089788414,
         "country": "Syrian Arab Republic",
         "countryInfo": {
             "_id": 760,
@@ -6186,29 +6186,29 @@
             "long": 38,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/sy.png"
         },
-        "cases": 5633,
-        "todayCases": 0,
-        "deaths": 281,
-        "todayDeaths": 0,
-        "recovered": 1898,
-        "todayRecovered": 0,
-        "active": 3454,
+        "cases": 5683,
+        "todayCases": 50,
+        "deaths": 285,
+        "todayDeaths": 4,
+        "recovered": 1937,
+        "todayRecovered": 39,
+        "active": 3461,
         "critical": 0,
-        "casesPerOneMillion": 319,
+        "casesPerOneMillion": 322,
         "deathsPerOneMillion": 16,
         "tests": 0,
         "testsPerOneMillion": 0,
         "population": 17637454,
         "continent": "Asia",
-        "oneCasePerPeople": 3131,
-        "oneDeathPerPeople": 62767,
+        "oneCasePerPeople": 3104,
+        "oneDeathPerPeople": 61886,
         "oneTestPerPeople": 0,
-        "activePerOneMillion": 195.83,
-        "recoveredPerOneMillion": 107.61,
+        "activePerOneMillion": 196.23,
+        "recoveredPerOneMillion": 109.82,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186714,
+        "updated": 1604089788465,
         "country": "Taiwan",
         "countryInfo": {
             "_id": 158,
@@ -6240,7 +6240,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186636,
+        "updated": 1604089788394,
         "country": "Tajikistan",
         "countryInfo": {
             "_id": 762,
@@ -6272,7 +6272,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186718,
+        "updated": 1604089788468,
         "country": "Tanzania",
         "countryInfo": {
             "_id": 834,
@@ -6304,7 +6304,7 @@
         "criticalPerOneMillion": 0.12
     },
     {
-        "updated": 1604068186680,
+        "updated": 1604089788435,
         "country": "Thailand",
         "countryInfo": {
             "_id": 764,
@@ -6336,7 +6336,7 @@
         "criticalPerOneMillion": 0.01
     },
     {
-        "updated": 1604068186741,
+        "updated": 1604089788492,
         "country": "Timor-Leste",
         "countryInfo": {
             "_id": 626,
@@ -6368,7 +6368,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186692,
+        "updated": 1604089788447,
         "country": "Togo",
         "countryInfo": {
             "_id": 768,
@@ -6400,7 +6400,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186661,
+        "updated": 1604089788416,
         "country": "Trinidad and Tobago",
         "countryInfo": {
             "_id": 780,
@@ -6432,7 +6432,7 @@
         "criticalPerOneMillion": 9.99
     },
     {
-        "updated": 1604068186585,
+        "updated": 1604089788342,
         "country": "Tunisia",
         "countryInfo": {
             "_id": 788,
@@ -6464,7 +6464,7 @@
         "criticalPerOneMillion": 19.31
     },
     {
-        "updated": 1604068186529,
+        "updated": 1604089788287,
         "country": "Turkey",
         "countryInfo": {
             "_id": 792,
@@ -6474,29 +6474,29 @@
             "long": 35,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/tr.png"
         },
-        "cases": 370832,
-        "todayCases": 0,
-        "deaths": 10099,
-        "todayDeaths": 0,
-        "recovered": 320762,
-        "todayRecovered": 0,
-        "active": 39971,
-        "critical": 1916,
-        "casesPerOneMillion": 4381,
-        "deathsPerOneMillion": 119,
-        "tests": 13741180,
-        "testsPerOneMillion": 162355,
+        "cases": 373154,
+        "todayCases": 2322,
+        "deaths": 10177,
+        "todayDeaths": 78,
+        "recovered": 322465,
+        "todayRecovered": 1703,
+        "active": 40512,
+        "critical": 1966,
+        "casesPerOneMillion": 4409,
+        "deathsPerOneMillion": 120,
+        "tests": 13877705,
+        "testsPerOneMillion": 163968,
         "population": 84636500,
         "continent": "Asia",
-        "oneCasePerPeople": 228,
-        "oneDeathPerPeople": 8381,
+        "oneCasePerPeople": 227,
+        "oneDeathPerPeople": 8316,
         "oneTestPerPeople": 6,
-        "activePerOneMillion": 472.27,
-        "recoveredPerOneMillion": 3789.88,
-        "criticalPerOneMillion": 22.64
+        "activePerOneMillion": 478.66,
+        "recoveredPerOneMillion": 3810,
+        "criticalPerOneMillion": 23.23
     },
     {
-        "updated": 1604068186709,
+        "updated": 1604089788460,
         "country": "Turks and Caicos Islands",
         "countryInfo": {
             "_id": 796,
@@ -6528,7 +6528,7 @@
         "criticalPerOneMillion": 25.71
     },
     {
-        "updated": 1604068186550,
+        "updated": 1604089788309,
         "country": "UAE",
         "countryInfo": {
             "_id": 784,
@@ -6560,7 +6560,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186509,
+        "updated": 1604089788264,
         "country": "UK",
         "countryInfo": {
             "_id": 826,
@@ -6570,29 +6570,29 @@
             "long": -2,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/gb.png"
         },
-        "cases": 965340,
-        "todayCases": 0,
-        "deaths": 45955,
-        "todayDeaths": 0,
+        "cases": 989745,
+        "todayCases": 24405,
+        "deaths": 46229,
+        "todayDeaths": 274,
         "recovered": 0,
         "todayRecovered": 0,
-        "active": 919385,
-        "critical": 957,
-        "casesPerOneMillion": 14195,
-        "deathsPerOneMillion": 676,
-        "tests": 33089838,
-        "testsPerOneMillion": 486589,
+        "active": 943516,
+        "critical": 975,
+        "casesPerOneMillion": 14554,
+        "deathsPerOneMillion": 680,
+        "tests": 33470217,
+        "testsPerOneMillion": 492182,
         "population": 68003706,
         "continent": "Europe",
-        "oneCasePerPeople": 70,
-        "oneDeathPerPeople": 1480,
+        "oneCasePerPeople": 69,
+        "oneDeathPerPeople": 1471,
         "oneTestPerPeople": 2,
-        "activePerOneMillion": 13519.63,
+        "activePerOneMillion": 13874.48,
         "recoveredPerOneMillion": 0,
-        "criticalPerOneMillion": 14.07
+        "criticalPerOneMillion": 14.34
     },
     {
-        "updated": 1604068186491,
+        "updated": 1604089788253,
         "country": "USA",
         "countryInfo": {
             "_id": 840,
@@ -6602,29 +6602,29 @@
             "long": -97,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/us.png"
         },
-        "cases": 9219674,
-        "todayCases": 6907,
-        "deaths": 234244,
-        "todayDeaths": 67,
-        "recovered": 5985217,
-        "todayRecovered": 1872,
-        "active": 3000213,
-        "critical": 16931,
-        "casesPerOneMillion": 27800,
-        "deathsPerOneMillion": 706,
-        "tests": 141759259,
-        "testsPerOneMillion": 427446,
+        "cases": 9275837,
+        "todayCases": 63070,
+        "deaths": 234811,
+        "todayDeaths": 634,
+        "recovered": 6005664,
+        "todayRecovered": 22319,
+        "active": 3035362,
+        "critical": 16946,
+        "casesPerOneMillion": 27969,
+        "deathsPerOneMillion": 708,
+        "tests": 142346036,
+        "testsPerOneMillion": 429215,
         "population": 331642770,
         "continent": "North America",
         "oneCasePerPeople": 36,
-        "oneDeathPerPeople": 1416,
+        "oneDeathPerPeople": 1412,
         "oneTestPerPeople": 2,
-        "activePerOneMillion": 9046.52,
-        "recoveredPerOneMillion": 18047.18,
-        "criticalPerOneMillion": 51.05
+        "activePerOneMillion": 9152.5,
+        "recoveredPerOneMillion": 18108.83,
+        "criticalPerOneMillion": 51.1
     },
     {
-        "updated": 1604068186630,
+        "updated": 1604089788387,
         "country": "Uganda",
         "countryInfo": {
             "_id": 800,
@@ -6634,29 +6634,29 @@
             "long": 32,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/ug.png"
         },
-        "cases": 12201,
-        "todayCases": 0,
-        "deaths": 108,
-        "todayDeaths": 0,
-        "recovered": 7461,
-        "todayRecovered": 0,
-        "active": 4632,
+        "cases": 12410,
+        "todayCases": 209,
+        "deaths": 110,
+        "todayDeaths": 2,
+        "recovered": 7503,
+        "todayRecovered": 42,
+        "active": 4797,
         "critical": 0,
-        "casesPerOneMillion": 264,
+        "casesPerOneMillion": 269,
         "deathsPerOneMillion": 2,
-        "tests": 544657,
-        "testsPerOneMillion": 11789,
+        "tests": 547279,
+        "testsPerOneMillion": 11846,
         "population": 46200987,
         "continent": "Africa",
-        "oneCasePerPeople": 3787,
-        "oneDeathPerPeople": 427787,
-        "oneTestPerPeople": 85,
-        "activePerOneMillion": 100.26,
-        "recoveredPerOneMillion": 161.49,
+        "oneCasePerPeople": 3723,
+        "oneDeathPerPeople": 420009,
+        "oneTestPerPeople": 84,
+        "activePerOneMillion": 103.83,
+        "recoveredPerOneMillion": 162.4,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186528,
+        "updated": 1604089788286,
         "country": "Ukraine",
         "countryInfo": {
             "_id": 804,
@@ -6688,7 +6688,7 @@
         "criticalPerOneMillion": 4.06
     },
     {
-        "updated": 1604068186686,
+        "updated": 1604089788439,
         "country": "Uruguay",
         "countryInfo": {
             "_id": 858,
@@ -6720,7 +6720,7 @@
         "criticalPerOneMillion": 3.16
     },
     {
-        "updated": 1604068186574,
+        "updated": 1604089788335,
         "country": "Uzbekistan",
         "countryInfo": {
             "_id": 860,
@@ -6730,29 +6730,29 @@
             "long": 64,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/uz.png"
         },
-        "cases": 66542,
-        "todayCases": 150,
-        "deaths": 562,
-        "todayDeaths": 1,
-        "recovered": 63713,
-        "todayRecovered": 132,
-        "active": 2267,
+        "cases": 66628,
+        "todayCases": 236,
+        "deaths": 563,
+        "todayDeaths": 2,
+        "recovered": 63864,
+        "todayRecovered": 283,
+        "active": 2201,
         "critical": 252,
-        "casesPerOneMillion": 1979,
+        "casesPerOneMillion": 1981,
         "deathsPerOneMillion": 17,
         "tests": 1377915,
         "testsPerOneMillion": 40976,
         "population": 33627397,
         "continent": "Asia",
         "oneCasePerPeople": 505,
-        "oneDeathPerPeople": 59835,
+        "oneDeathPerPeople": 59729,
         "oneTestPerPeople": 24,
-        "activePerOneMillion": 67.42,
-        "recoveredPerOneMillion": 1894.68,
+        "activePerOneMillion": 65.45,
+        "recoveredPerOneMillion": 1899.17,
         "criticalPerOneMillion": 7.49
     },
     {
-        "updated": 1604068186567,
+        "updated": 1604089788328,
         "country": "Venezuela",
         "countryInfo": {
             "_id": 862,
@@ -6784,7 +6784,7 @@
         "criticalPerOneMillion": 4.12
     },
     {
-        "updated": 1604068186700,
+        "updated": 1604089788454,
         "country": "Vietnam",
         "countryInfo": {
             "_id": 704,
@@ -6816,7 +6816,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186754,
+        "updated": 1604089788506,
         "country": "Wallis and Futuna",
         "countryInfo": {
             "_id": 876,
@@ -6848,7 +6848,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186750,
+        "updated": 1604089788502,
         "country": "Western Sahara",
         "countryInfo": {
             "_id": 732,
@@ -6880,7 +6880,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186693,
+        "updated": 1604089788448,
         "country": "Yemen",
         "countryInfo": {
             "_id": 887,
@@ -6912,7 +6912,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186621,
+        "updated": 1604089788379,
         "country": "Zambia",
         "countryInfo": {
             "_id": 894,
@@ -6922,29 +6922,29 @@
             "long": 30,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/zm.png"
         },
-        "cases": 16325,
-        "todayCases": 0,
-        "deaths": 348,
-        "todayDeaths": 0,
-        "recovered": 15585,
-        "todayRecovered": 0,
-        "active": 392,
+        "cases": 16415,
+        "todayCases": 90,
+        "deaths": 349,
+        "todayDeaths": 1,
+        "recovered": 15600,
+        "todayRecovered": 15,
+        "active": 466,
         "critical": 0,
-        "casesPerOneMillion": 880,
+        "casesPerOneMillion": 885,
         "deathsPerOneMillion": 19,
-        "tests": 249204,
-        "testsPerOneMillion": 13435,
+        "tests": 256047,
+        "testsPerOneMillion": 13804,
         "population": 18548750,
         "continent": "Africa",
-        "oneCasePerPeople": 1136,
-        "oneDeathPerPeople": 53301,
-        "oneTestPerPeople": 74,
-        "activePerOneMillion": 21.13,
-        "recoveredPerOneMillion": 840.22,
+        "oneCasePerPeople": 1130,
+        "oneDeathPerPeople": 53148,
+        "oneTestPerPeople": 72,
+        "activePerOneMillion": 25.12,
+        "recoveredPerOneMillion": 841.03,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1604068186646,
+        "updated": 1604089788403,
         "country": "Zimbabwe",
         "countryInfo": {
             "_id": 716,
@@ -6954,25 +6954,25 @@
             "long": 30,
             "flag": "https:\/\/disease.sh\/assets\/img\/flags\/zw.png"
         },
-        "cases": 8349,
-        "todayCases": 0,
+        "cases": 8362,
+        "todayCases": 13,
         "deaths": 242,
         "todayDeaths": 0,
-        "recovered": 7864,
-        "todayRecovered": 0,
-        "active": 243,
+        "recovered": 7884,
+        "todayRecovered": 20,
+        "active": 236,
         "critical": 0,
-        "casesPerOneMillion": 559,
+        "casesPerOneMillion": 560,
         "deathsPerOneMillion": 16,
         "tests": 163656,
         "testsPerOneMillion": 10959,
         "population": 14933481,
         "continent": "Africa",
-        "oneCasePerPeople": 1789,
+        "oneCasePerPeople": 1786,
         "oneDeathPerPeople": 61709,
         "oneTestPerPeople": 91,
-        "activePerOneMillion": 16.27,
-        "recoveredPerOneMillion": 526.6,
+        "activePerOneMillion": 15.8,
+        "recoveredPerOneMillion": 527.94,
         "criticalPerOneMillion": 0
     }
 ]
