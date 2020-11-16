@@ -1,6 +1,6 @@
 [
     {
-        "updated": 1605528060657,
+        "updated": 1605528662404,
         "country": "Afghanistan",
         "cases": 43403,
         "todayCases": 163,
@@ -24,7 +24,7 @@
         "criticalPerOneMillion": 2.37
     },
     {
-        "updated": 1605528060664,
+        "updated": 1605528662411,
         "country": "Albania",
         "cases": 27830,
         "todayCases": 0,
@@ -48,7 +48,7 @@
         "criticalPerOneMillion": 5.91
     },
     {
-        "updated": 1605528060646,
+        "updated": 1605528662394,
         "country": "Algeria",
         "cases": 67679,
         "todayCases": 0,
@@ -72,7 +72,7 @@
         "criticalPerOneMillion": 1
     },
     {
-        "updated": 1605528060714,
+        "updated": 1605528662459,
         "country": "Andorra",
         "cases": 5872,
         "todayCases": 0,
@@ -96,7 +96,7 @@
         "criticalPerOneMillion": 258.69
     },
     {
-        "updated": 1605528060684,
+        "updated": 1605528662431,
         "country": "Angola",
         "cases": 13451,
         "todayCases": 0,
@@ -120,7 +120,7 @@
         "criticalPerOneMillion": 0.84
     },
     {
-        "updated": 1605528060799,
+        "updated": 1605528662542,
         "country": "Anguilla",
         "cases": 3,
         "todayCases": 0,
@@ -144,7 +144,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060780,
+        "updated": 1605528662523,
         "country": "Antigua and Barbuda",
         "cases": 134,
         "todayCases": 0,
@@ -168,7 +168,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060563,
+        "updated": 1605528662298,
         "country": "Argentina",
         "cases": 1310491,
         "todayCases": 0,
@@ -192,7 +192,7 @@
         "criticalPerOneMillion": 96.25
     },
     {
-        "updated": 1605528060614,
+        "updated": 1605528662362,
         "country": "Armenia",
         "cases": 117886,
         "todayCases": 549,
@@ -216,7 +216,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060727,
+        "updated": 1605528662473,
         "country": "Aruba",
         "cases": 4662,
         "todayCases": 0,
@@ -240,7 +240,7 @@
         "criticalPerOneMillion": 37.41
     },
     {
-        "updated": 1605528060666,
+        "updated": 1605528662412,
         "country": "Australia",
         "cases": 27750,
         "todayCases": 22,
@@ -264,7 +264,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060596,
+        "updated": 1605528662344,
         "country": "Austria",
         "cases": 208613,
         "todayCases": 4657,
@@ -288,7 +288,7 @@
         "criticalPerOneMillion": 67.81
     },
     {
-        "updated": 1605528060634,
+        "updated": 1605528662382,
         "country": "Azerbaijan",
         "cases": 75688,
         "todayCases": 0,
@@ -312,7 +312,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060707,
+        "updated": 1605528662453,
         "country": "Bahamas",
         "cases": 7186,
         "todayCases": 0,
@@ -336,7 +336,7 @@
         "criticalPerOneMillion": 7.6
     },
     {
-        "updated": 1605528060630,
+        "updated": 1605528662378,
         "country": "Bahrain",
         "cases": 84703,
         "todayCases": 0,
@@ -360,7 +360,7 @@
         "criticalPerOneMillion": 12.19
     },
     {
-        "updated": 1605528060582,
+        "updated": 1605528662324,
         "country": "Bangladesh",
         "cases": 434472,
         "todayCases": 2139,
@@ -384,7 +384,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060773,
+        "updated": 1605528662517,
         "country": "Barbados",
         "cases": 250,
         "todayCases": 0,
@@ -408,7 +408,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060617,
+        "updated": 1605528662366,
         "country": "Belarus",
         "cases": 114185,
         "todayCases": 0,
@@ -432,7 +432,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060575,
+        "updated": 1605528662312,
         "country": "Belgium",
         "cases": 535939,
         "todayCases": 4659,
@@ -456,7 +456,7 @@
         "criticalPerOneMillion": 123.96
     },
     {
-        "updated": 1605528060725,
+        "updated": 1605528662470,
         "country": "Belize",
         "cases": 4861,
         "todayCases": 78,
@@ -480,31 +480,31 @@
         "criticalPerOneMillion": 9.99
     },
     {
-        "updated": 1605528060734,
+        "updated": 1605528662480,
         "country": "Benin",
-        "cases": 2844,
-        "todayCases": 0,
+        "cases": 2884,
+        "todayCases": 40,
         "deaths": 43,
         "todayDeaths": 0,
-        "recovered": 2515,
-        "todayRecovered": 0,
-        "active": 286,
+        "recovered": 2579,
+        "todayRecovered": 64,
+        "active": 262,
         "critical": 0,
-        "casesPerOneMillion": 232,
+        "casesPerOneMillion": 236,
         "deathsPerOneMillion": 4,
-        "tests": 269280,
-        "testsPerOneMillion": 22000,
+        "tests": 294009,
+        "testsPerOneMillion": 24021,
         "population": 12239900,
         "continent": "Africa",
-        "oneCasePerPeople": 4304,
+        "oneCasePerPeople": 4244,
         "oneDeathPerPeople": 284649,
-        "oneTestPerPeople": 45,
-        "activePerOneMillion": 23.37,
-        "recoveredPerOneMillion": 205.48,
+        "oneTestPerPeople": 42,
+        "activePerOneMillion": 21.41,
+        "recoveredPerOneMillion": 210.7,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060774,
+        "updated": 1605528662517,
         "country": "Bermuda",
         "cases": 222,
         "todayCases": 0,
@@ -528,7 +528,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060768,
+        "updated": 1605528662512,
         "country": "Bhutan",
         "cases": 375,
         "todayCases": 0,
@@ -552,7 +552,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060605,
+        "updated": 1605528662353,
         "country": "Bolivia",
         "cases": 143246,
         "todayCases": 65,
@@ -576,7 +576,7 @@
         "criticalPerOneMillion": 6.05
     },
     {
-        "updated": 1605528060638,
+        "updated": 1605528662387,
         "country": "Bosnia",
         "cases": 71956,
         "todayCases": 0,
@@ -600,7 +600,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060699,
+        "updated": 1605528662446,
         "country": "Botswana",
         "cases": 8225,
         "todayCases": 0,
@@ -624,7 +624,7 @@
         "criticalPerOneMillion": 0.42
     },
     {
-        "updated": 1605528060557,
+        "updated": 1605528662286,
         "country": "Brazil",
         "cases": 5863093,
         "todayCases": 0,
@@ -648,7 +648,7 @@
         "criticalPerOneMillion": 39.03
     },
     {
-        "updated": 1605528060783,
+        "updated": 1605528662526,
         "country": "British Virgin Islands",
         "cases": 71,
         "todayCases": 0,
@@ -672,7 +672,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060779,
+        "updated": 1605528662523,
         "country": "Brunei",
         "cases": 148,
         "todayCases": 0,
@@ -696,7 +696,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060623,
+        "updated": 1605528662372,
         "country": "Bulgaria",
         "cases": 98251,
         "todayCases": 0,
@@ -720,7 +720,7 @@
         "criticalPerOneMillion": 42.29
     },
     {
-        "updated": 1605528060736,
+        "updated": 1605528662482,
         "country": "Burkina Faso",
         "cases": 2641,
         "todayCases": 0,
@@ -744,7 +744,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060756,
+        "updated": 1605528662503,
         "country": "Burundi",
         "cases": 628,
         "todayCases": 0,
@@ -768,7 +768,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060695,
+        "updated": 1605528662442,
         "country": "Cabo Verde",
         "cases": 9822,
         "todayCases": 0,
@@ -792,7 +792,7 @@
         "criticalPerOneMillion": 41.2
     },
     {
-        "updated": 1605528060770,
+        "updated": 1605528662514,
         "country": "Cambodia",
         "cases": 302,
         "todayCases": 0,
@@ -816,7 +816,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060670,
+        "updated": 1605528662415,
         "country": "Cameroon",
         "cases": 22692,
         "todayCases": 0,
@@ -840,7 +840,7 @@
         "criticalPerOneMillion": 1.53
     },
     {
-        "updated": 1605528060590,
+        "updated": 1605528662333,
         "country": "Canada",
         "cases": 296077,
         "todayCases": 0,
@@ -864,7 +864,7 @@
         "criticalPerOneMillion": 8.82
     },
     {
-        "updated": 1605528060779,
+        "updated": 1605528662522,
         "country": "Caribbean Netherlands",
         "cases": 155,
         "todayCases": 0,
@@ -888,7 +888,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060772,
+        "updated": 1605528662516,
         "country": "Cayman Islands",
         "cases": 254,
         "todayCases": 0,
@@ -912,7 +912,7 @@
         "criticalPerOneMillion": 15.15
     },
     {
-        "updated": 1605528060724,
+        "updated": 1605528662469,
         "country": "Central African Republic",
         "cases": 4900,
         "todayCases": 0,
@@ -936,7 +936,7 @@
         "criticalPerOneMillion": 0.41
     },
     {
-        "updated": 1605528060743,
+        "updated": 1605528662489,
         "country": "Chad",
         "cases": 1597,
         "todayCases": 0,
@@ -960,7 +960,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060749,
+        "updated": 1605528662495,
         "country": "Channel Islands",
         "cases": 1003,
         "todayCases": 0,
@@ -984,7 +984,7 @@
         "criticalPerOneMillion": 57.32
     },
     {
-        "updated": 1605528060576,
+        "updated": 1605528662315,
         "country": "Chile",
         "cases": 531273,
         "todayCases": 0,
@@ -1008,7 +1008,7 @@
         "criticalPerOneMillion": 37.6
     },
     {
-        "updated": 1605528060803,
+        "updated": 1605528662545,
         "country": "China",
         "cases": 86346,
         "todayCases": 8,
@@ -1032,7 +1032,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060564,
+        "updated": 1605528662299,
         "country": "Colombia",
         "cases": 1198746,
         "todayCases": 0,
@@ -1056,7 +1056,7 @@
         "criticalPerOneMillion": 46.51
     },
     {
-        "updated": 1605528060760,
+        "updated": 1605528662506,
         "country": "Comoros",
         "cases": 579,
         "todayCases": 0,
@@ -1080,7 +1080,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060717,
+        "updated": 1605528662462,
         "country": "Congo",
         "cases": 5515,
         "todayCases": 0,
@@ -1104,7 +1104,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060609,
+        "updated": 1605528662358,
         "country": "Costa Rica",
         "cases": 123223,
         "todayCases": 0,
@@ -1128,7 +1128,7 @@
         "criticalPerOneMillion": 39.71
     },
     {
-        "updated": 1605528060629,
+        "updated": 1605528662377,
         "country": "Croatia",
         "cases": 85519,
         "todayCases": 1313,
@@ -1152,7 +1152,7 @@
         "criticalPerOneMillion": 46.64
     },
     {
-        "updated": 1605528060706,
+        "updated": 1605528662452,
         "country": "Cuba",
         "cases": 7590,
         "todayCases": 0,
@@ -1176,7 +1176,7 @@
         "criticalPerOneMillion": 0.18
     },
     {
-        "updated": 1605528060744,
+        "updated": 1605528662491,
         "country": "Cura\u00e7ao",
         "cases": 1340,
         "todayCases": 0,
@@ -1200,7 +1200,7 @@
         "criticalPerOneMillion": 6.08
     },
     {
-        "updated": 1605528060708,
+        "updated": 1605528662453,
         "country": "Cyprus",
         "cases": 7178,
         "todayCases": 0,
@@ -1224,7 +1224,7 @@
         "criticalPerOneMillion": 5.78
     },
     {
-        "updated": 1605528060580,
+        "updated": 1605528662322,
         "country": "Czechia",
         "cases": 460116,
         "todayCases": 0,
@@ -1248,7 +1248,7 @@
         "criticalPerOneMillion": 103.58
     },
     {
-        "updated": 1605528060671,
+        "updated": 1605528662416,
         "country": "C\u00f4te d'Ivoire",
         "cases": 20976,
         "todayCases": 0,
@@ -1272,7 +1272,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060687,
+        "updated": 1605528662434,
         "country": "DRC",
         "cases": 11760,
         "todayCases": 0,
@@ -1296,7 +1296,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060650,
+        "updated": 1605528662398,
         "country": "Denmark",
         "cases": 62136,
         "todayCases": 0,
@@ -1320,7 +1320,7 @@
         "criticalPerOneMillion": 7.76
     },
     {
-        "updated": 1605528060754,
+        "updated": 1605528662501,
         "country": "Diamond Princess",
         "cases": 712,
         "todayCases": 0,
@@ -1344,7 +1344,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060716,
+        "updated": 1605528662461,
         "country": "Djibouti",
         "cases": 5649,
         "todayCases": 0,
@@ -1368,7 +1368,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060784,
+        "updated": 1605528662527,
         "country": "Dominica",
         "cases": 68,
         "todayCases": 0,
@@ -1392,7 +1392,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060608,
+        "updated": 1605528662357,
         "country": "Dominican Republic",
         "cases": 133724,
         "todayCases": 0,
@@ -1416,7 +1416,7 @@
         "criticalPerOneMillion": 17.36
     },
     {
-        "updated": 1605528060597,
+        "updated": 1605528662345,
         "country": "Ecuador",
         "cases": 180295,
         "todayCases": 0,
@@ -1440,7 +1440,7 @@
         "criticalPerOneMillion": 19.95
     },
     {
-        "updated": 1605528060618,
+        "updated": 1605528662367,
         "country": "Egypt",
         "cases": 110767,
         "todayCases": 0,
@@ -1464,7 +1464,7 @@
         "criticalPerOneMillion": 0.45
     },
     {
-        "updated": 1605528060658,
+        "updated": 1605528662405,
         "country": "El Salvador",
         "cases": 36669,
         "todayCases": 153,
@@ -1488,7 +1488,7 @@
         "criticalPerOneMillion": 7.08
     },
     {
-        "updated": 1605528060721,
+        "updated": 1605528662467,
         "country": "Equatorial Guinea",
         "cases": 5104,
         "todayCases": 0,
@@ -1512,7 +1512,7 @@
         "criticalPerOneMillion": 0.7
     },
     {
-        "updated": 1605528060765,
+        "updated": 1605528662510,
         "country": "Eritrea",
         "cases": 493,
         "todayCases": 0,
@@ -1536,7 +1536,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060705,
+        "updated": 1605528662451,
         "country": "Estonia",
         "cases": 7848,
         "todayCases": 211,
@@ -1560,7 +1560,7 @@
         "criticalPerOneMillion": 9.04
     },
     {
-        "updated": 1605528060622,
+        "updated": 1605528662371,
         "country": "Ethiopia",
         "cases": 102720,
         "todayCases": 0,
@@ -1584,7 +1584,7 @@
         "criticalPerOneMillion": 2.75
     },
     {
-        "updated": 1605528060795,
+        "updated": 1605528662538,
         "country": "Falkland Islands (Malvinas)",
         "cases": 15,
         "todayCases": 0,
@@ -1608,7 +1608,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060764,
+        "updated": 1605528662509,
         "country": "Faroe Islands",
         "cases": 498,
         "todayCases": 0,
@@ -1632,7 +1632,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060786,
+        "updated": 1605528662529,
         "country": "Fiji",
         "cases": 35,
         "todayCases": 0,
@@ -1656,7 +1656,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060672,
+        "updated": 1605528662417,
         "country": "Finland",
         "cases": 19419,
         "todayCases": 104,
@@ -1680,7 +1680,7 @@
         "criticalPerOneMillion": 2.34
     },
     {
-        "updated": 1605528060558,
+        "updated": 1605528662287,
         "country": "France",
         "cases": 1981827,
         "todayCases": 0,
@@ -1704,7 +1704,7 @@
         "criticalPerOneMillion": 74.94
     },
     {
-        "updated": 1605528060692,
+        "updated": 1605528662439,
         "country": "French Guiana",
         "cases": 10844,
         "todayCases": 0,
@@ -1728,7 +1728,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060688,
+        "updated": 1605528662435,
         "country": "French Polynesia",
         "cases": 11706,
         "todayCases": 0,
@@ -1752,7 +1752,7 @@
         "criticalPerOneMillion": 92.36
     },
     {
-        "updated": 1605528060697,
+        "updated": 1605528662444,
         "country": "Gabon",
         "cases": 9062,
         "todayCases": 0,
@@ -1776,7 +1776,7 @@
         "criticalPerOneMillion": 3.12
     },
     {
-        "updated": 1605528060732,
+        "updated": 1605528662478,
         "country": "Gambia",
         "cases": 3702,
         "todayCases": 0,
@@ -1800,7 +1800,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060632,
+        "updated": 1605528662380,
         "country": "Georgia",
         "cases": 82835,
         "todayCases": 3157,
@@ -1824,7 +1824,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060569,
+        "updated": 1605528662305,
         "country": "Germany",
         "cases": 804546,
         "todayCases": 1602,
@@ -1848,7 +1848,7 @@
         "criticalPerOneMillion": 40.35
     },
     {
-        "updated": 1605528060654,
+        "updated": 1605528662401,
         "country": "Ghana",
         "cases": 50123,
         "todayCases": 0,
@@ -1872,7 +1872,7 @@
         "criticalPerOneMillion": 0.51
     },
     {
-        "updated": 1605528060752,
+        "updated": 1605528662499,
         "country": "Gibraltar",
         "cases": 907,
         "todayCases": 5,
@@ -1896,7 +1896,7 @@
         "criticalPerOneMillion": 237.48
     },
     {
-        "updated": 1605528060636,
+        "updated": 1605528662385,
         "country": "Greece",
         "cases": 74205,
         "todayCases": 0,
@@ -1920,7 +1920,7 @@
         "criticalPerOneMillion": 37.68
     },
     {
-        "updated": 1605528060792,
+        "updated": 1605528662535,
         "country": "Greenland",
         "cases": 18,
         "todayCases": 0,
@@ -1944,7 +1944,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060787,
+        "updated": 1605528662530,
         "country": "Grenada",
         "cases": 32,
         "todayCases": 0,
@@ -1968,7 +1968,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060703,
+        "updated": 1605528662449,
         "country": "Guadeloupe",
         "cases": 8098,
         "todayCases": 0,
@@ -1992,7 +1992,7 @@
         "criticalPerOneMillion": 37.49
     },
     {
-        "updated": 1605528060616,
+        "updated": 1605528662365,
         "country": "Guatemala",
         "cases": 114885,
         "todayCases": 0,
@@ -2016,7 +2016,7 @@
         "criticalPerOneMillion": 0.28
     },
     {
-        "updated": 1605528060685,
+        "updated": 1605528662432,
         "country": "Guinea",
         "cases": 12624,
         "todayCases": 13,
@@ -2040,7 +2040,7 @@
         "criticalPerOneMillion": 1.81
     },
     {
-        "updated": 1605528060737,
+        "updated": 1605528662482,
         "country": "Guinea-Bissau",
         "cases": 2419,
         "todayCases": 0,
@@ -2064,7 +2064,7 @@
         "criticalPerOneMillion": 2.52
     },
     {
-        "updated": 1605528060725,
+        "updated": 1605528662471,
         "country": "Guyana",
         "cases": 4823,
         "todayCases": 0,
@@ -2088,7 +2088,7 @@
         "criticalPerOneMillion": 11.42
     },
     {
-        "updated": 1605528060696,
+        "updated": 1605528662443,
         "country": "Haiti",
         "cases": 9168,
         "todayCases": 0,
@@ -2112,7 +2112,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060790,
+        "updated": 1605528662532,
         "country": "Holy See (Vatican City State)",
         "cases": 27,
         "todayCases": 0,
@@ -2136,7 +2136,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060620,
+        "updated": 1605528662369,
         "country": "Honduras",
         "cases": 103102,
         "todayCases": 547,
@@ -2160,7 +2160,7 @@
         "criticalPerOneMillion": 2.11
     },
     {
-        "updated": 1605528060718,
+        "updated": 1605528662463,
         "country": "Hong Kong",
         "cases": 5467,
         "todayCases": 8,
@@ -2184,7 +2184,7 @@
         "criticalPerOneMillion": 0.93
     },
     {
-        "updated": 1605528060601,
+        "updated": 1605528662349,
         "country": "Hungary",
         "cases": 147456,
         "todayCases": 6495,
@@ -2208,7 +2208,7 @@
         "criticalPerOneMillion": 60.3
     },
     {
-        "updated": 1605528060721,
+        "updated": 1605528662466,
         "country": "Iceland",
         "cases": 5189,
         "todayCases": 0,
@@ -2232,31 +2232,31 @@
         "criticalPerOneMillion": 8.77
     },
     {
-        "updated": 1605528060555,
+        "updated": 1605528662284,
         "country": "India",
-        "cases": 8845617,
-        "todayCases": 0,
-        "deaths": 130109,
-        "todayDeaths": 0,
-        "recovered": 8249579,
-        "todayRecovered": 1629,
-        "active": 465929,
+        "cases": 8848414,
+        "todayCases": 2797,
+        "deaths": 130149,
+        "todayDeaths": 40,
+        "recovered": 8251378,
+        "todayRecovered": 3428,
+        "active": 466887,
         "critical": 8944,
-        "casesPerOneMillion": 6386,
+        "casesPerOneMillion": 6388,
         "deathsPerOneMillion": 94,
         "tests": 125698525,
         "testsPerOneMillion": 90751,
         "population": 1385086067,
         "continent": "Asia",
         "oneCasePerPeople": 157,
-        "oneDeathPerPeople": 10646,
+        "oneDeathPerPeople": 10642,
         "oneTestPerPeople": 11,
-        "activePerOneMillion": 336.39,
-        "recoveredPerOneMillion": 5956,
+        "activePerOneMillion": 337.08,
+        "recoveredPerOneMillion": 5957.3,
         "criticalPerOneMillion": 6.46
     },
     {
-        "updated": 1605528060578,
+        "updated": 1605528662319,
         "country": "Indonesia",
         "cases": 470648,
         "todayCases": 3535,
@@ -2280,7 +2280,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060570,
+        "updated": 1605528662306,
         "country": "Iran",
         "cases": 775121,
         "todayCases": 13053,
@@ -2304,7 +2304,7 @@
         "criticalPerOneMillion": 67.27
     },
     {
-        "updated": 1605528060577,
+        "updated": 1605528662317,
         "country": "Iraq",
         "cases": 519152,
         "todayCases": 0,
@@ -2328,7 +2328,7 @@
         "criticalPerOneMillion": 8.8
     },
     {
-        "updated": 1605528060645,
+        "updated": 1605528662392,
         "country": "Ireland",
         "cases": 67903,
         "todayCases": 0,
@@ -2352,7 +2352,7 @@
         "criticalPerOneMillion": 6.05
     },
     {
-        "updated": 1605528060769,
+        "updated": 1605528662513,
         "country": "Isle of Man",
         "cases": 363,
         "todayCases": 0,
@@ -2376,7 +2376,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060589,
+        "updated": 1605528662332,
         "country": "Israel",
         "cases": 324293,
         "todayCases": 552,
@@ -2400,7 +2400,7 @@
         "criticalPerOneMillion": 34.14
     },
     {
-        "updated": 1605528060565,
+        "updated": 1605528662301,
         "country": "Italy",
         "cases": 1178529,
         "todayCases": 0,
@@ -2424,7 +2424,7 @@
         "criticalPerOneMillion": 56.63
     },
     {
-        "updated": 1605528060694,
+        "updated": 1605528662441,
         "country": "Jamaica",
         "cases": 9884,
         "todayCases": 0,
@@ -2448,7 +2448,7 @@
         "criticalPerOneMillion": 2.02
     },
     {
-        "updated": 1605528060615,
+        "updated": 1605528662363,
         "country": "Japan",
         "cases": 116677,
         "todayCases": 0,
@@ -2472,7 +2472,7 @@
         "criticalPerOneMillion": 1.92
     },
     {
-        "updated": 1605528060604,
+        "updated": 1605528662352,
         "country": "Jordan",
         "cases": 143678,
         "todayCases": 0,
@@ -2496,7 +2496,7 @@
         "criticalPerOneMillion": 43.65
     },
     {
-        "updated": 1605528060610,
+        "updated": 1605528662359,
         "country": "Kazakhstan",
         "cases": 121051,
         "todayCases": 588,
@@ -2520,7 +2520,7 @@
         "criticalPerOneMillion": 11.72
     },
     {
-        "updated": 1605528060642,
+        "updated": 1605528662390,
         "country": "Kenya",
         "cases": 70245,
         "todayCases": 0,
@@ -2544,7 +2544,7 @@
         "criticalPerOneMillion": 1.09
     },
     {
-        "updated": 1605528060606,
+        "updated": 1605528662354,
         "country": "Kuwait",
         "cases": 137329,
         "todayCases": 489,
@@ -2568,7 +2568,7 @@
         "criticalPerOneMillion": 26.78
     },
     {
-        "updated": 1605528060647,
+        "updated": 1605528662395,
         "country": "Kyrgyzstan",
         "cases": 66983,
         "todayCases": 479,
@@ -2592,7 +2592,7 @@
         "criticalPerOneMillion": 19.5
     },
     {
-        "updated": 1605528060791,
+        "updated": 1605528662533,
         "country": "Lao People's Democratic Republic",
         "cases": 24,
         "todayCases": 0,
@@ -2616,7 +2616,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060693,
+        "updated": 1605528662440,
         "country": "Latvia",
         "cases": 10636,
         "todayCases": 89,
@@ -2640,7 +2640,7 @@
         "criticalPerOneMillion": 9.05
     },
     {
-        "updated": 1605528060619,
+        "updated": 1605528662368,
         "country": "Lebanon",
         "cases": 105430,
         "todayCases": 0,
@@ -2664,7 +2664,7 @@
         "criticalPerOneMillion": 46.08
     },
     {
-        "updated": 1605528060740,
+        "updated": 1605528662485,
         "country": "Lesotho",
         "cases": 2041,
         "todayCases": 0,
@@ -2688,7 +2688,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060743,
+        "updated": 1605528662490,
         "country": "Liberia",
         "cases": 1507,
         "todayCases": 0,
@@ -2712,7 +2712,7 @@
         "criticalPerOneMillion": 0.39
     },
     {
-        "updated": 1605528060635,
+        "updated": 1605528662383,
         "country": "Libyan Arab Jamahiriya",
         "cases": 74324,
         "todayCases": 722,
@@ -2736,7 +2736,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060749,
+        "updated": 1605528662496,
         "country": "Liechtenstein",
         "cases": 985,
         "todayCases": 0,
@@ -2760,7 +2760,7 @@
         "criticalPerOneMillion": 314.39
     },
     {
-        "updated": 1605528060659,
+        "updated": 1605528662406,
         "country": "Lithuania",
         "cases": 35911,
         "todayCases": 1152,
@@ -2784,7 +2784,7 @@
         "criticalPerOneMillion": 32.13
     },
     {
-        "updated": 1605528060669,
+        "updated": 1605528662414,
         "country": "Luxembourg",
         "cases": 27092,
         "todayCases": 0,
@@ -2808,7 +2808,7 @@
         "criticalPerOneMillion": 73.04
     },
     {
-        "updated": 1605528060798,
+        "updated": 1605528662540,
         "country": "MS Zaandam",
         "cases": 9,
         "todayCases": 0,
@@ -2832,7 +2832,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060785,
+        "updated": 1605528662528,
         "country": "Macao",
         "cases": 46,
         "todayCases": 0,
@@ -2856,7 +2856,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060656,
+        "updated": 1605528662403,
         "country": "Macedonia",
         "cases": 47050,
         "todayCases": 0,
@@ -2880,7 +2880,7 @@
         "criticalPerOneMillion": 66.24
     },
     {
-        "updated": 1605528060673,
+        "updated": 1605528662418,
         "country": "Madagascar",
         "cases": 17310,
         "todayCases": 0,
@@ -2904,7 +2904,7 @@
         "criticalPerOneMillion": 0.57
     },
     {
-        "updated": 1605528060713,
+        "updated": 1605528662458,
         "country": "Malawi",
         "cases": 5965,
         "todayCases": 0,
@@ -2928,7 +2928,7 @@
         "criticalPerOneMillion": 0.21
     },
     {
-        "updated": 1605528060655,
+        "updated": 1605528662402,
         "country": "Malaysia",
         "cases": 48520,
         "todayCases": 1103,
@@ -2952,7 +2952,7 @@
         "criticalPerOneMillion": 3.14
     },
     {
-        "updated": 1605528060686,
+        "updated": 1605528662433,
         "country": "Maldives",
         "cases": 12204,
         "todayCases": 0,
@@ -2976,7 +2976,7 @@
         "criticalPerOneMillion": 22.06
     },
     {
-        "updated": 1605528060730,
+        "updated": 1605528662476,
         "country": "Mali",
         "cases": 3900,
         "todayCases": 0,
@@ -3000,7 +3000,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060702,
+        "updated": 1605528662448,
         "country": "Malta",
         "cases": 8137,
         "todayCases": 103,
@@ -3024,7 +3024,7 @@
         "criticalPerOneMillion": 29.41
     },
     {
-        "updated": 1605528060800,
+        "updated": 1605528662542,
         "country": "Marshall Islands",
         "cases": 1,
         "todayCases": 0,
@@ -3048,7 +3048,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060726,
+        "updated": 1605528662472,
         "country": "Martinique",
         "cases": 4732,
         "todayCases": 0,
@@ -3072,7 +3072,7 @@
         "criticalPerOneMillion": 42.65
     },
     {
-        "updated": 1605528060704,
+        "updated": 1605528662450,
         "country": "Mauritania",
         "cases": 7952,
         "todayCases": 0,
@@ -3096,7 +3096,7 @@
         "criticalPerOneMillion": 0.85
     },
     {
-        "updated": 1605528060766,
+        "updated": 1605528662510,
         "country": "Mauritius",
         "cases": 478,
         "todayCases": 0,
@@ -3120,7 +3120,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060723,
+        "updated": 1605528662468,
         "country": "Mayotte",
         "cases": 4921,
         "todayCases": 0,
@@ -3144,7 +3144,7 @@
         "criticalPerOneMillion": 18.17
     },
     {
-        "updated": 1605528060567,
+        "updated": 1605528662302,
         "country": "Mexico",
         "cases": 1006522,
         "todayCases": 3269,
@@ -3168,7 +3168,7 @@
         "criticalPerOneMillion": 22.72
     },
     {
-        "updated": 1605528060626,
+        "updated": 1605528662374,
         "country": "Moldova",
         "cases": 89279,
         "todayCases": 0,
@@ -3192,7 +3192,7 @@
         "criticalPerOneMillion": 62.52
     },
     {
-        "updated": 1605528060761,
+        "updated": 1605528662507,
         "country": "Monaco",
         "cases": 548,
         "todayCases": 0,
@@ -3216,7 +3216,7 @@
         "criticalPerOneMillion": 127.07
     },
     {
-        "updated": 1605528060767,
+        "updated": 1605528662511,
         "country": "Mongolia",
         "cases": 431,
         "todayCases": 3,
@@ -3240,7 +3240,7 @@
         "criticalPerOneMillion": 0.61
     },
     {
-        "updated": 1605528060667,
+        "updated": 1605528662413,
         "country": "Montenegro",
         "cases": 27177,
         "todayCases": 0,
@@ -3264,7 +3264,7 @@
         "criticalPerOneMillion": 49.36
     },
     {
-        "updated": 1605528060796,
+        "updated": 1605528662538,
         "country": "Montserrat",
         "cases": 13,
         "todayCases": 0,
@@ -3288,7 +3288,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060592,
+        "updated": 1605528662334,
         "country": "Morocco",
         "cases": 293177,
         "todayCases": 0,
@@ -3312,7 +3312,7 @@
         "criticalPerOneMillion": 28.35
     },
     {
-        "updated": 1605528060680,
+        "updated": 1605528662427,
         "country": "Mozambique",
         "cases": 14448,
         "todayCases": 0,
@@ -3336,7 +3336,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060644,
+        "updated": 1605528662391,
         "country": "Myanmar",
         "cases": 68994,
         "todayCases": 0,
@@ -3360,7 +3360,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060683,
+        "updated": 1605528662430,
         "country": "Namibia",
         "cases": 13508,
         "todayCases": 0,
@@ -3384,7 +3384,7 @@
         "criticalPerOneMillion": 2.35
     },
     {
-        "updated": 1605528060595,
+        "updated": 1605528662343,
         "country": "Nepal",
         "cases": 210973,
         "todayCases": 1197,
@@ -3408,7 +3408,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060581,
+        "updated": 1605528662323,
         "country": "Netherlands",
         "cases": 447871,
         "todayCases": 0,
@@ -3432,7 +3432,7 @@
         "criticalPerOneMillion": 35.22
     },
     {
-        "updated": 1605528060788,
+        "updated": 1605528662531,
         "country": "New Caledonia",
         "cases": 30,
         "todayCases": 0,
@@ -3456,7 +3456,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060741,
+        "updated": 1605528662488,
         "country": "New Zealand",
         "cases": 2001,
         "todayCases": 0,
@@ -3480,7 +3480,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060715,
+        "updated": 1605528662460,
         "country": "Nicaragua",
         "cases": 5661,
         "todayCases": 0,
@@ -3504,7 +3504,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060745,
+        "updated": 1605528662492,
         "country": "Niger",
         "cases": 1307,
         "todayCases": 0,
@@ -3528,7 +3528,7 @@
         "criticalPerOneMillion": 0.37
     },
     {
-        "updated": 1605528060648,
+        "updated": 1605528662396,
         "country": "Nigeria",
         "cases": 65148,
         "todayCases": 0,
@@ -3552,7 +3552,7 @@
         "criticalPerOneMillion": 0.05
     },
     {
-        "updated": 1605528060660,
+        "updated": 1605528662407,
         "country": "Norway",
         "cases": 28966,
         "todayCases": 0,
@@ -3576,7 +3576,7 @@
         "criticalPerOneMillion": 5.89
     },
     {
-        "updated": 1605528060612,
+        "updated": 1605528662360,
         "country": "Oman",
         "cases": 120718,
         "todayCases": 329,
@@ -3600,7 +3600,7 @@
         "criticalPerOneMillion": 27.16
     },
     {
-        "updated": 1605528060587,
+        "updated": 1605528662329,
         "country": "Pakistan",
         "cases": 359032,
         "todayCases": 2128,
@@ -3624,7 +3624,7 @@
         "criticalPerOneMillion": 6.2
     },
     {
-        "updated": 1605528060649,
+        "updated": 1605528662397,
         "country": "Palestine",
         "cases": 63031,
         "todayCases": 0,
@@ -3648,7 +3648,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060602,
+        "updated": 1605528662351,
         "country": "Panama",
         "cases": 146653,
         "todayCases": 0,
@@ -3672,7 +3672,7 @@
         "criticalPerOneMillion": 35.25
     },
     {
-        "updated": 1605528060758,
+        "updated": 1605528662504,
         "country": "Papua New Guinea",
         "cases": 602,
         "todayCases": 0,
@@ -3696,7 +3696,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060639,
+        "updated": 1605528662388,
         "country": "Paraguay",
         "cases": 71574,
         "todayCases": 0,
@@ -3720,7 +3720,7 @@
         "criticalPerOneMillion": 14.93
     },
     {
-        "updated": 1605528060568,
+        "updated": 1605528662303,
         "country": "Peru",
         "cases": 937011,
         "todayCases": 0,
@@ -3744,7 +3744,7 @@
         "criticalPerOneMillion": 30.08
     },
     {
-        "updated": 1605528060584,
+        "updated": 1605528662327,
         "country": "Philippines",
         "cases": 409574,
         "todayCases": 1738,
@@ -3768,7 +3768,7 @@
         "criticalPerOneMillion": 13.21
     },
     {
-        "updated": 1605528060573,
+        "updated": 1605528662309,
         "country": "Poland",
         "cases": 733788,
         "todayCases": 20816,
@@ -3792,7 +3792,7 @@
         "criticalPerOneMillion": 55.59
     },
     {
-        "updated": 1605528060594,
+        "updated": 1605528662342,
         "country": "Portugal",
         "cases": 217301,
         "todayCases": 0,
@@ -3816,7 +3816,7 @@
         "criticalPerOneMillion": 40.74
     },
     {
-        "updated": 1605528060607,
+        "updated": 1605528662355,
         "country": "Qatar",
         "cases": 135785,
         "todayCases": 0,
@@ -3840,7 +3840,7 @@
         "criticalPerOneMillion": 13.18
     },
     {
-        "updated": 1605528060586,
+        "updated": 1605528662328,
         "country": "Romania",
         "cases": 365212,
         "todayCases": 4931,
@@ -3864,7 +3864,7 @@
         "criticalPerOneMillion": 61.86
     },
     {
-        "updated": 1605528060559,
+        "updated": 1605528662288,
         "country": "Russia",
         "cases": 1948603,
         "todayCases": 22778,
@@ -3888,7 +3888,7 @@
         "criticalPerOneMillion": 15.76
     },
     {
-        "updated": 1605528060719,
+        "updated": 1605528662464,
         "country": "Rwanda",
         "cases": 5455,
         "todayCases": 0,
@@ -3912,7 +3912,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060709,
+        "updated": 1605528662454,
         "country": "R\u00e9union",
         "cases": 6881,
         "todayCases": 0,
@@ -3936,7 +3936,7 @@
         "criticalPerOneMillion": 23.39
     },
     {
-        "updated": 1605528060661,
+        "updated": 1605528662409,
         "country": "S. Korea",
         "cases": 28769,
         "todayCases": 223,
@@ -3960,7 +3960,7 @@
         "criticalPerOneMillion": 1.07
     },
     {
-        "updated": 1605528060792,
+        "updated": 1605528662534,
         "country": "Saint Kitts and Nevis",
         "cases": 19,
         "todayCases": 0,
@@ -3984,7 +3984,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060775,
+        "updated": 1605528662519,
         "country": "Saint Lucia",
         "cases": 162,
         "todayCases": 0,
@@ -4008,7 +4008,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060755,
+        "updated": 1605528662502,
         "country": "Saint Martin",
         "cases": 655,
         "todayCases": 0,
@@ -4032,7 +4032,7 @@
         "criticalPerOneMillion": 102.8
     },
     {
-        "updated": 1605528060793,
+        "updated": 1605528662536,
         "country": "Saint Pierre Miquelon",
         "cases": 16,
         "todayCases": 0,
@@ -4056,7 +4056,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060782,
+        "updated": 1605528662525,
         "country": "Saint Vincent and the Grenadines",
         "cases": 78,
         "todayCases": 0,
@@ -4080,7 +4080,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060747,
+        "updated": 1605528662494,
         "country": "San Marino",
         "cases": 1253,
         "todayCases": 0,
@@ -4104,7 +4104,7 @@
         "criticalPerOneMillion": 88.34
     },
     {
-        "updated": 1605528060750,
+        "updated": 1605528662497,
         "country": "Sao Tome and Principe",
         "cases": 965,
         "todayCases": 0,
@@ -4128,7 +4128,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060588,
+        "updated": 1605528662330,
         "country": "Saudi Arabia",
         "cases": 353255,
         "todayCases": 0,
@@ -4152,7 +4152,7 @@
         "criticalPerOneMillion": 23.13
     },
     {
-        "updated": 1605528060678,
+        "updated": 1605528662425,
         "country": "Senegal",
         "cases": 15801,
         "todayCases": 8,
@@ -4176,7 +4176,7 @@
         "criticalPerOneMillion": 0.18
     },
     {
-        "updated": 1605528060631,
+        "updated": 1605528662379,
         "country": "Serbia",
         "cases": 84568,
         "todayCases": 0,
@@ -4200,7 +4200,7 @@
         "criticalPerOneMillion": 18.8
     },
     {
-        "updated": 1605528060777,
+        "updated": 1605528662521,
         "country": "Seychelles",
         "cases": 160,
         "todayCases": 0,
@@ -4224,7 +4224,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060738,
+        "updated": 1605528662483,
         "country": "Sierra Leone",
         "cases": 2391,
         "todayCases": 0,
@@ -4248,7 +4248,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060651,
+        "updated": 1605528662399,
         "country": "Singapore",
         "cases": 58124,
         "todayCases": 5,
@@ -4272,7 +4272,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060751,
+        "updated": 1605528662498,
         "country": "Sint Maarten",
         "cases": 933,
         "todayCases": 0,
@@ -4296,7 +4296,7 @@
         "criticalPerOneMillion": 139.35
     },
     {
-        "updated": 1605528060627,
+        "updated": 1605528662375,
         "country": "Slovakia",
         "cases": 87276,
         "todayCases": 509,
@@ -4320,7 +4320,7 @@
         "criticalPerOneMillion": 39.92
     },
     {
-        "updated": 1605528060653,
+        "updated": 1605528662400,
         "country": "Slovenia",
         "cases": 55543,
         "todayCases": 501,
@@ -4344,7 +4344,7 @@
         "criticalPerOneMillion": 99.56
     },
     {
-        "updated": 1605528060794,
+        "updated": 1605528662537,
         "country": "Solomon Islands",
         "cases": 16,
         "todayCases": 0,
@@ -4368,7 +4368,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060728,
+        "updated": 1605528662474,
         "country": "Somalia",
         "cases": 4301,
         "todayCases": 0,
@@ -4392,7 +4392,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060571,
+        "updated": 1605528662308,
         "country": "South Africa",
         "cases": 751024,
         "todayCases": 0,
@@ -4416,7 +4416,7 @@
         "criticalPerOneMillion": 9.16
     },
     {
-        "updated": 1605528060733,
+        "updated": 1605528662479,
         "country": "South Sudan",
         "cases": 3003,
         "todayCases": 0,
@@ -4440,7 +4440,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060561,
+        "updated": 1605528662290,
         "country": "Spain",
         "cases": 1492608,
         "todayCases": 0,
@@ -4464,7 +4464,7 @@
         "criticalPerOneMillion": 66.83
     },
     {
-        "updated": 1605528060674,
+        "updated": 1605528662421,
         "country": "Sri Lanka",
         "cases": 17287,
         "todayCases": 0,
@@ -4488,7 +4488,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060781,
+        "updated": 1605528662524,
         "country": "St. Barth",
         "cases": 109,
         "todayCases": 0,
@@ -4512,7 +4512,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060679,
+        "updated": 1605528662426,
         "country": "Sudan",
         "cases": 14626,
         "todayCases": 0,
@@ -4536,7 +4536,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060720,
+        "updated": 1605528662465,
         "country": "Suriname",
         "cases": 5274,
         "todayCases": 0,
@@ -4560,7 +4560,7 @@
         "criticalPerOneMillion": 8.49
     },
     {
-        "updated": 1605528060711,
+        "updated": 1605528662456,
         "country": "Swaziland",
         "cases": 6095,
         "todayCases": 0,
@@ -4584,7 +4584,7 @@
         "criticalPerOneMillion": 9.44
     },
     {
-        "updated": 1605528060599,
+        "updated": 1605528662346,
         "country": "Sweden",
         "cases": 177355,
         "todayCases": 0,
@@ -4608,7 +4608,7 @@
         "criticalPerOneMillion": 14.72
     },
     {
-        "updated": 1605528060593,
+        "updated": 1605528662335,
         "country": "Switzerland",
         "cases": 269974,
         "todayCases": 12839,
@@ -4632,7 +4632,7 @@
         "criticalPerOneMillion": 55.43
     },
     {
-        "updated": 1605528060710,
+        "updated": 1605528662455,
         "country": "Syrian Arab Republic",
         "cases": 6684,
         "todayCases": 0,
@@ -4656,7 +4656,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060757,
+        "updated": 1605528662503,
         "country": "Taiwan",
         "cases": 603,
         "todayCases": 1,
@@ -4680,7 +4680,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060691,
+        "updated": 1605528662438,
         "country": "Tajikistan",
         "cases": 11610,
         "todayCases": 0,
@@ -4704,7 +4704,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060762,
+        "updated": 1605528662508,
         "country": "Tanzania",
         "cases": 509,
         "todayCases": 0,
@@ -4728,7 +4728,7 @@
         "criticalPerOneMillion": 0.12
     },
     {
-        "updated": 1605528060731,
+        "updated": 1605528662477,
         "country": "Thailand",
         "cases": 3875,
         "todayCases": 1,
@@ -4752,7 +4752,7 @@
         "criticalPerOneMillion": 0.01
     },
     {
-        "updated": 1605528060789,
+        "updated": 1605528662531,
         "country": "Timor-Leste",
         "cases": 30,
         "todayCases": 0,
@@ -4776,7 +4776,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060735,
+        "updated": 1605528662481,
         "country": "Togo",
         "cases": 2675,
         "todayCases": 0,
@@ -4800,7 +4800,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060712,
+        "updated": 1605528662457,
         "country": "Trinidad and Tobago",
         "cases": 6080,
         "todayCases": 0,
@@ -4824,7 +4824,7 @@
         "criticalPerOneMillion": 2.14
     },
     {
-        "updated": 1605528060633,
+        "updated": 1605528662381,
         "country": "Tunisia",
         "cases": 80404,
         "todayCases": 0,
@@ -4848,7 +4848,7 @@
         "criticalPerOneMillion": 23.77
     },
     {
-        "updated": 1605528060583,
+        "updated": 1605528662325,
         "country": "Turkey",
         "cases": 414278,
         "todayCases": 0,
@@ -4872,7 +4872,7 @@
         "criticalPerOneMillion": 40.61
     },
     {
-        "updated": 1605528060753,
+        "updated": 1605528662500,
         "country": "Turks and Caicos Islands",
         "cases": 720,
         "todayCases": 0,
@@ -4896,7 +4896,7 @@
         "criticalPerOneMillion": 25.7
     },
     {
-        "updated": 1605528060600,
+        "updated": 1605528662348,
         "country": "UAE",
         "cases": 151554,
         "todayCases": 1209,
@@ -4920,7 +4920,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060562,
+        "updated": 1605528662292,
         "country": "UK",
         "cases": 1369318,
         "todayCases": 0,
@@ -4944,7 +4944,7 @@
         "criticalPerOneMillion": 19.92
     },
     {
-        "updated": 1605528060553,
+        "updated": 1605528662283,
         "country": "USA",
         "cases": 11367214,
         "todayCases": 0,
@@ -4968,7 +4968,7 @@
         "criticalPerOneMillion": 62.41
     },
     {
-        "updated": 1605528060677,
+        "updated": 1605528662424,
         "country": "Uganda",
         "cases": 16020,
         "todayCases": 0,
@@ -4992,7 +4992,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060574,
+        "updated": 1605528662311,
         "country": "Ukraine",
         "cases": 545689,
         "todayCases": 9832,
@@ -5016,7 +5016,7 @@
         "criticalPerOneMillion": 4.06
     },
     {
-        "updated": 1605528060729,
+        "updated": 1605528662475,
         "country": "Uruguay",
         "cases": 4030,
         "todayCases": 0,
@@ -5040,7 +5040,7 @@
         "criticalPerOneMillion": 2.87
     },
     {
-        "updated": 1605528060641,
+        "updated": 1605528662389,
         "country": "Uzbekistan",
         "cases": 70299,
         "todayCases": 118,
@@ -5064,7 +5064,7 @@
         "criticalPerOneMillion": 7.43
     },
     {
-        "updated": 1605528060801,
+        "updated": 1605528662543,
         "country": "Vanuatu",
         "cases": 1,
         "todayCases": 0,
@@ -5088,7 +5088,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060625,
+        "updated": 1605528662373,
         "country": "Venezuela",
         "cases": 97352,
         "todayCases": 0,
@@ -5112,15 +5112,15 @@
         "criticalPerOneMillion": 4.12
     },
     {
-        "updated": 1605528060746,
+        "updated": 1605528662493,
         "country": "Vietnam",
-        "cases": 1281,
-        "todayCases": 0,
+        "cases": 1283,
+        "todayCases": 2,
         "deaths": 35,
         "todayDeaths": 0,
-        "recovered": 1103,
-        "todayRecovered": 0,
-        "active": 143,
+        "recovered": 1124,
+        "todayRecovered": 21,
+        "active": 124,
         "critical": 0,
         "casesPerOneMillion": 13,
         "deathsPerOneMillion": 0.4,
@@ -5128,15 +5128,15 @@
         "testsPerOneMillion": 13715,
         "population": 97666909,
         "continent": "Asia",
-        "oneCasePerPeople": 76243,
+        "oneCasePerPeople": 76124,
         "oneDeathPerPeople": 2790483,
         "oneTestPerPeople": 73,
-        "activePerOneMillion": 1.46,
-        "recoveredPerOneMillion": 11.29,
+        "activePerOneMillion": 1.27,
+        "recoveredPerOneMillion": 11.51,
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060802,
+        "updated": 1605528662544,
         "country": "Wallis and Futuna",
         "cases": 1,
         "todayCases": 0,
@@ -5160,7 +5160,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060797,
+        "updated": 1605528662539,
         "country": "Western Sahara",
         "cases": 10,
         "todayCases": 0,
@@ -5184,7 +5184,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060739,
+        "updated": 1605528662484,
         "country": "Yemen",
         "cases": 2072,
         "todayCases": 0,
@@ -5208,7 +5208,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060675,
+        "updated": 1605528662422,
         "country": "Zambia",
         "cases": 17123,
         "todayCases": 0,
@@ -5232,7 +5232,7 @@
         "criticalPerOneMillion": 0
     },
     {
-        "updated": 1605528060698,
+        "updated": 1605528662445,
         "country": "Zimbabwe",
         "cases": 8829,
         "todayCases": 0,
